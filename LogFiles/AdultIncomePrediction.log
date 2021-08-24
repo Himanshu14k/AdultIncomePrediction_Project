@@ -1969,3 +1969,70 @@
 24-08-2021 12:39:28,INFO,User Input and some necessary variables with value are created!
 24-08-2021 12:39:28,INFO,Feature Encoding Started.
 24-08-2021 12:39:28,INFO,Feature Encoding Completed
+24-08-2021 12:45:12,INFO,Requested Method : POST
+24-08-2021 12:45:12,INFO,Ready to take User Input.
+24-08-2021 12:45:12,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:45:12,INFO,Feature Encoding Started.
+24-08-2021 12:45:12,INFO,Feature Encoding Completed
+24-08-2021 12:45:12,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:45:12,INFO,Range checking process is going to start now.
+24-08-2021 12:45:12,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:45:12,INFO,Done range Checking of Numerical user input
+24-08-2021 12:45:12,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: unsupported operand type(s) for +: 'bool' and 'str'
+24-08-2021 12:45:12,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 12:45:18,INFO,Requested Method : POST
+24-08-2021 12:45:18,INFO,Ready to take User Input.
+24-08-2021 12:45:18,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:45:18,INFO,Feature Encoding Started.
+24-08-2021 12:45:18,INFO,Feature Encoding Completed
+24-08-2021 12:45:18,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:45:18,INFO,Range checking process is going to start now.
+24-08-2021 12:45:18,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:45:18,INFO,Done range Checking of Numerical user input
+24-08-2021 12:45:18,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: unsupported operand type(s) for +: 'bool' and 'str'
+24-08-2021 12:45:18,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 12:46:00,INFO,Requested Method : POST
+24-08-2021 12:46:00,INFO,Ready to take User Input.
+24-08-2021 12:46:00,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:46:00,INFO,Feature Encoding Started.
+24-08-2021 12:46:00,INFO,Feature Encoding Completed
+24-08-2021 12:46:00,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:46:00,INFO,Range checking process is going to start now.
+24-08-2021 12:46:00,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:46:00,INFO,Done range Checking of Numerical user input
+24-08-2021 12:46:17,INFO,Requested Method : POST
+24-08-2021 12:46:17,INFO,Ready to take User Input.
+24-08-2021 12:46:17,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:46:17,INFO,Feature Encoding Started.
+24-08-2021 12:46:17,INFO,Feature Encoding Completed
+24-08-2021 12:46:17,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:46:17,INFO,Range checking process is going to start now.
+24-08-2021 12:46:17,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:46:17,INFO,Done range Checking of Numerical user input
+24-08-2021 12:47:30,INFO,Requested Method : POST
+24-08-2021 12:47:30,INFO,Ready to take User Input.
+24-08-2021 12:47:30,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:47:30,INFO,Feature Encoding Started.
+24-08-2021 12:47:30,INFO,Feature Encoding Completed
+24-08-2021 12:47:30,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:47:30,INFO,Range checking process is going to start now.
+24-08-2021 12:47:30,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:47:30,INFO,Done range Checking of Numerical user input
+24-08-2021 12:47:40,INFO,Requested Method : POST
+24-08-2021 12:47:40,INFO,Ready to take User Input.
+24-08-2021 12:47:40,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:47:40,INFO,Feature Encoding Started.
+24-08-2021 12:47:40,INFO,Feature Encoding Completed
+24-08-2021 12:47:40,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:47:40,INFO,Range checking process is going to start now.
+24-08-2021 12:47:40,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:47:40,INFO,Done range Checking of Numerical user input
+24-08-2021 12:48:53,INFO,Requested Method : POST
+24-08-2021 12:48:53,INFO,Ready to take User Input.
+24-08-2021 12:48:53,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:48:53,INFO,Feature Encoding Started.
+24-08-2021 12:48:53,INFO,Feature Encoding Completed
+24-08-2021 12:48:53,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:48:53,INFO,Range checking process is going to start now.
+24-08-2021 12:48:53,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:48:53,INFO,Done range Checking of Numerical user input

@@ -27,12 +27,14 @@ def home():
                 encode = FeatureTransform(logging, file_obj)
                 logging.log('INFO', 'User Input and some necessary variables with value are created!')
                 result = encode.feature_Encoding()
-                return render_template('index.html', form=form, value1=result)
+                
                 if result:
                     logging.log('INFO',
                                 'Exited from feature_Encoding function in FeatureTransform after successful encoding ')
                     logging.log('INFO', 'Range checking process is going to start now.')
                     flag, msg = encode.input_Limit()
+                    return render_template('index.html', form=form, value1="flag is : {}. msg is : {}".format(flag, msg))
+
                     if flag != False:
                         logging.log('INFO', 'Feature Scaling Process are going to start now.')
                         scale = FeatureScaling(result, logging, file_obj)

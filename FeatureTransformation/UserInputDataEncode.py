@@ -140,7 +140,7 @@ class FeatureTransform:
                 msg = "".join((msg, temp))
 
             self.logger_obj.log('INFO', 'Done range Checking of Numerical user input')
-            return (flag, msg)
+            return flag, msg
         except Exception as e:
             self.logger_obj.log('INFO' "Here Some Exception Occurred!  Exception Message: "+str(e))
             self.logger_obj.log('INFO', "Process to check the range of User Input value Unsuccessful. Exited the input_Limit method of the FeatureTransform class")
