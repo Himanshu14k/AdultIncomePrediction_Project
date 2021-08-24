@@ -1,5 +1,6 @@
 from joblib import load
 from pandas import DataFrame
+import pickle 
 
 class FeatureScaling:
     def __init__(self, user_input, logger_obj, file_obj):
@@ -36,7 +37,7 @@ class FeatureScaling:
         try:
             self.logger_obj.log("INFO", 'Feature Scaling process started')
             self.X = DataFrame(self.X)
-            sc = load("scale.pickle")
+            sc = pickle.load(open("FeatureTransformation/scale.pickle", "rb"))
             self.X.iloc[:, 1:] = sc.transform(self.X.iloc[:, 1:])
             self.logger_obj.log("INFO", 'Feature scaling process successfully executed!')
             return self.X

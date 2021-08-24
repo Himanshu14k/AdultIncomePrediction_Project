@@ -2253,3 +2253,558 @@ Reshape your data either using array.reshape(-1, 1) if your data has a single fe
 24-08-2021 13:23:55,INFO,Features assigned in different variables.
 24-08-2021 13:23:55,INFO,Feature Scaling process started
 24-08-2021 13:23:56,INFO,Feature scaling process successfully executed!
+24-08-2021 13:28:11,INFO,Requested Method : POST
+24-08-2021 13:28:11,INFO,Ready to take User Input.
+24-08-2021 13:28:11,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:11,INFO,Feature Encoding Started.
+24-08-2021 13:28:11,INFO,Feature Encoding Completed
+24-08-2021 13:28:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:11,INFO,Range checking process is going to start now.
+24-08-2021 13:28:11,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:11,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:11,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:11,INFO,Different user input value assign process started
+24-08-2021 13:28:11,INFO,stated done
+24-08-2021 13:28:11,INFO,Different user input value assign process Finished
+24-08-2021 13:28:11,INFO,Features assigned in different variables.
+24-08-2021 13:28:11,INFO,Feature Scaling process started
+24-08-2021 13:28:11,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:11,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:12,INFO,Requested Method : POST
+24-08-2021 13:28:12,INFO,Ready to take User Input.
+24-08-2021 13:28:12,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:12,INFO,Feature Encoding Started.
+24-08-2021 13:28:12,INFO,Feature Encoding Completed
+24-08-2021 13:28:12,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:12,INFO,Range checking process is going to start now.
+24-08-2021 13:28:12,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:12,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:12,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:12,INFO,Different user input value assign process started
+24-08-2021 13:28:12,INFO,stated done
+24-08-2021 13:28:12,INFO,Different user input value assign process Finished
+24-08-2021 13:28:12,INFO,Features assigned in different variables.
+24-08-2021 13:28:12,INFO,Feature Scaling process started
+24-08-2021 13:28:12,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:12,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:13,INFO,Requested Method : POST
+24-08-2021 13:28:13,INFO,Ready to take User Input.
+24-08-2021 13:28:13,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:13,INFO,Feature Encoding Started.
+24-08-2021 13:28:13,INFO,Feature Encoding Completed
+24-08-2021 13:28:13,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:13,INFO,Range checking process is going to start now.
+24-08-2021 13:28:13,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:13,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:13,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:13,INFO,Different user input value assign process started
+24-08-2021 13:28:13,INFO,stated done
+24-08-2021 13:28:13,INFO,Different user input value assign process Finished
+24-08-2021 13:28:13,INFO,Features assigned in different variables.
+24-08-2021 13:28:13,INFO,Feature Scaling process started
+24-08-2021 13:28:13,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:13,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:13,INFO,Requested Method : POST
+24-08-2021 13:28:13,INFO,Ready to take User Input.
+24-08-2021 13:28:13,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:13,INFO,Feature Encoding Started.
+24-08-2021 13:28:13,INFO,Feature Encoding Completed
+24-08-2021 13:28:13,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:13,INFO,Range checking process is going to start now.
+24-08-2021 13:28:13,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:13,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:13,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:13,INFO,Different user input value assign process started
+24-08-2021 13:28:13,INFO,stated done
+24-08-2021 13:28:13,INFO,Different user input value assign process Finished
+24-08-2021 13:28:13,INFO,Features assigned in different variables.
+24-08-2021 13:28:13,INFO,Feature Scaling process started
+24-08-2021 13:28:13,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:13,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:31,INFO,Requested Method : POST
+24-08-2021 13:28:31,INFO,Ready to take User Input.
+24-08-2021 13:28:31,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:31,INFO,Feature Encoding Started.
+24-08-2021 13:28:31,INFO,Feature Encoding Completed
+24-08-2021 13:28:31,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:31,INFO,Range checking process is going to start now.
+24-08-2021 13:28:31,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:31,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:31,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:31,INFO,Different user input value assign process started
+24-08-2021 13:28:31,INFO,stated done
+24-08-2021 13:28:31,INFO,Different user input value assign process Finished
+24-08-2021 13:28:31,INFO,Features assigned in different variables.
+24-08-2021 13:28:31,INFO,Feature Scaling process started
+24-08-2021 13:28:31,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:31,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:31,INFO,Requested Method : POST
+24-08-2021 13:28:31,INFO,Ready to take User Input.
+24-08-2021 13:28:31,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:31,INFO,Feature Encoding Started.
+24-08-2021 13:28:31,INFO,Feature Encoding Completed
+24-08-2021 13:28:31,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:31,INFO,Range checking process is going to start now.
+24-08-2021 13:28:31,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:31,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:31,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:31,INFO,Different user input value assign process started
+24-08-2021 13:28:31,INFO,stated done
+24-08-2021 13:28:31,INFO,Different user input value assign process Finished
+24-08-2021 13:28:31,INFO,Features assigned in different variables.
+24-08-2021 13:28:31,INFO,Feature Scaling process started
+24-08-2021 13:28:31,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:31,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:32,INFO,Requested Method : POST
+24-08-2021 13:28:32,INFO,Ready to take User Input.
+24-08-2021 13:28:32,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:32,INFO,Feature Encoding Started.
+24-08-2021 13:28:32,INFO,Feature Encoding Completed
+24-08-2021 13:28:32,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:32,INFO,Range checking process is going to start now.
+24-08-2021 13:28:32,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:32,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:32,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:32,INFO,Different user input value assign process started
+24-08-2021 13:28:32,INFO,stated done
+24-08-2021 13:28:32,INFO,Different user input value assign process Finished
+24-08-2021 13:28:32,INFO,Features assigned in different variables.
+24-08-2021 13:28:32,INFO,Feature Scaling process started
+24-08-2021 13:28:32,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:32,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:28:32,INFO,Requested Method : POST
+24-08-2021 13:28:32,INFO,Ready to take User Input.
+24-08-2021 13:28:32,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:28:32,INFO,Feature Encoding Started.
+24-08-2021 13:28:32,INFO,Feature Encoding Completed
+24-08-2021 13:28:32,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:28:32,INFO,Range checking process is going to start now.
+24-08-2021 13:28:32,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:28:32,INFO,Done range Checking of Numerical user input
+24-08-2021 13:28:32,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:28:32,INFO,Different user input value assign process started
+24-08-2021 13:28:32,INFO,stated done
+24-08-2021 13:28:32,INFO,Different user input value assign process Finished
+24-08-2021 13:28:32,INFO,Features assigned in different variables.
+24-08-2021 13:28:32,INFO,Feature Scaling process started
+24-08-2021 13:28:32,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:28:32,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:32:34,INFO,Requested Method : POST
+24-08-2021 13:32:34,INFO,Ready to take User Input.
+24-08-2021 13:32:34,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:32:34,INFO,Feature Encoding Started.
+24-08-2021 13:32:34,INFO,Feature Encoding Completed
+24-08-2021 13:32:34,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:32:34,INFO,Range checking process is going to start now.
+24-08-2021 13:32:34,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:32:34,INFO,Done range Checking of Numerical user input
+24-08-2021 13:32:34,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:32:34,INFO,Different user input value assign process started
+24-08-2021 13:32:34,INFO,stated done
+24-08-2021 13:32:34,INFO,Different user input value assign process Finished
+24-08-2021 13:32:34,INFO,Features assigned in different variables.
+24-08-2021 13:32:34,INFO,Feature Scaling process started
+24-08-2021 13:32:34,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:32:34,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:32:35,INFO,Requested Method : POST
+24-08-2021 13:32:35,INFO,Ready to take User Input.
+24-08-2021 13:32:35,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:32:35,INFO,Feature Encoding Started.
+24-08-2021 13:32:35,INFO,Feature Encoding Completed
+24-08-2021 13:32:35,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:32:35,INFO,Range checking process is going to start now.
+24-08-2021 13:32:35,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:32:35,INFO,Done range Checking of Numerical user input
+24-08-2021 13:32:35,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:32:35,INFO,Different user input value assign process started
+24-08-2021 13:32:35,INFO,stated done
+24-08-2021 13:32:35,INFO,Different user input value assign process Finished
+24-08-2021 13:32:35,INFO,Features assigned in different variables.
+24-08-2021 13:32:35,INFO,Feature Scaling process started
+24-08-2021 13:32:35,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:32:35,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:32:35,INFO,Requested Method : POST
+24-08-2021 13:32:35,INFO,Ready to take User Input.
+24-08-2021 13:32:35,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:32:35,INFO,Feature Encoding Started.
+24-08-2021 13:32:35,INFO,Feature Encoding Completed
+24-08-2021 13:32:35,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:32:35,INFO,Range checking process is going to start now.
+24-08-2021 13:32:35,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:32:35,INFO,Done range Checking of Numerical user input
+24-08-2021 13:32:35,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:32:35,INFO,Different user input value assign process started
+24-08-2021 13:32:35,INFO,stated done
+24-08-2021 13:32:35,INFO,Different user input value assign process Finished
+24-08-2021 13:32:35,INFO,Features assigned in different variables.
+24-08-2021 13:32:35,INFO,Feature Scaling process started
+24-08-2021 13:32:35,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:32:35,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:32:35,INFO,Requested Method : POST
+24-08-2021 13:32:35,INFO,Ready to take User Input.
+24-08-2021 13:32:35,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:32:35,INFO,Feature Encoding Started.
+24-08-2021 13:32:35,INFO,Feature Encoding Completed
+24-08-2021 13:32:35,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:32:35,INFO,Range checking process is going to start now.
+24-08-2021 13:32:35,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:32:35,INFO,Done range Checking of Numerical user input
+24-08-2021 13:32:35,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:32:35,INFO,Different user input value assign process started
+24-08-2021 13:32:35,INFO,stated done
+24-08-2021 13:32:35,INFO,Different user input value assign process Finished
+24-08-2021 13:32:35,INFO,Features assigned in different variables.
+24-08-2021 13:32:35,INFO,Feature Scaling process started
+24-08-2021 13:32:35,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:32:35,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:32:39,INFO,Requested Method : POST
+24-08-2021 13:32:39,INFO,Ready to take User Input.
+24-08-2021 13:32:39,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:32:39,INFO,Feature Encoding Started.
+24-08-2021 13:32:39,INFO,Feature Encoding Completed
+24-08-2021 13:32:39,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:32:39,INFO,Range checking process is going to start now.
+24-08-2021 13:32:39,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:32:39,INFO,Done range Checking of Numerical user input
+24-08-2021 13:32:39,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:32:39,INFO,Different user input value assign process started
+24-08-2021 13:32:39,INFO,stated done
+24-08-2021 13:32:39,INFO,Different user input value assign process Finished
+24-08-2021 13:32:39,INFO,Features assigned in different variables.
+24-08-2021 13:32:39,INFO,Feature Scaling process started
+24-08-2021 13:32:39,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:32:39,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:10,INFO,Requested Method : POST
+24-08-2021 13:41:10,INFO,Ready to take User Input.
+24-08-2021 13:41:10,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:10,INFO,Feature Encoding Started.
+24-08-2021 13:41:10,INFO,Feature Encoding Completed
+24-08-2021 13:41:10,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:10,INFO,Range checking process is going to start now.
+24-08-2021 13:41:10,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:10,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:10,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:10,INFO,Different user input value assign process started
+24-08-2021 13:41:10,INFO,stated done
+24-08-2021 13:41:10,INFO,Different user input value assign process Finished
+24-08-2021 13:41:10,INFO,Features assigned in different variables.
+24-08-2021 13:41:10,INFO,Feature Scaling process started
+24-08-2021 13:41:10,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:10,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:10,INFO,Requested Method : POST
+24-08-2021 13:41:10,INFO,Ready to take User Input.
+24-08-2021 13:41:10,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:10,INFO,Feature Encoding Started.
+24-08-2021 13:41:10,INFO,Feature Encoding Completed
+24-08-2021 13:41:10,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:10,INFO,Range checking process is going to start now.
+24-08-2021 13:41:10,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:10,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:10,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:10,INFO,Different user input value assign process started
+24-08-2021 13:41:10,INFO,stated done
+24-08-2021 13:41:10,INFO,Different user input value assign process Finished
+24-08-2021 13:41:10,INFO,Features assigned in different variables.
+24-08-2021 13:41:10,INFO,Feature Scaling process started
+24-08-2021 13:41:10,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:10,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:11,INFO,Requested Method : POST
+24-08-2021 13:41:11,INFO,Ready to take User Input.
+24-08-2021 13:41:11,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:11,INFO,Feature Encoding Started.
+24-08-2021 13:41:11,INFO,Feature Encoding Completed
+24-08-2021 13:41:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:11,INFO,Range checking process is going to start now.
+24-08-2021 13:41:11,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:11,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:11,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:11,INFO,Different user input value assign process started
+24-08-2021 13:41:11,INFO,stated done
+24-08-2021 13:41:11,INFO,Different user input value assign process Finished
+24-08-2021 13:41:11,INFO,Features assigned in different variables.
+24-08-2021 13:41:11,INFO,Feature Scaling process started
+24-08-2021 13:41:11,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:11,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:11,INFO,Requested Method : POST
+24-08-2021 13:41:11,INFO,Ready to take User Input.
+24-08-2021 13:41:11,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:11,INFO,Feature Encoding Started.
+24-08-2021 13:41:11,INFO,Feature Encoding Completed
+24-08-2021 13:41:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:11,INFO,Range checking process is going to start now.
+24-08-2021 13:41:11,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:11,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:11,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:11,INFO,Different user input value assign process started
+24-08-2021 13:41:11,INFO,stated done
+24-08-2021 13:41:11,INFO,Different user input value assign process Finished
+24-08-2021 13:41:11,INFO,Features assigned in different variables.
+24-08-2021 13:41:11,INFO,Feature Scaling process started
+24-08-2021 13:41:11,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:11,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:11,INFO,Requested Method : POST
+24-08-2021 13:41:11,INFO,Ready to take User Input.
+24-08-2021 13:41:11,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:11,INFO,Feature Encoding Started.
+24-08-2021 13:41:11,INFO,Feature Encoding Completed
+24-08-2021 13:41:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:11,INFO,Range checking process is going to start now.
+24-08-2021 13:41:11,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:11,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:11,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:11,INFO,Different user input value assign process started
+24-08-2021 13:41:11,INFO,stated done
+24-08-2021 13:41:11,INFO,Different user input value assign process Finished
+24-08-2021 13:41:11,INFO,Features assigned in different variables.
+24-08-2021 13:41:11,INFO,Feature Scaling process started
+24-08-2021 13:41:11,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:11,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:12,INFO,Requested Method : POST
+24-08-2021 13:41:12,INFO,Ready to take User Input.
+24-08-2021 13:41:12,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:12,INFO,Feature Encoding Started.
+24-08-2021 13:41:12,INFO,Feature Encoding Completed
+24-08-2021 13:41:12,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:12,INFO,Range checking process is going to start now.
+24-08-2021 13:41:12,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:12,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:12,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:12,INFO,Different user input value assign process started
+24-08-2021 13:41:12,INFO,stated done
+24-08-2021 13:41:12,INFO,Different user input value assign process Finished
+24-08-2021 13:41:12,INFO,Features assigned in different variables.
+24-08-2021 13:41:12,INFO,Feature Scaling process started
+24-08-2021 13:41:12,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:12,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:12,INFO,Requested Method : POST
+24-08-2021 13:41:12,INFO,Ready to take User Input.
+24-08-2021 13:41:12,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:12,INFO,Feature Encoding Started.
+24-08-2021 13:41:12,INFO,Feature Encoding Completed
+24-08-2021 13:41:12,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:12,INFO,Range checking process is going to start now.
+24-08-2021 13:41:12,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:12,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:12,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:12,INFO,Different user input value assign process started
+24-08-2021 13:41:12,INFO,stated done
+24-08-2021 13:41:12,INFO,Different user input value assign process Finished
+24-08-2021 13:41:12,INFO,Features assigned in different variables.
+24-08-2021 13:41:12,INFO,Feature Scaling process started
+24-08-2021 13:41:12,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:12,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:38,INFO,Requested Method : POST
+24-08-2021 13:41:38,INFO,Ready to take User Input.
+24-08-2021 13:41:38,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:41:38,INFO,Feature Encoding Started.
+24-08-2021 13:41:38,INFO,Feature Encoding Completed
+24-08-2021 13:41:38,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:41:38,INFO,Range checking process is going to start now.
+24-08-2021 13:41:38,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:41:38,INFO,Done range Checking of Numerical user input
+24-08-2021 13:41:38,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:41:38,INFO,Different user input value assign process started
+24-08-2021 13:41:38,INFO,stated done
+24-08-2021 13:41:38,INFO,Different user input value assign process Finished
+24-08-2021 13:41:38,INFO,Features assigned in different variables.
+24-08-2021 13:41:38,INFO,Feature Scaling process started
+24-08-2021 13:41:38,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:41:38,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:41:38,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:41:38,INFO,Model.pickle file Reading.....
+24-08-2021 13:41:38,INFO,Model successfully loaded!
+24-08-2021 13:41:38,INFO,Prediction Started.
+24-08-2021 13:41:38,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:41:38,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 13:49:11,INFO,Requested Method : POST
+24-08-2021 13:49:11,INFO,Ready to take User Input.
+24-08-2021 13:49:11,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:49:11,INFO,Feature Encoding Started.
+24-08-2021 13:49:11,INFO,Feature Encoding Completed
+24-08-2021 13:49:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:49:11,INFO,Range checking process is going to start now.
+24-08-2021 13:49:11,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:49:11,INFO,Done range Checking of Numerical user input
+24-08-2021 13:49:11,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:49:11,INFO,Different user input value assign process started
+24-08-2021 13:49:11,INFO,stated done
+24-08-2021 13:49:11,INFO,Different user input value assign process Finished
+24-08-2021 13:49:11,INFO,Features assigned in different variables.
+24-08-2021 13:49:11,INFO,Feature Scaling process started
+24-08-2021 13:49:11,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:49:11,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:49:11,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:49:11,INFO,Model.pickle file Reading.....
+24-08-2021 13:49:12,INFO,Model successfully loaded!
+24-08-2021 13:49:12,INFO,Prediction Started.
+24-08-2021 13:49:12,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:49:12,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 13:57:10,INFO,Requested Method : POST
+24-08-2021 13:57:10,INFO,Ready to take User Input.
+24-08-2021 13:57:10,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:57:10,INFO,Feature Encoding Started.
+24-08-2021 13:57:10,INFO,Feature Encoding Completed
+24-08-2021 13:57:10,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:57:10,INFO,Range checking process is going to start now.
+24-08-2021 13:57:10,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:57:10,INFO,Done range Checking of Numerical user input
+24-08-2021 13:57:10,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:57:10,INFO,Different user input value assign process started
+24-08-2021 13:57:10,INFO,stated done
+24-08-2021 13:57:10,INFO,Different user input value assign process Finished
+24-08-2021 13:57:10,INFO,Features assigned in different variables.
+24-08-2021 13:57:10,INFO,Feature Scaling process started
+24-08-2021 13:57:10,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:57:10,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:57:10,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:57:10,INFO,Model.pickle file Reading.....
+24-08-2021 13:57:10,INFO,Model successfully loaded!
+24-08-2021 13:57:10,INFO,Prediction Started.
+24-08-2021 13:57:10,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:57:10,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 13:58:25,INFO,Requested Method : POST
+24-08-2021 13:58:25,INFO,Ready to take User Input.
+24-08-2021 13:58:25,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:58:25,INFO,Feature Encoding Started.
+24-08-2021 13:58:25,INFO,Feature Encoding Completed
+24-08-2021 13:58:25,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:58:25,INFO,Range checking process is going to start now.
+24-08-2021 13:58:25,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:58:25,INFO,Done range Checking of Numerical user input
+24-08-2021 13:58:25,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:58:25,INFO,Different user input value assign process started
+24-08-2021 13:58:25,INFO,stated done
+24-08-2021 13:58:25,INFO,Different user input value assign process Finished
+24-08-2021 13:58:25,INFO,Features assigned in different variables.
+24-08-2021 13:58:25,INFO,Feature Scaling process started
+24-08-2021 13:58:25,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: 'scale.pickle'
+24-08-2021 13:58:25,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:58:25,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:58:25,INFO,Model.pickle file Reading.....
+24-08-2021 13:58:25,INFO,Model successfully loaded!
+24-08-2021 13:58:25,INFO,Prediction Started.
+24-08-2021 13:58:25,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:58:25,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 14:04:41,INFO,Requested Method : POST
+24-08-2021 14:04:41,INFO,Ready to take User Input.
+24-08-2021 14:04:41,INFO,User Input and some necessary variables with value are created!
+24-08-2021 14:04:41,INFO,Feature Encoding Started.
+24-08-2021 14:04:41,INFO,Feature Encoding Completed
+24-08-2021 14:04:41,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 14:04:41,INFO,Range checking process is going to start now.
+24-08-2021 14:04:41,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 14:04:41,INFO,Done range Checking of Numerical user input
+24-08-2021 14:04:41,INFO,Feature Scaling Process are going to start now.
+24-08-2021 14:04:41,INFO,Different user input value assign process started
+24-08-2021 14:04:41,INFO,stated done
+24-08-2021 14:04:41,INFO,Different user input value assign process Finished
+24-08-2021 14:04:41,INFO,Features assigned in different variables.
+24-08-2021 14:04:41,INFO,Feature Scaling process started
+24-08-2021 14:04:41,INFO,Feature scaling process successfully executed!
+24-08-2021 14:04:41,INFO,Successfully exited from Features Scaling Function
+24-08-2021 14:04:41,INFO,Model.pickle file Reading.....
+24-08-2021 14:04:41,INFO,Model successfully loaded!
+24-08-2021 14:04:41,INFO,Prediction Started.
+24-08-2021 14:04:41,INFO,Prediction Successfully Completed!
+24-08-2021 14:04:41,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 14:04:41,INFO,Result shown on Web Page.
+24-08-2021 14:06:48,INFO,Requested Method : POST
+24-08-2021 14:06:48,INFO,Ready to take User Input.
+24-08-2021 14:06:48,INFO,User Input and some necessary variables with value are created!
+24-08-2021 14:06:48,INFO,Feature Encoding Started.
+24-08-2021 14:06:48,INFO,Feature Encoding Completed
+24-08-2021 14:06:48,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 14:06:48,INFO,Range checking process is going to start now.
+24-08-2021 14:06:48,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 14:06:48,INFO,Done range Checking of Numerical user input
+24-08-2021 14:06:48,INFO,Feature Scaling Process are going to start now.
+24-08-2021 14:06:48,INFO,Different user input value assign process started
+24-08-2021 14:06:48,INFO,stated done
+24-08-2021 14:06:48,INFO,Different user input value assign process Finished
+24-08-2021 14:06:48,INFO,Features assigned in different variables.
+24-08-2021 14:06:48,INFO,Feature Scaling process started
+24-08-2021 14:06:48,INFO,Feature scaling process successfully executed!
+24-08-2021 14:06:48,INFO,Successfully exited from Features Scaling Function
+24-08-2021 14:06:48,INFO,Model.pickle file Reading.....
+24-08-2021 14:06:48,INFO,Model successfully loaded!
+24-08-2021 14:06:48,INFO,Prediction Started.
+24-08-2021 14:06:48,INFO,Prediction Successfully Completed!
+24-08-2021 14:06:48,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 14:06:48,INFO,Result shown on Web Page.
+24-08-2021 14:06:50,INFO,Requested Method : POST
+24-08-2021 14:06:50,INFO,Ready to take User Input.
+24-08-2021 14:06:50,INFO,User Input and some necessary variables with value are created!
+24-08-2021 14:06:50,INFO,Feature Encoding Started.
+24-08-2021 14:06:50,INFO,Feature Encoding Completed
+24-08-2021 14:06:50,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 14:06:50,INFO,Range checking process is going to start now.
+24-08-2021 14:06:50,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 14:06:50,INFO,Done range Checking of Numerical user input
+24-08-2021 14:06:50,INFO,Feature Scaling Process are going to start now.
+24-08-2021 14:06:50,INFO,Different user input value assign process started
+24-08-2021 14:06:50,INFO,stated done
+24-08-2021 14:06:50,INFO,Different user input value assign process Finished
+24-08-2021 14:06:50,INFO,Features assigned in different variables.
+24-08-2021 14:06:50,INFO,Feature Scaling process started
+24-08-2021 14:06:50,INFO,Feature scaling process successfully executed!
+24-08-2021 14:06:50,INFO,Successfully exited from Features Scaling Function
+24-08-2021 14:06:50,INFO,Model.pickle file Reading.....
+24-08-2021 14:06:50,INFO,Model successfully loaded!
+24-08-2021 14:06:50,INFO,Prediction Started.
+24-08-2021 14:06:50,INFO,Prediction Successfully Completed!
+24-08-2021 14:06:50,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 14:06:50,INFO,Result shown on Web Page.
+24-08-2021 14:06:51,INFO,Requested Method : POST
+24-08-2021 14:06:51,INFO,Ready to take User Input.
+24-08-2021 14:06:51,INFO,User Input and some necessary variables with value are created!
+24-08-2021 14:06:51,INFO,Feature Encoding Started.
+24-08-2021 14:06:51,INFO,Feature Encoding Completed
+24-08-2021 14:06:51,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 14:06:51,INFO,Range checking process is going to start now.
+24-08-2021 14:06:51,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 14:06:51,INFO,Done range Checking of Numerical user input
+24-08-2021 14:06:51,INFO,Feature Scaling Process are going to start now.
+24-08-2021 14:06:51,INFO,Different user input value assign process started
+24-08-2021 14:06:51,INFO,stated done
+24-08-2021 14:06:51,INFO,Different user input value assign process Finished
+24-08-2021 14:06:51,INFO,Features assigned in different variables.
+24-08-2021 14:06:51,INFO,Feature Scaling process started
+24-08-2021 14:06:51,INFO,Feature scaling process successfully executed!
+24-08-2021 14:06:51,INFO,Successfully exited from Features Scaling Function
+24-08-2021 14:06:51,INFO,Model.pickle file Reading.....
+24-08-2021 14:06:51,INFO,Model successfully loaded!
+24-08-2021 14:06:51,INFO,Prediction Started.
+24-08-2021 14:06:51,INFO,Prediction Successfully Completed!
+24-08-2021 14:06:51,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 14:06:51,INFO,Result shown on Web Page.
+24-08-2021 14:09:05,INFO,Requested Method : POST
+24-08-2021 14:09:05,INFO,Ready to take User Input.
+24-08-2021 14:09:05,INFO,User Input and some necessary variables with value are created!
+24-08-2021 14:09:05,INFO,Feature Encoding Started.
+24-08-2021 14:09:05,INFO,Feature Encoding Completed
+24-08-2021 14:09:05,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 14:09:05,INFO,Range checking process is going to start now.
+24-08-2021 14:09:05,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 14:09:05,INFO,Done range Checking of Numerical user input
+24-08-2021 14:09:05,INFO,Feature Scaling Process are going to start now.
+24-08-2021 14:09:05,INFO,Different user input value assign process started
+24-08-2021 14:09:05,INFO,stated done
+24-08-2021 14:09:05,INFO,Different user input value assign process Finished
+24-08-2021 14:09:05,INFO,Features assigned in different variables.
+24-08-2021 14:09:05,INFO,Feature Scaling process started
+24-08-2021 14:09:05,INFO,Feature scaling process successfully executed!
+24-08-2021 14:09:05,INFO,Successfully exited from Features Scaling Function
+24-08-2021 14:09:05,INFO,Model.pickle file Reading.....
+24-08-2021 14:09:05,INFO,Model successfully loaded!
+24-08-2021 14:09:05,INFO,Prediction Started.
+24-08-2021 14:09:05,INFO,Prediction Successfully Completed!
+24-08-2021 14:09:05,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 14:09:05,INFO,Result shown on Web Page.
