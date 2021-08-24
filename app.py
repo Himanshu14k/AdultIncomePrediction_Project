@@ -26,6 +26,7 @@ def home():
                 return render_template('index.html', form=form, value1="Executed")
                 logging.log('INFO', 'Ready to take User Input.')
                 encode = FeatureTransform(logging, file_obj)
+                return render_template('index.html', form=form, value1="Executed")
                 logging.log('INFO', 'User Input and some necessary variables with value are created!')
                 result = encode.feature_Encoding()
                 if result:
