@@ -43,6 +43,7 @@ def home():
                         model = load("Models/finalized_model.pickle")
                         logging.log('INFO', 'Model successfully loaded!')
                         logging.log('INFO', 'Prediction Started.')
+                        return render_template('index.html', form=form, value1=result_lis)
                         res = model.predict(result_lis)
                         return render_template('index.html', form=form, value1="ExecutedX")
                         logging.log('INFO', 'Prediction Successfully Completed!')
