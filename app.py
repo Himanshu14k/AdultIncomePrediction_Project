@@ -39,7 +39,6 @@ def home():
                         scale = FeatureScaling(result, logging, file_obj)
                         logging.log('INFO', 'Features assigned in different variables.')
                         result_lis = scale.Scaling()
-                        return render_template('index.html', form=form, value1=result_lis)
 
                         logging.log('INFO', 'Successfully exited from Features Scaling Function')
 
