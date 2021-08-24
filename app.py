@@ -37,11 +37,11 @@ def home():
                         scale = FeatureScaling(result, logging, file_obj)
                         logging.log('INFO', 'Features assigned in different variables.')
                         result_lis = scale.Scaling()
-                        return render_template('index.html', form=form, value1="ExecutedP")
                         logging.log('INFO', 'Successfully exited from Features Scaling Function')
 
                         logging.log('INFO', 'Model.pickle file Reading.....')
                         model = load("Models/finalized_model.pickle")
+                        return render_template('index.html', form=form, value1="ExecutedW")
                         logging.log('INFO', 'Model successfully loaded!')
                         logging.log('INFO', 'Prediction Started.')
                         res = model.predict(result_lis)
