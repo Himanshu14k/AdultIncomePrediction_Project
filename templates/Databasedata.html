@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab - youtube.com/codinglabyt -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title> PREDICTION </title>
+    <link rel="stylesheet" href="../static/DatabaseStyle.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <div class="container" style ="max-height: 600px; overflow: auto;">
+    <div class="title" style="text-align: center; border-bottom: 5px solid;">DATA IN DATABASE</div>
+    <div class="content">
+      <form class ="Scroller" action="" method="post">
+        <div class="user-details">
+
+          <table class="table">
+            <tr class="table_header">
+              {% for column in heading %}
+                  <th class="table_cell"> {{ column }} </th>
+              {% endfor %}
+            </tr>
+
+            {% for row in data %}
+            <tr class="table_row">
+              {% for cell in row %}
+                  <td class="table_cell"> {{ cell }} </td>
+              {% endfor %}
+            </tr >
+            {% endfor %}
+          </table>
+
+        </div>
+      </form>
+      <footer class="button"><p>Created by Himanshu and Jaideep © 2021</p></footer>
+    </div>
+  </div>
+
+</body>
+</html>

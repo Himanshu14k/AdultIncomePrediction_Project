@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab - youtube.com/codinglabyt -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title> PREDICTION </title>
+    <link href="../static/style.css" rel="stylesheet" >
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <div class="container">
+    <div class="title">ADULT CENSUS INCOME PREDICTION</div>
+    <div class="content">
+      <form action="" method="post">
+        <div class="user-details">
+
+
+          <div class="input-box">
+            <span class="details">{{ form.Education.label }}</span>
+            <p>{{ form.Education()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Age.label }}</span>
+            <p>{{ form.Age()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Workclass.label }} </span>
+            <p>{{ form.Workclass()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Final_Weight.label }}</span>
+            <p>{{ form.Final_Weight()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Occupation.label }}</span>
+            <p>{{ form.Occupation()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Capital_Loss.label }}</span>
+            <p>{{ form.Capital_Loss()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Relationship.label }}</span>
+            <p>{{ form.Relationship()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Capital_Gain.label }}</span>
+            <p>{{ form.Capital_Gain()}} </p>
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">{{ form.Martial_Status.label }}</span>
+            <p>{{ form.Martial_Status()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Sex.label }}</span>
+            <p>{{ form.Sex()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Race.label }}</span>
+            <p>{{ form.Race()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Hours_Per_Week.label }}</span>
+            <p>{{ form.Hours_Per_Week()}} </p>
+          </div>
+
+          <div class="input-box">
+            <span class="details">{{ form.Country.label }}</span>
+            <p>{{ form.Country()}} </p>
+          </div>
+
+
+        </div>
+
+        <div class="input-box">
+            <span class="details">OUTPUT</span>
+            <p> {{ value1 }}</p>
+        </div>
+
+        <div class="button">
+          <p> {{ form.submit()}} </p>
+        </div>
+      </form>
+        <footer class="button"><p>Created by Himanshu and Jaideep © 2021</p></footer>
+    </div>
+  </div>
+
+
+
+</body>
+</html>

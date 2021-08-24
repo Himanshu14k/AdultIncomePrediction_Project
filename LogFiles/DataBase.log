@@ -1,0 +1,396 @@
+19-08-2021 21:23:53,INFO,Authentication of Database Started.
+19-08-2021 21:23:53,INFO,Database Authenticated Successfully.
+19-08-2021 21:23:53,INFO,Creating Cluster.
+19-08-2021 21:24:16,INFO,Cluster Created Successfully!
+19-08-2021 21:24:16,INFO,Using AdultCensusPrediction
+19-08-2021 21:24:16,INFO,Some Exception Occurred during table creation in database. Exception is : Error from server: code=2200 [Invalid query] message="Keyspace 'adultcensusprediction' does not exist"
+19-08-2021 21:24:16,INFO,Insertion Process Started.
+19-08-2021 21:24:16,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+19-08-2021 21:27:08,INFO,Authentication of Database Started.
+19-08-2021 21:27:08,INFO,Database Authenticated Successfully.
+19-08-2021 21:27:08,INFO,Creating Cluster.
+19-08-2021 21:27:47,INFO,Cluster Created Successfully!
+19-08-2021 21:27:47,INFO,Using AdultCensusPrediction
+19-08-2021 21:27:47,INFO,Some Exception Occurred during table creation in database. Exception is : Error from server: code=2200 [Invalid query] message="Keyspace 'adultcensusprediction' does not exist"
+19-08-2021 21:27:47,INFO,Insertion Process Started.
+19-08-2021 21:27:47,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+20-08-2021 02:19:08,INFO,Authentication of Database Started.
+20-08-2021 02:19:08,INFO,Database Authenticated Successfully.
+20-08-2021 02:19:08,INFO,Creating Cluster.
+20-08-2021 02:19:19,INFO,Cluster Created Successfully!
+20-08-2021 02:19:19,INFO,Using AdultCensusPrediction
+20-08-2021 02:19:20,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 02:19:22,INFO,Table Created Successfully!
+20-08-2021 02:19:22,INFO,Insertion Process Started.
+20-08-2021 02:19:22,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+20-08-2021 02:23:00,INFO,Authentication of Database Started.
+20-08-2021 02:23:00,INFO,Database Authenticated Successfully.
+20-08-2021 02:23:00,INFO,Creating Cluster.
+20-08-2021 02:23:13,INFO,Cluster Created Successfully!
+20-08-2021 02:23:13,INFO,Using AdultCensusPrediction
+20-08-2021 02:23:14,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 02:23:14,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 02:23:14,INFO,Insertion Process Started.
+20-08-2021 02:23:14,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+20-08-2021 02:30:45,INFO,Authentication of Database Started.
+20-08-2021 02:30:45,INFO,Database Authenticated Successfully.
+20-08-2021 02:30:45,INFO,Creating Cluster.
+20-08-2021 02:30:58,INFO,Cluster Created Successfully!
+20-08-2021 02:30:58,INFO,Process to show data from Database Started.
+20-08-2021 02:30:59,INFO,Data Successfully stored in tuples. 
+20-08-2021 02:31:15,INFO,Authentication of Database Started.
+20-08-2021 02:31:15,INFO,Database Authenticated Successfully.
+20-08-2021 02:31:15,INFO,Creating Cluster.
+20-08-2021 02:31:27,INFO,Cluster Created Successfully!
+20-08-2021 02:31:27,INFO,Process to show data from Database Started.
+20-08-2021 02:31:28,INFO,Data Successfully stored in tuples. 
+20-08-2021 02:32:22,INFO,Authentication of Database Started.
+20-08-2021 02:32:22,INFO,Database Authenticated Successfully.
+20-08-2021 02:32:22,INFO,Creating Cluster.
+20-08-2021 02:32:36,INFO,Cluster Created Successfully!
+20-08-2021 02:32:36,INFO,Process to show data from Database Started.
+20-08-2021 02:32:37,INFO,Data Successfully stored in tuples. 
+20-08-2021 02:41:07,INFO,Authentication of Database Started.
+20-08-2021 02:41:07,INFO,Database Authenticated Successfully.
+20-08-2021 02:41:07,INFO,Creating Cluster.
+20-08-2021 02:41:19,INFO,Cluster Created Successfully!
+20-08-2021 02:41:19,INFO,Process to show data from Database Started.
+20-08-2021 02:41:19,INFO,Data Successfully stored in tuples. 
+20-08-2021 02:41:31,INFO,Authentication of Database Started.
+20-08-2021 02:41:31,INFO,Database Authenticated Successfully.
+20-08-2021 02:41:31,INFO,Creating Cluster.
+20-08-2021 02:41:51,INFO,Cluster Created Successfully!
+20-08-2021 02:41:51,INFO,Process to show data from Database Started.
+20-08-2021 02:41:52,INFO,Data Successfully stored in tuples. 
+20-08-2021 02:42:47,INFO,Authentication of Database Started.
+20-08-2021 02:42:47,INFO,Database Authenticated Successfully.
+20-08-2021 02:42:47,INFO,Creating Cluster.
+20-08-2021 02:43:01,INFO,Cluster Created Successfully!
+20-08-2021 02:43:01,INFO,Using AdultCensusPrediction
+20-08-2021 02:43:02,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 02:43:02,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 02:43:02,INFO,Insertion Process Started.
+20-08-2021 02:43:02,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+20-08-2021 02:46:57,INFO,Authentication of Database Started.
+20-08-2021 02:46:57,INFO,Database Authenticated Successfully.
+20-08-2021 02:46:57,INFO,Creating Cluster.
+20-08-2021 02:47:09,INFO,Cluster Created Successfully!
+20-08-2021 02:47:09,INFO,Using AdultCensusPrediction
+20-08-2021 02:47:10,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 02:47:10,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 02:47:10,INFO,Insertion Process Started.
+20-08-2021 02:47:10,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+20-08-2021 02:57:28,INFO,Authentication of Database Started.
+20-08-2021 02:57:28,INFO,Database Authenticated Successfully.
+20-08-2021 02:57:28,INFO,Creating Cluster.
+20-08-2021 02:57:45,INFO,Cluster Created Successfully!
+20-08-2021 02:57:45,INFO,Using AdultCensusPrediction
+20-08-2021 02:57:46,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 02:57:46,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 02:57:46,INFO,Insertion Process Started.
+20-08-2021 02:57:46,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'WorkClass'
+20-08-2021 03:01:10,INFO,Authentication of Database Started.
+20-08-2021 03:01:10,INFO,Database Authenticated Successfully.
+20-08-2021 03:01:10,INFO,Creating Cluster.
+20-08-2021 03:01:22,INFO,Cluster Created Successfully!
+20-08-2021 03:01:22,INFO,Using AdultCensusPrediction
+20-08-2021 03:01:23,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:01:23,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:01:23,INFO,Insertion Process Started.
+20-08-2021 03:01:24,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:03:54,INFO,Authentication of Database Started.
+20-08-2021 03:03:54,INFO,Database Authenticated Successfully.
+20-08-2021 03:03:54,INFO,Creating Cluster.
+20-08-2021 03:04:06,INFO,Cluster Created Successfully!
+20-08-2021 03:04:06,INFO,Using AdultCensusPrediction
+20-08-2021 03:04:07,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:04:07,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:04:07,INFO,Insertion Process Started.
+20-08-2021 03:04:07,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:09:49,INFO,Authentication of Database Started.
+20-08-2021 03:09:49,INFO,Database Authenticated Successfully.
+20-08-2021 03:09:49,INFO,Creating Cluster.
+20-08-2021 03:10:12,INFO,Cluster Created Successfully!
+20-08-2021 03:10:12,INFO,Process to show data from Database Started.
+20-08-2021 03:10:13,INFO,Data Successfully stored in tuples. 
+20-08-2021 03:11:42,INFO,Authentication of Database Started.
+20-08-2021 03:11:42,INFO,Database Authenticated Successfully.
+20-08-2021 03:11:42,INFO,Creating Cluster.
+20-08-2021 03:12:11,INFO,Exception Occurred during Database Authentication. Exception is : ('Unable to connect to any servers', {'d47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:2b33da20-31f2-4c9b-888c-464016ed6a0e': OperationTimedOut('errors=None, last_host=None'), 'd47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:a84c3b0b-1d5a-4f8d-b488-184e21ba6441': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None'), 'd47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:c74fe60a-6229-4dd8-9c74-0028c5cb6e53': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None')})
+20-08-2021 03:12:11,INFO,Using AdultCensusPrediction
+20-08-2021 03:12:11,INFO,Some Exception Occurred during table creation in database. Exception is : 'CassandraDB' object has no attribute 'session'
+20-08-2021 03:12:11,INFO,Insertion Process Started.
+20-08-2021 03:12:11,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'CassandraDB' object has no attribute 'session'
+20-08-2021 03:13:30,INFO,Authentication of Database Started.
+20-08-2021 03:13:30,INFO,Database Authenticated Successfully.
+20-08-2021 03:13:30,INFO,Creating Cluster.
+20-08-2021 03:14:05,INFO,Cluster Created Successfully!
+20-08-2021 03:14:05,INFO,Using AdultCensusPrediction
+20-08-2021 03:14:06,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:14:06,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:14:06,INFO,Insertion Process Started.
+20-08-2021 03:14:07,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:16:01,INFO,Authentication of Database Started.
+20-08-2021 03:16:01,INFO,Database Authenticated Successfully.
+20-08-2021 03:16:01,INFO,Creating Cluster.
+20-08-2021 03:16:21,INFO,Exception Occurred during Database Authentication. Exception is : ('Unable to connect to any servers', {'d47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:2b33da20-31f2-4c9b-888c-464016ed6a0e': OperationTimedOut('errors=None, last_host=None'), 'd47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:c74fe60a-6229-4dd8-9c74-0028c5cb6e53': OperationTimedOut('errors=None, last_host=None'), 'd47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:a84c3b0b-1d5a-4f8d-b488-184e21ba6441': OperationTimedOut('errors=None, last_host=None')})
+20-08-2021 03:16:21,INFO,Using AdultCensusPrediction
+20-08-2021 03:16:21,INFO,Some Exception Occurred during table creation in database. Exception is : 'CassandraDB' object has no attribute 'session'
+20-08-2021 03:16:21,INFO,Insertion Process Started.
+20-08-2021 03:16:21,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'CassandraDB' object has no attribute 'session'
+20-08-2021 03:16:55,INFO,Authentication of Database Started.
+20-08-2021 03:16:55,INFO,Database Authenticated Successfully.
+20-08-2021 03:16:55,INFO,Creating Cluster.
+20-08-2021 03:17:12,INFO,Cluster Created Successfully!
+20-08-2021 03:17:12,INFO,Using AdultCensusPrediction
+20-08-2021 03:17:13,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:17:13,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:17:13,INFO,Insertion Process Started.
+20-08-2021 03:17:14,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:21:07,INFO,Authentication of Database Started.
+20-08-2021 03:21:07,INFO,Database Authenticated Successfully.
+20-08-2021 03:21:07,INFO,Creating Cluster.
+20-08-2021 03:21:21,INFO,Cluster Created Successfully!
+20-08-2021 03:21:21,INFO,Using AdultCensusPrediction
+20-08-2021 03:21:22,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:21:22,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:21:22,INFO,Insertion Process Started.
+20-08-2021 03:21:23,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:24:38,INFO,Authentication of Database Started.
+20-08-2021 03:24:38,INFO,Database Authenticated Successfully.
+20-08-2021 03:24:38,INFO,Creating Cluster.
+20-08-2021 03:24:52,INFO,Cluster Created Successfully!
+20-08-2021 03:24:52,INFO,Using AdultCensusPrediction
+20-08-2021 03:24:53,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:24:54,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:24:54,INFO,Insertion Process Started.
+20-08-2021 03:24:54,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:31:34,INFO,Authentication of Database Started.
+20-08-2021 03:31:34,INFO,Database Authenticated Successfully.
+20-08-2021 03:31:34,INFO,Creating Cluster.
+20-08-2021 03:31:53,INFO,Cluster Created Successfully!
+20-08-2021 03:31:53,INFO,Using AdultCensusPrediction
+20-08-2021 03:31:53,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:31:54,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:31:54,INFO,Insertion Process Started.
+20-08-2021 03:31:54,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:31:54,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f750839e040>
+20-08-2021 03:35:00,INFO,Authentication of Database Started.
+20-08-2021 03:35:00,INFO,Database Authenticated Successfully.
+20-08-2021 03:35:00,INFO,Creating Cluster.
+20-08-2021 03:35:14,INFO,Cluster Created Successfully!
+20-08-2021 03:35:14,INFO,Using AdultCensusPrediction
+20-08-2021 03:35:15,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:35:16,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:35:16,INFO,Insertion Process Started.
+20-08-2021 03:35:16,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:35:16,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fc5e5dd0580>
+20-08-2021 03:37:17,INFO,Authentication of Database Started.
+20-08-2021 03:37:17,INFO,Database Authenticated Successfully.
+20-08-2021 03:37:17,INFO,Creating Cluster.
+20-08-2021 03:37:37,INFO,Exception Occurred during Database Authentication. Exception is : ('Unable to connect to any servers', {'d47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:a84c3b0b-1d5a-4f8d-b488-184e21ba6441': OperationTimedOut('errors=None, last_host=None'), 'd47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:c74fe60a-6229-4dd8-9c74-0028c5cb6e53': OperationTimedOut('errors=None, last_host=None'), 'd47c292b-68b2-4999-acf4-61b6a36352a5-us-west-2.db.astra.datastax.com:29042:2b33da20-31f2-4c9b-888c-464016ed6a0e': OperationTimedOut('errors=None, last_host=None')})
+20-08-2021 03:37:37,INFO,Using AdultCensusPrediction
+20-08-2021 03:37:37,INFO,Some Exception Occurred during table creation in database. Exception is : 'CassandraDB' object has no attribute 'session'
+20-08-2021 03:37:37,INFO,Insertion Process Started.
+20-08-2021 03:37:37,INFO,Some Exception Occurred during Data Insertion in database. Exception is : 'CassandraDB' object has no attribute 'session'
+20-08-2021 03:37:57,INFO,Authentication of Database Started.
+20-08-2021 03:37:57,INFO,Database Authenticated Successfully.
+20-08-2021 03:37:57,INFO,Creating Cluster.
+20-08-2021 03:38:09,INFO,Cluster Created Successfully!
+20-08-2021 03:38:09,INFO,Using AdultCensusPrediction
+20-08-2021 03:38:09,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:38:10,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:38:10,INFO,Insertion Process Started.
+20-08-2021 03:38:11,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:38:11,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fdc0f1d72b0>
+20-08-2021 03:40:39,INFO,Authentication of Database Started.
+20-08-2021 03:40:39,INFO,Database Authenticated Successfully.
+20-08-2021 03:40:39,INFO,Creating Cluster.
+20-08-2021 03:41:03,INFO,Cluster Created Successfully!
+20-08-2021 03:41:03,INFO,Using AdultCensusPrediction
+20-08-2021 03:41:04,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:41:04,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:41:04,INFO,Insertion Process Started.
+20-08-2021 03:41:05,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:41:05,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fdc0d8f9c10>
+20-08-2021 03:43:59,INFO,Authentication of Database Started.
+20-08-2021 03:43:59,INFO,Database Authenticated Successfully.
+20-08-2021 03:43:59,INFO,Creating Cluster.
+20-08-2021 03:44:12,INFO,Cluster Created Successfully!
+20-08-2021 03:44:12,INFO,Using AdultCensusPrediction
+20-08-2021 03:44:13,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:44:13,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:44:13,INFO,Insertion Process Started.
+20-08-2021 03:44:14,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:44:14,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f0e75c1d250>
+20-08-2021 03:46:13,INFO,Authentication of Database Started.
+20-08-2021 03:46:13,INFO,Database Authenticated Successfully.
+20-08-2021 03:46:13,INFO,Creating Cluster.
+20-08-2021 03:46:39,INFO,Cluster Created Successfully!
+20-08-2021 03:46:39,INFO,Using AdultCensusPrediction
+20-08-2021 03:46:39,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 03:46:40,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 03:46:40,INFO,Insertion Process Started.
+20-08-2021 03:46:40,INFO,User Data inserted in Database Successfully!
+20-08-2021 03:46:40,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f734c3f0880>
+20-08-2021 03:56:23,INFO,Authentication of Database Started.
+20-08-2021 03:56:23,INFO,Database Authenticated Successfully.
+20-08-2021 03:56:23,INFO,Creating Cluster.
+20-08-2021 03:56:34,INFO,Authentication of Database Started.
+20-08-2021 03:56:34,INFO,Database Authenticated Successfully.
+20-08-2021 03:56:34,INFO,Creating Cluster.
+20-08-2021 03:56:39,INFO,Cluster Created Successfully!
+20-08-2021 03:56:39,INFO,Process to show data from Database Started.
+20-08-2021 03:56:40,INFO,Data Successfully stored in tuples. 
+20-08-2021 03:56:46,INFO,Cluster Created Successfully!
+20-08-2021 03:56:46,INFO,Process to show data from Database Started.
+20-08-2021 03:56:48,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:00:48,INFO,Authentication of Database Started.
+20-08-2021 04:00:48,INFO,Database Authenticated Successfully.
+20-08-2021 04:00:48,INFO,Creating Cluster.
+20-08-2021 04:01:01,INFO,Cluster Created Successfully!
+20-08-2021 04:01:01,INFO,Process to show data from Database Started.
+20-08-2021 04:01:02,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:06:51,INFO,Authentication of Database Started.
+20-08-2021 04:06:51,INFO,Database Authenticated Successfully.
+20-08-2021 04:06:51,INFO,Creating Cluster.
+20-08-2021 04:07:10,INFO,Cluster Created Successfully!
+20-08-2021 04:07:10,INFO,Process to show data from Database Started.
+20-08-2021 04:07:12,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:07:12,INFO,Retrived Data are : Row(id=UUID('999db916-0c06-41ee-86c2-d4a296d87495'), age=56, capital_gain=967, capital_loss=0, country=' United-States', education=' Bachelors', final_weight=354677, hours_per_week=56, martial_status=' Never-married', occupation=' Adm-clerical', race=' White', relationship=' Not-in-family', sex=' Male', workclass=' State-gov') 
+20-08-2021 04:08:46,INFO,Authentication of Database Started.
+20-08-2021 04:08:46,INFO,Database Authenticated Successfully.
+20-08-2021 04:08:46,INFO,Creating Cluster.
+20-08-2021 04:09:01,INFO,Cluster Created Successfully!
+20-08-2021 04:09:01,INFO,Process to show data from Database Started.
+20-08-2021 04:09:02,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:09:02,INFO,Retrived Data are : [(UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+20-08-2021 04:12:13,INFO,Authentication of Database Started.
+20-08-2021 04:12:13,INFO,Database Authenticated Successfully.
+20-08-2021 04:12:13,INFO,Creating Cluster.
+20-08-2021 04:12:26,INFO,Cluster Created Successfully!
+20-08-2021 04:12:26,INFO,Process to show data from Database Started.
+20-08-2021 04:12:27,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:12:27,INFO,Retrived Data are : [(UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+20-08-2021 04:16:00,INFO,Authentication of Database Started.
+20-08-2021 04:16:00,INFO,Database Authenticated Successfully.
+20-08-2021 04:16:00,INFO,Creating Cluster.
+20-08-2021 04:16:14,INFO,Cluster Created Successfully!
+20-08-2021 04:16:14,INFO,Process to show data from Database Started.
+20-08-2021 04:16:15,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:16:15,INFO,Retrived Data are : [(UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+20-08-2021 04:17:10,INFO,Authentication of Database Started.
+20-08-2021 04:17:10,INFO,Database Authenticated Successfully.
+20-08-2021 04:17:10,INFO,Creating Cluster.
+20-08-2021 04:17:31,INFO,Cluster Created Successfully!
+20-08-2021 04:17:31,INFO,Process to show data from Database Started.
+20-08-2021 04:17:32,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:17:32,INFO,Retrived Data are : [(UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+20-08-2021 04:19:04,INFO,Authentication of Database Started.
+20-08-2021 04:19:04,INFO,Database Authenticated Successfully.
+20-08-2021 04:19:04,INFO,Creating Cluster.
+20-08-2021 04:19:16,INFO,Cluster Created Successfully!
+20-08-2021 04:19:16,INFO,Process to show data from Database Started.
+20-08-2021 04:19:17,INFO,Data Successfully stored in tuples. 
+20-08-2021 04:19:17,INFO,Retrived Data are : [(UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+20-08-2021 21:19:09,INFO,Authentication of Database Started.
+20-08-2021 21:19:09,INFO,Database Authenticated Successfully.
+20-08-2021 21:19:09,INFO,Creating Cluster.
+20-08-2021 21:19:21,INFO,Cluster Created Successfully!
+20-08-2021 21:19:21,INFO,Using AdultCensusPrediction
+20-08-2021 21:19:22,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 21:19:22,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 21:19:22,INFO,Insertion Process Started.
+20-08-2021 21:19:23,INFO,User Data inserted in Database Successfully!
+20-08-2021 21:19:23,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fb798719e80>
+20-08-2021 21:23:05,INFO,Authentication of Database Started.
+20-08-2021 21:23:05,INFO,Database Authenticated Successfully.
+20-08-2021 21:23:05,INFO,Creating Cluster.
+20-08-2021 21:23:17,INFO,Cluster Created Successfully!
+20-08-2021 21:23:17,INFO,Using AdultCensusPrediction
+20-08-2021 21:23:18,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+20-08-2021 21:23:18,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+20-08-2021 21:23:18,INFO,Insertion Process Started.
+20-08-2021 21:23:19,INFO,User Data inserted in Database Successfully!
+20-08-2021 21:23:19,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fb765158700>
+20-08-2021 21:25:22,INFO,Authentication of Database Started.
+20-08-2021 21:25:22,INFO,Database Authenticated Successfully.
+20-08-2021 21:25:22,INFO,Creating Cluster.
+20-08-2021 21:25:33,INFO,Cluster Created Successfully!
+20-08-2021 21:25:33,INFO,Process to show data from Database Started.
+20-08-2021 21:25:34,INFO,Data Successfully stored in tuples. 
+20-08-2021 21:25:34,INFO,Retrived Data are : [(UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('c5e0e5f1-7281-445c-bc59-679f73baea6a'), 45, 354, 9, ' United-States', ' Bachelors', 52354, 55, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('88d91994-1496-4f68-a1ce-a1c7916a3cfc'), 450, 3540000, 9, ' United-States', ' Bachelors', 523540000, 55, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+21-08-2021 19:43:06,INFO,Authentication of Database Started.
+21-08-2021 19:43:06,INFO,Database Authenticated Successfully.
+21-08-2021 19:43:06,INFO,Creating Cluster.
+21-08-2021 19:43:26,INFO,Cluster Created Successfully!
+21-08-2021 19:43:26,INFO,Using AdultCensusPrediction
+21-08-2021 19:43:26,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+21-08-2021 19:43:27,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+21-08-2021 19:43:27,INFO,Insertion Process Started.
+21-08-2021 19:43:27,INFO,User Data inserted in Database Successfully!
+21-08-2021 19:43:27,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f1204a796a0>
+21-08-2021 19:55:35,INFO,Authentication of Database Started.
+21-08-2021 19:55:35,INFO,Database Authenticated Successfully.
+21-08-2021 19:55:35,INFO,Creating Cluster.
+21-08-2021 19:55:45,INFO,Cluster Created Successfully!
+21-08-2021 19:55:45,INFO,Process to show data from Database Started.
+21-08-2021 19:55:46,INFO,Data Successfully stored in tuples. 
+21-08-2021 19:55:46,INFO,Retrived Data are : [(UUID('54be5eb3-9395-4411-bd89-2f1aacf19457'), 45, 565, 5, ' United-States', ' Bachelors', 65565, 45, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('c5e0e5f1-7281-445c-bc59-679f73baea6a'), 45, 354, 9, ' United-States', ' Bachelors', 52354, 55, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('88d91994-1496-4f68-a1ce-a1c7916a3cfc'), 450, 3540000, 9, ' United-States', ' Bachelors', 523540000, 55, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+21-08-2021 20:39:48,INFO,Authentication of Database Started.
+21-08-2021 20:39:48,INFO,Database Authenticated Successfully.
+21-08-2021 20:39:48,INFO,Creating Cluster.
+21-08-2021 20:40:00,INFO,Cluster Created Successfully!
+21-08-2021 20:40:00,INFO,Using AdultCensusPrediction
+21-08-2021 20:40:01,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+21-08-2021 20:40:01,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+21-08-2021 20:40:01,INFO,Insertion Process Started.
+21-08-2021 20:40:01,INFO,User Data inserted in Database Successfully!
+21-08-2021 20:40:01,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fe30065db80>
+21-08-2021 20:40:43,INFO,Authentication of Database Started.
+21-08-2021 20:40:43,INFO,Database Authenticated Successfully.
+21-08-2021 20:40:43,INFO,Creating Cluster.
+21-08-2021 20:40:56,INFO,Cluster Created Successfully!
+21-08-2021 20:40:56,INFO,Process to show data from Database Started.
+21-08-2021 20:40:57,INFO,Data Successfully stored in tuples. 
+21-08-2021 20:40:57,INFO,Retrived Data are : [(UUID('54be5eb3-9395-4411-bd89-2f1aacf19457'), 45, 565, 5, ' United-States', ' Bachelors', 65565, 45, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('c722a689-10c2-4ee8-9e84-a9f6d02d309a'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('bbd4db52-00f9-4092-8ee8-fe5bb4ba63ef'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('610904ae-1eb8-4b34-b6df-f838fb39e158'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('c5e0e5f1-7281-445c-bc59-679f73baea6a'), 45, 354, 9, ' United-States', ' Bachelors', 52354, 55, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('95de4e96-0518-4587-9f73-20628d2150d6'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('fecbc09a-6028-4f48-b632-6b9a55bf2115'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('a382e2de-68ac-42c0-a2d6-abca530d5504'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('e693e671-893b-4692-a88b-dcd1fbf1fa90'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('24e101f8-d379-4c87-9f35-919315b9d67f'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('17ec3b06-782a-45be-8603-0db97d85c11d'), 56, 56577, 56, '27608', '13', 46657, 67, '9711', '3719', '25912', '7714', '0', '1279'), (UUID('405502e8-c798-4662-a8e9-61b1b38f1e69'), 60, 15024, 0, ' United-States', ' HS-grad', 287927, 40, ' Married-civ-spouse', ' Exec-managerial', ' White', ' Wife', ' Female', ' Self-emp-inc'), (UUID('58d0d9fb-7b45-4100-8173-9e82bcc7c899'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('88d91994-1496-4f68-a1ce-a1c7916a3cfc'), 450, 3540000, 9, ' United-States', ' Bachelors', 523540000, 55, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('9c14e649-fee4-4674-af8a-f8846150519b'), 55, 457, 9, ' United-States', ' Bachelors', 45567, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov'), (UUID('999db916-0c06-41ee-86c2-d4a296d87495'), 56, 967, 0, ' United-States', ' Bachelors', 354677, 56, ' Never-married', ' Adm-clerical', ' White', ' Not-in-family', ' Male', ' State-gov')] 
+21-08-2021 21:46:24,INFO,Authentication of Database Started.
+21-08-2021 21:46:24,INFO,Database Authenticated Successfully.
+21-08-2021 21:46:24,INFO,Creating Cluster.
+21-08-2021 21:46:41,INFO,Cluster Created Successfully!
+21-08-2021 21:46:41,INFO,Using AdultCensusPrediction
+21-08-2021 21:46:42,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+21-08-2021 21:46:42,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+21-08-2021 21:46:42,INFO,Insertion Process Started.
+21-08-2021 21:46:43,INFO,User Data inserted in Database Successfully!
+21-08-2021 21:46:43,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f7958ef6490>
+21-08-2021 23:01:46,INFO,Authentication of Database Started.
+21-08-2021 23:01:46,INFO,Database Authenticated Successfully.
+21-08-2021 23:01:46,INFO,Creating Cluster.
+21-08-2021 23:01:59,INFO,Cluster Created Successfully!
+21-08-2021 23:01:59,INFO,Using AdultCensusPrediction
+21-08-2021 23:01:59,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+21-08-2021 23:02:00,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+21-08-2021 23:02:00,INFO,Insertion Process Started.
+21-08-2021 23:02:00,INFO,User Data inserted in Database Successfully!
+21-08-2021 23:02:00,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f58c4273460>
+21-08-2021 23:20:15,INFO,Authentication of Database Started.
+21-08-2021 23:20:15,INFO,Database Authenticated Successfully.
+21-08-2021 23:20:15,INFO,Creating Cluster.
+21-08-2021 23:20:27,INFO,Cluster Created Successfully!
+21-08-2021 23:20:27,INFO,Using AdultCensusPrediction
+21-08-2021 23:20:27,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+21-08-2021 23:20:28,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+21-08-2021 23:20:28,INFO,Insertion Process Started.
+21-08-2021 23:20:28,INFO,User Data inserted in Database Successfully!
+21-08-2021 23:20:28,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7fb6d87c9280>
+21-08-2021 23:22:07,INFO,Authentication of Database Started.
+21-08-2021 23:22:07,INFO,Database Authenticated Successfully.
+21-08-2021 23:22:07,INFO,Creating Cluster.
+21-08-2021 23:22:18,INFO,Cluster Created Successfully!
+21-08-2021 23:22:18,INFO,Using AdultCensusPrediction
+21-08-2021 23:22:19,INFO,Creating Table "InputData" in AdultCensusPrediction Database.
+21-08-2021 23:22:19,INFO,Some Exception Occurred during table creation in database. Exception is : Table 'adultcensusprediction.userdata' already exists
+21-08-2021 23:22:19,INFO,Insertion Process Started.
+21-08-2021 23:22:20,INFO,User Data inserted in Database Successfully!
+21-08-2021 23:22:20,INFO,Inserted Data in Database are : <cassandra.cluster.ResultSet object at 0x7f6a7045e9d0>

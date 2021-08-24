@@ -1,0 +1,1955 @@
+18-08-2021 01:34:21,INFO,Method is : Get
+18-08-2021 01:43:14,INFO,Method is : Get
+18-08-2021 01:43:14,INFO,Not any process executed.
+18-08-2021 01:43:14,INFO,Showing None on Web page
+18-08-2021 01:43:58,INFO,Requested Method : POST
+18-08-2021 01:43:58,INFO,Ready to take User Input.
+18-08-2021 01:43:58,INFO,User Input and some necessary variables with value are created!
+18-08-2021 01:43:58,INFO,Feature Encoding Started.
+18-08-2021 01:43:58,INFO,Feature Encoding Completed
+18-08-2021 01:43:58,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 01:43:58,INFO,Range checking process is going to start now.
+18-08-2021 01:43:58,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 01:43:58,INFO,Done range Checking of Numerical user input
+18-08-2021 01:43:58,INFO,Feature Scaling Process are going to start now.
+18-08-2021 01:43:58,INFO,Different user input value assign process started
+18-08-2021 01:43:58,INFO,Different user input value assign process Finished
+18-08-2021 01:43:58,INFO,Features assigned in different variables.
+18-08-2021 01:43:58,INFO,Feature Scaling process started
+18-08-2021 01:43:59,INFO,Feature scaling process successfully executed!
+18-08-2021 01:43:59,INFO,Successfully exited from Features Scaling Function
+18-08-2021 01:43:59,INFO,Model.pickle file Reading.....
+18-08-2021 01:43:59,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: log() missing 1 required positional argument: 'log_msg'
+18-08-2021 01:43:59,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+18-08-2021 01:54:56,INFO,Method is : Get
+18-08-2021 01:54:56,INFO,Not any process executed.
+18-08-2021 01:54:56,INFO,Showing None on Web page
+18-08-2021 01:56:57,INFO,Method is : Get
+18-08-2021 01:56:57,INFO,Not any process executed.
+18-08-2021 01:56:57,INFO,Showing None on Web page
+18-08-2021 01:58:53,INFO,Requested Method : POST
+18-08-2021 01:58:53,INFO,Ready to take User Input.
+18-08-2021 01:58:53,INFO,User Input and some necessary variables with value are created!
+18-08-2021 01:58:53,INFO,Feature Encoding Started.
+18-08-2021 01:58:53,INFO,Feature Encoding Completed
+18-08-2021 01:58:53,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 01:58:53,INFO,Range checking process is going to start now.
+18-08-2021 01:58:53,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 01:58:53,INFO,Done range Checking of Numerical user input
+18-08-2021 01:58:53,INFO,Feature Scaling Process are going to start now.
+18-08-2021 01:58:53,INFO,Different user input value assign process started
+18-08-2021 01:58:53,INFO,Different user input value assign process Finished
+18-08-2021 01:58:53,INFO,Features assigned in different variables.
+18-08-2021 01:58:53,INFO,Feature Scaling process started
+18-08-2021 01:58:53,INFO,Feature scaling process successfully executed!
+18-08-2021 01:58:53,INFO,Successfully exited from Features Scaling Function
+18-08-2021 01:58:53,INFO,Model.pickle file Reading.....
+18-08-2021 01:58:53,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: log() missing 1 required positional argument: 'log_msg'
+18-08-2021 01:58:53,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+18-08-2021 02:03:43,INFO,Method is : Get
+18-08-2021 02:03:43,INFO,Not any process executed.
+18-08-2021 02:03:43,INFO,Showing None on Web page
+18-08-2021 02:04:26,INFO,Requested Method : POST
+18-08-2021 02:04:26,INFO,Ready to take User Input.
+18-08-2021 02:04:26,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:04:26,INFO,Feature Encoding Started.
+18-08-2021 02:04:26,INFO,Feature Encoding Completed
+18-08-2021 02:04:26,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:04:26,INFO,Range checking process is going to start now.
+18-08-2021 02:04:26,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:04:26,INFO,Done range Checking of Numerical user input
+18-08-2021 02:04:26,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:04:26,INFO,Different user input value assign process started
+18-08-2021 02:04:26,INFO,Different user input value assign process Finished
+18-08-2021 02:04:26,INFO,Features assigned in different variables.
+18-08-2021 02:04:26,INFO,Feature Scaling process started
+18-08-2021 02:04:26,INFO,Feature scaling process successfully executed!
+18-08-2021 02:04:26,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:04:26,INFO,Model.pickle file Reading.....
+18-08-2021 02:04:26,INFO,Model successfully loaded!
+18-08-2021 02:04:26,INFO,Prediction Started.
+18-08-2021 02:04:26,INFO,Prediction Successfully Completed!
+18-08-2021 02:04:26,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:04:27,INFO,Requested Method : POST
+18-08-2021 02:04:27,INFO,Ready to take User Input.
+18-08-2021 02:04:27,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:04:27,INFO,Feature Encoding Started.
+18-08-2021 02:04:27,INFO,Feature Encoding Completed
+18-08-2021 02:04:27,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:04:27,INFO,Range checking process is going to start now.
+18-08-2021 02:04:27,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:04:27,INFO,Done range Checking of Numerical user input
+18-08-2021 02:04:27,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:04:27,INFO,Different user input value assign process started
+18-08-2021 02:04:27,INFO,Different user input value assign process Finished
+18-08-2021 02:04:27,INFO,Features assigned in different variables.
+18-08-2021 02:04:27,INFO,Feature Scaling process started
+18-08-2021 02:04:27,INFO,Feature scaling process successfully executed!
+18-08-2021 02:04:27,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:04:27,INFO,Model.pickle file Reading.....
+18-08-2021 02:04:28,INFO,Model successfully loaded!
+18-08-2021 02:04:28,INFO,Prediction Started.
+18-08-2021 02:04:28,INFO,Prediction Successfully Completed!
+18-08-2021 02:04:28,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:09:07,INFO,Requested Method : POST
+18-08-2021 02:09:07,INFO,Ready to take User Input.
+18-08-2021 02:09:07,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:09:07,INFO,Feature Encoding Started.
+18-08-2021 02:09:07,INFO,Feature Encoding Completed
+18-08-2021 02:09:07,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:09:07,INFO,Range checking process is going to start now.
+18-08-2021 02:09:07,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:09:07,INFO,Done range Checking of Numerical user input
+18-08-2021 02:09:07,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:09:07,INFO,Different user input value assign process started
+18-08-2021 02:09:07,INFO,Different user input value assign process Finished
+18-08-2021 02:09:07,INFO,Features assigned in different variables.
+18-08-2021 02:09:07,INFO,Feature Scaling process started
+18-08-2021 02:09:08,INFO,Feature scaling process successfully executed!
+18-08-2021 02:09:08,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:09:08,INFO,Model.pickle file Reading.....
+18-08-2021 02:09:08,INFO,Model successfully loaded!
+18-08-2021 02:09:08,INFO,Prediction Started.
+18-08-2021 02:09:08,INFO,Prediction Successfully Completed!
+18-08-2021 02:09:08,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:14:45,INFO,Method is : Get
+18-08-2021 02:14:45,INFO,Not any process executed.
+18-08-2021 02:14:45,INFO,Showing None on Web page
+18-08-2021 02:14:59,INFO,Requested Method : POST
+18-08-2021 02:14:59,INFO,Ready to take User Input.
+18-08-2021 02:14:59,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:14:59,INFO,Feature Encoding Started.
+18-08-2021 02:14:59,INFO,Here Some Exception Occured!  Exception Message: invalid literal for int() with base 10: 'fg'
+18-08-2021 02:14:59,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+18-08-2021 02:14:59,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:14:59,INFO,Range checking process is going to start now.
+18-08-2021 02:14:59,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:14:59,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: log() missing 1 required positional argument: 'log_msg'
+18-08-2021 02:14:59,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+18-08-2021 02:15:08,INFO,Requested Method : POST
+18-08-2021 02:15:08,INFO,Ready to take User Input.
+18-08-2021 02:15:08,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:15:08,INFO,Feature Encoding Started.
+18-08-2021 02:15:08,INFO,Feature Encoding Completed
+18-08-2021 02:15:08,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:15:08,INFO,Range checking process is going to start now.
+18-08-2021 02:15:08,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:15:08,INFO,Done range Checking of Numerical user input
+18-08-2021 02:15:08,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:15:08,INFO,Different user input value assign process started
+18-08-2021 02:15:08,INFO,Different user input value assign process Finished
+18-08-2021 02:15:08,INFO,Features assigned in different variables.
+18-08-2021 02:15:08,INFO,Feature Scaling process started
+18-08-2021 02:15:09,INFO,Feature scaling process successfully executed!
+18-08-2021 02:15:09,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:15:09,INFO,Model.pickle file Reading.....
+18-08-2021 02:15:09,INFO,Model successfully loaded!
+18-08-2021 02:15:09,INFO,Prediction Started.
+18-08-2021 02:15:09,INFO,Prediction Successfully Completed!
+18-08-2021 02:15:09,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:15:09,INFO,Result shown on Web Page.
+18-08-2021 02:18:29,INFO,Requested Method : POST
+18-08-2021 02:18:29,INFO,Ready to take User Input.
+18-08-2021 02:18:29,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:18:29,INFO,Feature Encoding Started.
+18-08-2021 02:18:29,INFO,Feature Encoding Completed
+18-08-2021 02:18:29,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:18:29,INFO,Range checking process is going to start now.
+18-08-2021 02:18:29,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:18:29,INFO,Done range Checking of Numerical user input
+18-08-2021 02:18:29,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:18:29,INFO,Different user input value assign process started
+18-08-2021 02:18:29,INFO,Different user input value assign process Finished
+18-08-2021 02:18:29,INFO,Features assigned in different variables.
+18-08-2021 02:18:29,INFO,Feature Scaling process started
+18-08-2021 02:18:29,INFO,Feature scaling process successfully executed!
+18-08-2021 02:18:29,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:18:29,INFO,Model.pickle file Reading.....
+18-08-2021 02:18:29,INFO,Model successfully loaded!
+18-08-2021 02:18:29,INFO,Prediction Started.
+18-08-2021 02:18:29,INFO,Prediction Successfully Completed!
+18-08-2021 02:18:29,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:18:29,INFO,Result shown on Web Page.
+18-08-2021 02:18:31,INFO,Requested Method : POST
+18-08-2021 02:18:31,INFO,Ready to take User Input.
+18-08-2021 02:18:31,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:18:31,INFO,Feature Encoding Started.
+18-08-2021 02:18:31,INFO,Feature Encoding Completed
+18-08-2021 02:18:31,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:18:31,INFO,Range checking process is going to start now.
+18-08-2021 02:18:31,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:18:31,INFO,Done range Checking of Numerical user input
+18-08-2021 02:18:31,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:18:31,INFO,Different user input value assign process started
+18-08-2021 02:18:31,INFO,Different user input value assign process Finished
+18-08-2021 02:18:31,INFO,Features assigned in different variables.
+18-08-2021 02:18:31,INFO,Feature Scaling process started
+18-08-2021 02:18:31,INFO,Feature scaling process successfully executed!
+18-08-2021 02:18:31,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:18:31,INFO,Model.pickle file Reading.....
+18-08-2021 02:18:31,INFO,Model successfully loaded!
+18-08-2021 02:18:31,INFO,Prediction Started.
+18-08-2021 02:18:31,INFO,Prediction Successfully Completed!
+18-08-2021 02:18:31,INFO,Transferring Predicted Result on Web Page.InputData
+18-08-2021 02:18:31,INFO,Result shown on Web Page.
+18-08-2021 02:22:08,INFO,Method is : Get
+18-08-2021 02:22:08,INFO,Not any process executed.
+18-08-2021 02:22:08,INFO,Showing None on Web page
+18-08-2021 02:22:14,INFO,Requested Method : POST
+18-08-2021 02:22:14,INFO,Ready to take User Input.
+18-08-2021 02:22:14,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:22:14,INFO,Feature Encoding Started.
+18-08-2021 02:22:14,INFO,Feature Encoding Completed
+18-08-2021 02:22:14,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:22:14,INFO,Range checking process is going to start now.
+18-08-2021 02:22:14,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:22:14,INFO,Done range Checking of Numerical user input
+18-08-2021 02:28:42,INFO,Requested Method : POST
+18-08-2021 02:28:43,INFO,Ready to take User Input.
+18-08-2021 02:28:43,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:28:43,INFO,Feature Encoding Started.
+18-08-2021 02:28:43,INFO,Feature Encoding Completed
+18-08-2021 02:28:43,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:28:43,INFO,Range checking process is going to start now.
+18-08-2021 02:28:43,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:28:43,INFO,Done range Checking of Numerical user input
+18-08-2021 02:31:12,INFO,Requested Method : POST
+18-08-2021 02:31:12,INFO,Ready to take User Input.
+18-08-2021 02:31:12,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:31:12,INFO,Feature Encoding Started.
+18-08-2021 02:31:12,INFO,Feature Encoding Completed
+18-08-2021 02:31:12,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:31:12,INFO,Range checking process is going to start now.
+18-08-2021 02:31:12,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:31:12,INFO,Done range Checking of Numerical user input
+18-08-2021 02:31:12,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:31:12,INFO,Different user input value assign process started
+18-08-2021 02:31:12,INFO,Different user input value assign process Finished
+18-08-2021 02:31:12,INFO,Features assigned in different variables.
+18-08-2021 02:31:12,INFO,Feature Scaling process started
+18-08-2021 02:31:12,INFO,Feature scaling process successfully executed!
+18-08-2021 02:31:12,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:31:12,INFO,Model.pickle file Reading.....
+18-08-2021 02:31:12,INFO,Model successfully loaded!
+18-08-2021 02:31:12,INFO,Prediction Started.
+18-08-2021 02:31:12,INFO,Prediction Successfully Completed!
+18-08-2021 02:31:12,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:31:12,INFO,Result shown on Web Page.
+18-08-2021 02:31:26,INFO,Requested Method : POST
+18-08-2021 02:31:26,INFO,Ready to take User Input.
+18-08-2021 02:31:26,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:31:26,INFO,Feature Encoding Started.
+18-08-2021 02:31:26,INFO,Feature Encoding Completed
+18-08-2021 02:31:26,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:31:26,INFO,Range checking process is going to start now.
+18-08-2021 02:31:26,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:31:26,INFO,Done range Checking of Numerical user input
+18-08-2021 02:31:26,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:31:26,INFO,Different user input value assign process started
+18-08-2021 02:31:26,INFO,Different user input value assign process Finished
+18-08-2021 02:31:26,INFO,Features assigned in different variables.
+18-08-2021 02:31:26,INFO,Feature Scaling process started
+18-08-2021 02:31:26,INFO,Feature scaling process successfully executed!
+18-08-2021 02:31:26,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:31:26,INFO,Model.pickle file Reading.....
+18-08-2021 02:31:26,INFO,Model successfully loaded!
+18-08-2021 02:31:26,INFO,Prediction Started.
+18-08-2021 02:31:26,INFO,Prediction Successfully Completed!
+18-08-2021 02:31:26,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:31:26,INFO,Result shown on Web Page.
+18-08-2021 02:31:27,INFO,Requested Method : POST
+18-08-2021 02:31:27,INFO,Ready to take User Input.
+18-08-2021 02:31:27,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:31:27,INFO,Feature Encoding Started.
+18-08-2021 02:31:27,INFO,Feature Encoding Completed
+18-08-2021 02:31:27,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:31:27,INFO,Range checking process is going to start now.
+18-08-2021 02:31:27,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:31:27,INFO,Done range Checking of Numerical user input
+18-08-2021 02:31:27,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:31:27,INFO,Different user input value assign process started
+18-08-2021 02:31:27,INFO,Different user input value assign process Finished
+18-08-2021 02:31:27,INFO,Features assigned in different variables.
+18-08-2021 02:31:27,INFO,Feature Scaling process started
+18-08-2021 02:31:28,INFO,Feature scaling process successfully executed!
+18-08-2021 02:31:28,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:31:28,INFO,Model.pickle file Reading.....
+18-08-2021 02:31:28,INFO,Model successfully loaded!
+18-08-2021 02:31:28,INFO,Prediction Started.
+18-08-2021 02:31:28,INFO,Prediction Successfully Completed!
+18-08-2021 02:31:28,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:31:28,INFO,Result shown on Web Page.
+18-08-2021 02:31:43,INFO,Requested Method : POST
+18-08-2021 02:31:43,INFO,Ready to take User Input.
+18-08-2021 02:31:43,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:31:43,INFO,Feature Encoding Started.
+18-08-2021 02:31:43,INFO,Feature Encoding Completed
+18-08-2021 02:31:43,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:31:43,INFO,Range checking process is going to start now.
+18-08-2021 02:31:43,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:31:43,INFO,Done range Checking of Numerical user input
+18-08-2021 02:31:43,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:31:43,INFO,Different user input value assign process started
+18-08-2021 02:31:43,INFO,Different user input value assign process Finished
+18-08-2021 02:31:43,INFO,Features assigned in different variables.
+18-08-2021 02:31:43,INFO,Feature Scaling process started
+18-08-2021 02:31:43,INFO,Feature scaling process successfully executed!
+18-08-2021 02:31:43,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:31:43,INFO,Model.pickle file Reading.....
+18-08-2021 02:31:43,INFO,Model successfully loaded!
+18-08-2021 02:31:43,INFO,Prediction Started.
+18-08-2021 02:31:43,INFO,Prediction Successfully Completed!
+18-08-2021 02:31:43,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:31:43,INFO,Result shown on Web Page.
+18-08-2021 02:32:02,INFO,Requested Method : POST
+18-08-2021 02:32:02,INFO,Ready to take User Input.
+18-08-2021 02:32:02,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:02,INFO,Feature Encoding Started.
+18-08-2021 02:32:02,INFO,Feature Encoding Completed
+18-08-2021 02:32:02,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:02,INFO,Range checking process is going to start now.
+18-08-2021 02:32:02,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:02,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:02,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:02,INFO,Different user input value assign process started
+18-08-2021 02:32:02,INFO,Different user input value assign process Finished
+18-08-2021 02:32:02,INFO,Features assigned in different variables.
+18-08-2021 02:32:02,INFO,Feature Scaling process started
+18-08-2021 02:32:02,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:02,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:02,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:02,INFO,Model successfully loaded!
+18-08-2021 02:32:02,INFO,Prediction Started.
+18-08-2021 02:32:02,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:02,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:02,INFO,Result shown on Web Page.
+18-08-2021 02:32:13,INFO,Requested Method : POST
+18-08-2021 02:32:13,INFO,Ready to take User Input.
+18-08-2021 02:32:13,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:13,INFO,Feature Encoding Started.
+18-08-2021 02:32:13,INFO,Feature Encoding Completed
+18-08-2021 02:32:13,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:13,INFO,Range checking process is going to start now.
+18-08-2021 02:32:13,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:13,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:13,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:13,INFO,Different user input value assign process started
+18-08-2021 02:32:13,INFO,Different user input value assign process Finished
+18-08-2021 02:32:13,INFO,Features assigned in different variables.
+18-08-2021 02:32:13,INFO,Feature Scaling process started
+18-08-2021 02:32:13,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:13,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:13,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:13,INFO,Model successfully loaded!
+18-08-2021 02:32:13,INFO,Prediction Started.
+18-08-2021 02:32:13,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:13,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:13,INFO,Result shown on Web Page.
+18-08-2021 02:32:25,INFO,Requested Method : POST
+18-08-2021 02:32:25,INFO,Ready to take User Input.
+18-08-2021 02:32:25,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:25,INFO,Feature Encoding Started.
+18-08-2021 02:32:25,INFO,Feature Encoding Completed
+18-08-2021 02:32:25,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:25,INFO,Range checking process is going to start now.
+18-08-2021 02:32:25,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:25,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:25,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:25,INFO,Different user input value assign process started
+18-08-2021 02:32:25,INFO,Different user input value assign process Finished
+18-08-2021 02:32:25,INFO,Features assigned in different variables.
+18-08-2021 02:32:25,INFO,Feature Scaling process started
+18-08-2021 02:32:25,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:25,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:25,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:25,INFO,Model successfully loaded!
+18-08-2021 02:32:25,INFO,Prediction Started.
+18-08-2021 02:32:25,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:25,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:25,INFO,Result shown on Web Page.
+18-08-2021 02:32:37,INFO,Requested Method : POST
+18-08-2021 02:32:37,INFO,Ready to take User Input.
+18-08-2021 02:32:37,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:37,INFO,Feature Encoding Started.
+18-08-2021 02:32:37,INFO,Feature Encoding Completed
+18-08-2021 02:32:37,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:37,INFO,Range checking process is going to start now.
+18-08-2021 02:32:37,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:37,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:37,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:37,INFO,Different user input value assign process started
+18-08-2021 02:32:37,INFO,Different user input value assign process Finished
+18-08-2021 02:32:37,INFO,Features assigned in different variables.
+18-08-2021 02:32:37,INFO,Feature Scaling process started
+18-08-2021 02:32:37,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:37,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:37,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:37,INFO,Model successfully loaded!
+18-08-2021 02:32:37,INFO,Prediction Started.
+18-08-2021 02:32:37,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:37,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:37,INFO,Result shown on Web Page.
+18-08-2021 02:32:50,INFO,Requested Method : POST
+18-08-2021 02:32:50,INFO,Ready to take User Input.
+18-08-2021 02:32:50,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:50,INFO,Feature Encoding Started.
+18-08-2021 02:32:50,INFO,Feature Encoding Completed
+18-08-2021 02:32:50,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:50,INFO,Range checking process is going to start now.
+18-08-2021 02:32:50,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:50,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:50,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:50,INFO,Different user input value assign process started
+18-08-2021 02:32:50,INFO,Different user input value assign process Finished
+18-08-2021 02:32:50,INFO,Features assigned in different variables.
+18-08-2021 02:32:50,INFO,Feature Scaling process started
+18-08-2021 02:32:50,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:50,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:50,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:50,INFO,Model successfully loaded!
+18-08-2021 02:32:50,INFO,Prediction Started.
+18-08-2021 02:32:50,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:50,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:50,INFO,Result shown on Web Page.
+18-08-2021 02:32:54,INFO,Requested Method : POST
+18-08-2021 02:32:54,INFO,Ready to take User Input.
+18-08-2021 02:32:54,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:54,INFO,Feature Encoding Started.
+18-08-2021 02:32:54,INFO,Feature Encoding Completed
+18-08-2021 02:32:54,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:54,INFO,Range checking process is going to start now.
+18-08-2021 02:32:54,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:54,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:54,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:54,INFO,Different user input value assign process started
+18-08-2021 02:32:54,INFO,Different user input value assign process Finished
+18-08-2021 02:32:54,INFO,Features assigned in different variables.
+18-08-2021 02:32:54,INFO,Feature Scaling process started
+18-08-2021 02:32:55,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:55,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:55,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:55,INFO,Model successfully loaded!
+18-08-2021 02:32:55,INFO,Prediction Started.
+18-08-2021 02:32:55,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:55,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:55,INFO,Result shown on Web Page.
+18-08-2021 02:32:57,INFO,Requested Method : POST
+18-08-2021 02:32:57,INFO,Ready to take User Input.
+18-08-2021 02:32:57,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:32:57,INFO,Feature Encoding Started.
+18-08-2021 02:32:57,INFO,Feature Encoding Completed
+18-08-2021 02:32:57,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:32:57,INFO,Range checking process is going to start now.
+18-08-2021 02:32:57,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:32:57,INFO,Done range Checking of Numerical user input
+18-08-2021 02:32:57,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:32:57,INFO,Different user input value assign process started
+18-08-2021 02:32:57,INFO,Different user input value assign process Finished
+18-08-2021 02:32:57,INFO,Features assigned in different variables.
+18-08-2021 02:32:57,INFO,Feature Scaling process started
+18-08-2021 02:32:57,INFO,Feature scaling process successfully executed!
+18-08-2021 02:32:57,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:32:57,INFO,Model.pickle file Reading.....
+18-08-2021 02:32:57,INFO,Model successfully loaded!
+18-08-2021 02:32:57,INFO,Prediction Started.
+18-08-2021 02:32:57,INFO,Prediction Successfully Completed!
+18-08-2021 02:32:57,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:32:57,INFO,Result shown on Web Page.
+18-08-2021 02:33:08,INFO,Requested Method : POST
+18-08-2021 02:33:08,INFO,Ready to take User Input.
+18-08-2021 02:33:08,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:33:08,INFO,Feature Encoding Started.
+18-08-2021 02:33:08,INFO,Feature Encoding Completed
+18-08-2021 02:33:08,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:33:08,INFO,Range checking process is going to start now.
+18-08-2021 02:33:08,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:33:08,INFO,Done range Checking of Numerical user input
+18-08-2021 02:33:08,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:33:08,INFO,Different user input value assign process started
+18-08-2021 02:33:08,INFO,Different user input value assign process Finished
+18-08-2021 02:33:08,INFO,Features assigned in different variables.
+18-08-2021 02:33:08,INFO,Feature Scaling process started
+18-08-2021 02:33:08,INFO,Feature scaling process successfully executed!
+18-08-2021 02:33:08,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:33:08,INFO,Model.pickle file Reading.....
+18-08-2021 02:33:08,INFO,Model successfully loaded!
+18-08-2021 02:33:08,INFO,Prediction Started.
+18-08-2021 02:33:08,INFO,Prediction Successfully Completed!
+18-08-2021 02:33:08,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:33:08,INFO,Result shown on Web Page.
+18-08-2021 02:33:17,INFO,Requested Method : POST
+18-08-2021 02:33:17,INFO,Ready to take User Input.
+18-08-2021 02:33:17,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:33:17,INFO,Feature Encoding Started.
+18-08-2021 02:33:17,INFO,Feature Encoding Completed
+18-08-2021 02:33:17,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:33:17,INFO,Range checking process is going to start now.
+18-08-2021 02:33:17,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:33:17,INFO,Done range Checking of Numerical user input
+18-08-2021 02:33:17,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:33:17,INFO,Different user input value assign process started
+18-08-2021 02:33:17,INFO,Different user input value assign process Finished
+18-08-2021 02:33:17,INFO,Features assigned in different variables.
+18-08-2021 02:33:17,INFO,Feature Scaling process started
+18-08-2021 02:33:17,INFO,Feature scaling process successfully executed!
+18-08-2021 02:33:17,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:33:17,INFO,Model.pickle file Reading.....
+18-08-2021 02:33:17,INFO,Model successfully loaded!
+18-08-2021 02:33:17,INFO,Prediction Started.
+18-08-2021 02:33:17,INFO,Prediction Successfully Completed!
+18-08-2021 02:33:17,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:33:17,INFO,Result shown on Web Page.
+18-08-2021 02:35:45,INFO,Requested Method : POST
+18-08-2021 02:35:45,INFO,Ready to take User Input.
+18-08-2021 02:35:45,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:35:45,INFO,Feature Encoding Started.
+18-08-2021 02:35:45,INFO,Feature Encoding Completed
+18-08-2021 02:35:45,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:35:45,INFO,Range checking process is going to start now.
+18-08-2021 02:35:45,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:35:45,INFO,Done range Checking of Numerical user input
+18-08-2021 02:37:03,INFO,Requested Method : POST
+18-08-2021 02:37:03,INFO,Ready to take User Input.
+18-08-2021 02:37:03,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:37:03,INFO,Feature Encoding Started.
+18-08-2021 02:37:03,INFO,Feature Encoding Completed
+18-08-2021 02:37:03,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:37:03,INFO,Range checking process is going to start now.
+18-08-2021 02:37:03,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:37:03,INFO,Done range Checking of Numerical user input
+18-08-2021 02:37:03,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:37:03,INFO,Different user input value assign process started
+18-08-2021 02:37:03,INFO,Different user input value assign process Finished
+18-08-2021 02:37:03,INFO,Features assigned in different variables.
+18-08-2021 02:37:03,INFO,Feature Scaling process started
+18-08-2021 02:37:03,INFO,Feature scaling process successfully executed!
+18-08-2021 02:37:03,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:37:03,INFO,Model.pickle file Reading.....
+18-08-2021 02:37:03,INFO,Model successfully loaded!
+18-08-2021 02:37:03,INFO,Prediction Started.
+18-08-2021 02:37:03,INFO,Prediction Successfully Completed!
+18-08-2021 02:37:03,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:37:03,INFO,Result shown on Web Page.
+18-08-2021 02:41:28,INFO,Requested Method : POST
+18-08-2021 02:41:28,INFO,Ready to take User Input.
+18-08-2021 02:41:28,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:41:28,INFO,Feature Encoding Started.
+18-08-2021 02:41:28,INFO,Feature Encoding Completed
+18-08-2021 02:41:28,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:41:28,INFO,Range checking process is going to start now.
+18-08-2021 02:41:28,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:41:28,INFO,Done range Checking of Numerical user input
+18-08-2021 02:41:28,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:41:28,INFO,Different user input value assign process started
+18-08-2021 02:41:28,INFO,Different user input value assign process Finished
+18-08-2021 02:41:28,INFO,Features assigned in different variables.
+18-08-2021 02:41:28,INFO,Feature Scaling process started
+18-08-2021 02:41:28,INFO,Feature scaling process successfully executed!
+18-08-2021 02:41:28,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:41:28,INFO,Model.pickle file Reading.....
+18-08-2021 02:41:28,INFO,Model successfully loaded!
+18-08-2021 02:41:28,INFO,Prediction Started.
+18-08-2021 02:41:28,INFO,Prediction Successfully Completed!
+18-08-2021 02:41:28,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:41:28,INFO,Result shown on Web Page.
+18-08-2021 02:41:29,INFO,Requested Method : POST
+18-08-2021 02:41:29,INFO,Ready to take User Input.
+18-08-2021 02:41:29,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:41:29,INFO,Feature Encoding Started.
+18-08-2021 02:41:29,INFO,Feature Encoding Completed
+18-08-2021 02:41:29,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:41:29,INFO,Range checking process is going to start now.
+18-08-2021 02:41:29,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:41:29,INFO,Done range Checking of Numerical user input
+18-08-2021 02:41:29,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:41:29,INFO,Different user input value assign process started
+18-08-2021 02:41:29,INFO,Different user input value assign process Finished
+18-08-2021 02:41:29,INFO,Features assigned in different variables.
+18-08-2021 02:41:29,INFO,Feature Scaling process started
+18-08-2021 02:41:29,INFO,Feature scaling process successfully executed!
+18-08-2021 02:41:29,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:41:29,INFO,Model.pickle file Reading.....
+18-08-2021 02:41:29,INFO,Model successfully loaded!
+18-08-2021 02:41:29,INFO,Prediction Started.
+18-08-2021 02:41:29,INFO,Prediction Successfully Completed!
+18-08-2021 02:41:29,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:41:29,INFO,Result shown on Web Page.
+18-08-2021 02:41:29,INFO,Requested Method : POST
+18-08-2021 02:41:29,INFO,Ready to take User Input.
+18-08-2021 02:41:29,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:41:29,INFO,Feature Encoding Started.
+18-08-2021 02:41:29,INFO,Feature Encoding Completed
+18-08-2021 02:41:29,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:41:29,INFO,Range checking process is going to start now.
+18-08-2021 02:41:29,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:41:29,INFO,Done range Checking of Numerical user input
+18-08-2021 02:41:29,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:41:29,INFO,Different user input value assign process started
+18-08-2021 02:41:29,INFO,Different user input value assign process Finished
+18-08-2021 02:41:29,INFO,Features assigned in different variables.
+18-08-2021 02:41:29,INFO,Feature Scaling process started
+18-08-2021 02:41:29,INFO,Feature scaling process successfully executed!
+18-08-2021 02:41:29,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:41:29,INFO,Model.pickle file Reading.....
+18-08-2021 02:41:29,INFO,Model successfully loaded!
+18-08-2021 02:41:29,INFO,Prediction Started.
+18-08-2021 02:41:29,INFO,Prediction Successfully Completed!
+18-08-2021 02:41:29,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:41:29,INFO,Result shown on Web Page.
+18-08-2021 02:42:07,INFO,Requested Method : POST
+18-08-2021 02:42:07,INFO,Ready to take User Input.
+18-08-2021 02:42:07,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:42:07,INFO,Feature Encoding Started.
+18-08-2021 02:42:07,INFO,Feature Encoding Completed
+18-08-2021 02:42:07,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:42:07,INFO,Range checking process is going to start now.
+18-08-2021 02:42:07,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:42:07,INFO,Done range Checking of Numerical user input
+18-08-2021 02:42:07,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:42:07,INFO,Different user input value assign process started
+18-08-2021 02:42:07,INFO,Different user input value assign process Finished
+18-08-2021 02:42:07,INFO,Features assigned in different variables.
+18-08-2021 02:42:07,INFO,Feature Scaling process started
+18-08-2021 02:42:07,INFO,Feature scaling process successfully executed!
+18-08-2021 02:42:07,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:42:07,INFO,Model.pickle file Reading.....
+18-08-2021 02:42:07,INFO,Model successfully loaded!
+18-08-2021 02:42:07,INFO,Prediction Started.
+18-08-2021 02:42:07,INFO,Prediction Successfully Completed!
+18-08-2021 02:42:07,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:42:07,INFO,Result shown on Web Page.
+18-08-2021 02:42:15,INFO,Requested Method : POST
+18-08-2021 02:42:15,INFO,Ready to take User Input.
+18-08-2021 02:42:15,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:42:15,INFO,Feature Encoding Started.
+18-08-2021 02:42:15,INFO,Feature Encoding Completed
+18-08-2021 02:42:15,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:42:15,INFO,Range checking process is going to start now.
+18-08-2021 02:42:15,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:42:15,INFO,Done range Checking of Numerical user input
+18-08-2021 02:42:15,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:42:15,INFO,Different user input value assign process started
+18-08-2021 02:42:15,INFO,Different user input value assign process Finished
+18-08-2021 02:42:15,INFO,Features assigned in different variables.
+18-08-2021 02:42:15,INFO,Feature Scaling process started
+18-08-2021 02:42:15,INFO,Feature scaling process successfully executed!
+18-08-2021 02:42:15,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:42:15,INFO,Model.pickle file Reading.....
+18-08-2021 02:42:15,INFO,Model successfully loaded!
+18-08-2021 02:42:15,INFO,Prediction Started.
+18-08-2021 02:42:15,INFO,Prediction Successfully Completed!
+18-08-2021 02:42:15,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:42:15,INFO,Result shown on Web Page.
+18-08-2021 02:42:22,INFO,Requested Method : POST
+18-08-2021 02:42:22,INFO,Ready to take User Input.
+18-08-2021 02:42:22,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:42:22,INFO,Feature Encoding Started.
+18-08-2021 02:42:22,INFO,Feature Encoding Completed
+18-08-2021 02:42:22,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:42:22,INFO,Range checking process is going to start now.
+18-08-2021 02:42:22,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:42:22,INFO,Done range Checking of Numerical user input
+18-08-2021 02:42:22,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:42:22,INFO,Different user input value assign process started
+18-08-2021 02:42:22,INFO,Different user input value assign process Finished
+18-08-2021 02:42:22,INFO,Features assigned in different variables.
+18-08-2021 02:42:22,INFO,Feature Scaling process started
+18-08-2021 02:42:22,INFO,Feature scaling process successfully executed!
+18-08-2021 02:42:22,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:42:22,INFO,Model.pickle file Reading.....
+18-08-2021 02:42:22,INFO,Model successfully loaded!
+18-08-2021 02:42:22,INFO,Prediction Started.
+18-08-2021 02:42:22,INFO,Prediction Successfully Completed!
+18-08-2021 02:42:22,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:42:22,INFO,Result shown on Web Page.
+18-08-2021 02:42:28,INFO,Requested Method : POST
+18-08-2021 02:42:28,INFO,Ready to take User Input.
+18-08-2021 02:42:28,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:42:28,INFO,Feature Encoding Started.
+18-08-2021 02:42:28,INFO,Feature Encoding Completed
+18-08-2021 02:42:28,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:42:28,INFO,Range checking process is going to start now.
+18-08-2021 02:42:28,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:42:28,INFO,Done range Checking of Numerical user input
+18-08-2021 02:42:28,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:42:28,INFO,Different user input value assign process started
+18-08-2021 02:42:28,INFO,Different user input value assign process Finished
+18-08-2021 02:42:28,INFO,Features assigned in different variables.
+18-08-2021 02:42:28,INFO,Feature Scaling process started
+18-08-2021 02:42:28,INFO,Feature scaling process successfully executed!
+18-08-2021 02:42:28,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:42:28,INFO,Model.pickle file Reading.....
+18-08-2021 02:42:28,INFO,Model successfully loaded!
+18-08-2021 02:42:28,INFO,Prediction Started.
+18-08-2021 02:42:28,INFO,Prediction Successfully Completed!
+18-08-2021 02:42:28,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:42:28,INFO,Result shown on Web Page.
+18-08-2021 02:46:16,INFO,Requested Method : POST
+18-08-2021 02:46:16,INFO,Ready to take User Input.
+18-08-2021 02:46:16,INFO,User Input and some necessary variables with value are created!
+18-08-2021 02:46:16,INFO,Feature Encoding Started.
+18-08-2021 02:46:16,INFO,Feature Encoding Completed
+18-08-2021 02:46:16,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+18-08-2021 02:46:16,INFO,Range checking process is going to start now.
+18-08-2021 02:46:16,INFO,Checking the range of Numerical Input field Started!
+18-08-2021 02:46:16,INFO,Done range Checking of Numerical user input
+18-08-2021 02:46:16,INFO,Feature Scaling Process are going to start now.
+18-08-2021 02:46:16,INFO,Different user input value assign process started
+18-08-2021 02:46:16,INFO,Different user input value assign process Finished
+18-08-2021 02:46:16,INFO,Features assigned in different variables.
+18-08-2021 02:46:16,INFO,Feature Scaling process started
+18-08-2021 02:46:16,INFO,Feature scaling process successfully executed!
+18-08-2021 02:46:16,INFO,Successfully exited from Features Scaling Function
+18-08-2021 02:46:16,INFO,Model.pickle file Reading.....
+18-08-2021 02:46:17,INFO,Model successfully loaded!
+18-08-2021 02:46:17,INFO,Prediction Started.
+18-08-2021 02:46:17,INFO,Prediction Successfully Completed!
+18-08-2021 02:46:17,INFO,Transferring Predicted Result on Web Page.
+18-08-2021 02:46:17,INFO,Result shown on Web Page.
+18-08-2021 03:09:07,INFO,Method is : Get
+18-08-2021 03:09:07,INFO,Not any process executed.
+18-08-2021 03:09:07,INFO,Showing None on Web page
+18-08-2021 03:09:07,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'forms.SignUpForm object' has no attribute 'Education'
+18-08-2021 03:09:07,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+18-08-2021 03:12:51,INFO,Method is : Get
+18-08-2021 03:12:51,INFO,Not any process executed.
+18-08-2021 03:12:51,INFO,Showing None on Web page
+18-08-2021 03:12:51,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'forms.SignUpForm object' has no attribute 'Education'
+18-08-2021 03:12:51,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+18-08-2021 03:19:57,INFO,Method is : Get
+18-08-2021 03:19:57,INFO,Not any process executed.
+18-08-2021 03:19:57,INFO,Showing None on Web page
+18-08-2021 03:19:57,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'forms.SignUpForm object' has no attribute 'Education'
+18-08-2021 03:19:57,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+18-08-2021 03:32:16,INFO,Method is : Get
+18-08-2021 03:32:16,INFO,Not any process executed.
+18-08-2021 03:32:16,INFO,Showing None on Web page
+19-08-2021 21:15:11,INFO,Method is : Get
+19-08-2021 21:15:11,INFO,Not any process executed.
+19-08-2021 21:15:11,INFO,Showing None on Web page
+19-08-2021 21:15:43,INFO,Requested Method : POST
+19-08-2021 21:15:43,INFO,Ready to take User Input.
+19-08-2021 21:15:43,INFO,User Input and some necessary variables with value are created!
+19-08-2021 21:15:43,INFO,Process to Store and to Encode user data is going to start Now.
+19-08-2021 21:15:43,INFO,Threading called!
+19-08-2021 21:15:43,INFO,Creating Copy of user input.
+19-08-2021 21:15:43,INFO,Copy Created!
+19-08-2021 21:15:43,INFO,Threading Object Creating.
+19-08-2021 21:15:43,INFO,Feature Encoding Started.
+19-08-2021 21:15:43,INFO,Feature Encoding Completed
+19-08-2021 21:15:43,INFO,Database Operation has been started
+19-08-2021 21:15:43,INFO,Creating Cassandra database object.
+19-08-2021 21:15:43,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+19-08-2021 21:15:43,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+19-08-2021 21:20:01,INFO,Method is : Get
+19-08-2021 21:20:01,INFO,Not any process executed.
+19-08-2021 21:20:01,INFO,Showing None on Web page
+19-08-2021 21:20:17,INFO,Requested Method : POST
+19-08-2021 21:20:17,INFO,Ready to take User Input.
+19-08-2021 21:20:17,INFO,User Input and some necessary variables with value are created!
+19-08-2021 21:20:17,INFO,Process to Store and to Encode user data is going to start Now.
+19-08-2021 21:20:17,INFO,Threading called!
+19-08-2021 21:20:17,INFO,Creating Copy of user input.
+19-08-2021 21:20:17,INFO,Copy Created!
+19-08-2021 21:20:17,INFO,Threading Object Creating.
+19-08-2021 21:20:17,INFO,Feature Encoding Started.
+19-08-2021 21:20:17,INFO,Feature Encoding Completed
+19-08-2021 21:20:17,INFO,Database Operation has been started
+19-08-2021 21:20:17,INFO,Creating Cassandra database object.
+19-08-2021 21:20:17,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+19-08-2021 21:20:17,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+19-08-2021 21:23:33,INFO,Method is : Get
+19-08-2021 21:23:33,INFO,Not any process executed.
+19-08-2021 21:23:33,INFO,Showing None on Web page
+19-08-2021 21:23:53,INFO,Requested Method : POST
+19-08-2021 21:23:53,INFO,Ready to take User Input.
+19-08-2021 21:23:53,INFO,User Input and some necessary variables with value are created!
+19-08-2021 21:23:53,INFO,Process to Store and to Encode user data is going to start Now.
+19-08-2021 21:23:53,INFO,Threading called!
+19-08-2021 21:23:53,INFO,Creating Copy of user input.
+19-08-2021 21:23:53,INFO,Copy Created!
+19-08-2021 21:23:53,INFO,Threading Object Creating.
+19-08-2021 21:23:53,INFO,Feature Encoding Started.
+19-08-2021 21:23:53,INFO,Feature Encoding Completed
+19-08-2021 21:23:53,INFO,Database Operation has been started
+19-08-2021 21:23:53,INFO,Creating Cassandra database object.
+19-08-2021 21:24:16,INFO,Cassandra database object created Successfully!
+19-08-2021 21:24:16,INFO,Inserting user input value in database.
+19-08-2021 21:24:16,INFO,User input Inserted in Database Successfully!
+19-08-2021 21:24:16,INFO,Threading Object Created!.
+19-08-2021 21:24:16,INFO,Starting the feature_Encoding Thread.
+19-08-2021 21:24:16,INFO,Starting the DB_Operation Thread.
+19-08-2021 21:24:16,INFO,Joining the feature_Encoding Thread.
+19-08-2021 21:24:16,INFO,Joining the feature_Encoding Thread.
+19-08-2021 21:24:16,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'Threading' object has no attribute 'result'
+19-08-2021 21:24:16,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+19-08-2021 21:27:01,INFO,Method is : Get
+19-08-2021 21:27:01,INFO,Not any process executed.
+19-08-2021 21:27:01,INFO,Showing None on Web page
+19-08-2021 21:27:05,INFO,Method is : Get
+19-08-2021 21:27:05,INFO,Not any process executed.
+19-08-2021 21:27:05,INFO,Showing None on Web page
+19-08-2021 21:27:08,INFO,Requested Method : POST
+19-08-2021 21:27:08,INFO,Ready to take User Input.
+19-08-2021 21:27:08,INFO,User Input and some necessary variables with value are created!
+19-08-2021 21:27:08,INFO,Process to Store and to Encode user data is going to start Now.
+19-08-2021 21:27:08,INFO,Threading called!
+19-08-2021 21:27:08,INFO,Creating Copy of user input.
+19-08-2021 21:27:08,INFO,Copy Created!
+19-08-2021 21:27:08,INFO,Threading Object Creating.
+19-08-2021 21:27:08,INFO,Feature Encoding Started.
+19-08-2021 21:27:08,INFO,Feature Encoding Completed
+19-08-2021 21:27:08,INFO,Database Operation has been started
+19-08-2021 21:27:08,INFO,Creating Cassandra database object.
+19-08-2021 21:27:47,INFO,Cassandra database object created Successfully!
+19-08-2021 21:27:47,INFO,Inserting user input value in database.
+19-08-2021 21:27:47,INFO,User input Inserted in Database Successfully!
+19-08-2021 21:27:47,INFO,Threading Object Created!.
+19-08-2021 21:27:47,INFO,Starting the feature_Encoding Thread.
+19-08-2021 21:27:47,INFO,Starting the DB_Operation Thread.
+19-08-2021 21:27:47,INFO,Joining the feature_Encoding Thread.
+19-08-2021 21:27:47,INFO,Joining the feature_Encoding Thread.
+19-08-2021 21:27:47,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'Threading' object has no attribute 're'
+19-08-2021 21:27:47,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+20-08-2021 02:18:38,INFO,Method is : Get
+20-08-2021 02:18:38,INFO,Not any process executed.
+20-08-2021 02:18:38,INFO,Showing None on Web page
+20-08-2021 02:19:08,INFO,Requested Method : POST
+20-08-2021 02:19:08,INFO,Ready to take User Input.
+20-08-2021 02:19:08,INFO,User Input and some necessary variables with value are created!
+20-08-2021 02:19:08,INFO,Process to Store and to Encode user data is going to start Now.
+20-08-2021 02:19:08,INFO,Threading called!
+20-08-2021 02:19:08,INFO,Creating Copy of user input.
+20-08-2021 02:19:08,INFO,Copy Created!
+20-08-2021 02:19:08,INFO,Threading Object Creating.
+20-08-2021 02:19:08,INFO,Feature Encoding Started.
+20-08-2021 02:19:08,INFO,Feature Encoding Completed
+20-08-2021 02:19:08,INFO,Database Operation has been started
+20-08-2021 02:19:08,INFO,Creating Cassandra database object.
+20-08-2021 02:19:19,INFO,Cassandra database object created Successfully!
+20-08-2021 02:19:22,INFO,Inserting user input value in database.
+20-08-2021 02:19:22,INFO,User input Inserted in Database Successfully!
+20-08-2021 02:19:22,INFO,Threading Object Created!.
+20-08-2021 02:19:22,INFO,Starting the feature_Encoding Thread.
+20-08-2021 02:19:22,INFO,Starting the DB_Operation Thread.
+20-08-2021 02:19:22,INFO,Joining the feature_Encoding Thread.
+20-08-2021 02:19:22,INFO,Joining the feature_Encoding Thread.
+20-08-2021 02:19:22,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'Threading' object has no attribute 're'
+20-08-2021 02:19:22,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+20-08-2021 02:22:42,INFO,Method is : Get
+20-08-2021 02:22:42,INFO,Not any process executed.
+20-08-2021 02:22:42,INFO,Showing None on Web page
+20-08-2021 02:23:00,INFO,Requested Method : POST
+20-08-2021 02:23:00,INFO,Ready to take User Input.
+20-08-2021 02:23:00,INFO,User Input and some necessary variables with value are created!
+20-08-2021 02:23:00,INFO,Process to Store and to Encode user data is going to start Now.
+20-08-2021 02:23:00,INFO,Threading called!
+20-08-2021 02:23:00,INFO,Creating Copy of user input.
+20-08-2021 02:23:00,INFO,Copy Created!
+20-08-2021 02:23:00,INFO,Threading Object Creating.
+20-08-2021 02:23:00,INFO,Feature Encoding Started.
+20-08-2021 02:23:00,INFO,Feature Encoding Completed
+20-08-2021 02:23:00,INFO,Database Operation has been started
+20-08-2021 02:23:00,INFO,Creating Cassandra database object.
+20-08-2021 02:23:13,INFO,Cassandra database object created Successfully!
+20-08-2021 02:23:14,INFO,Inserting user input value in database.
+20-08-2021 02:23:14,INFO,User input Inserted in Database Successfully!
+20-08-2021 02:23:14,INFO,Threading Object Created!.
+20-08-2021 02:23:14,INFO,Starting the feature_Encoding Thread.
+20-08-2021 02:23:14,INFO,Starting the DB_Operation Thread.
+20-08-2021 02:23:14,INFO,Joining the feature_Encoding Thread.
+20-08-2021 02:23:14,INFO,Joining the feature_Encoding Thread.
+20-08-2021 02:23:14,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'Threading' object has no attribute 'result'
+20-08-2021 02:23:14,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+20-08-2021 02:42:47,INFO,Requested Method : POST
+20-08-2021 02:42:47,INFO,Ready to take User Input.
+20-08-2021 02:42:47,INFO,User Input and some necessary variables with value are created!
+20-08-2021 02:42:47,INFO,Process to Store and to Encode user data is going to start Now.
+20-08-2021 02:42:47,INFO,Threading called!
+20-08-2021 02:42:47,INFO,Creating Copy of user input.
+20-08-2021 02:42:47,INFO,Copy Created!
+20-08-2021 02:42:47,INFO,Threading Object Creating.
+20-08-2021 02:42:47,INFO,Feature Encoding Started.
+20-08-2021 02:42:47,INFO,Feature Encoding Completed
+20-08-2021 02:42:47,INFO,Database Operation has been started
+20-08-2021 02:42:47,INFO,Creating Cassandra database object.
+20-08-2021 02:43:01,INFO,Cassandra database object created Successfully!
+20-08-2021 02:43:02,INFO,Inserting user input value in database.
+20-08-2021 02:43:02,INFO,User input Inserted in Database Successfully!
+20-08-2021 02:43:02,INFO,Threading Object Created!.
+20-08-2021 02:43:02,INFO,Starting the feature_Encoding Thread.
+20-08-2021 02:43:02,INFO,Starting the DB_Operation Thread.
+20-08-2021 02:43:02,INFO,Joining the feature_Encoding Thread.
+20-08-2021 02:43:02,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: 'Threading' object has no attribute 'sl'
+20-08-2021 02:43:02,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+20-08-2021 02:46:51,INFO,Method is : Get
+20-08-2021 02:46:51,INFO,Not any process executed.
+20-08-2021 02:46:51,INFO,Showing None on Web page
+20-08-2021 02:46:57,INFO,Requested Method : POST
+20-08-2021 02:46:57,INFO,Ready to take User Input.
+20-08-2021 02:46:57,INFO,User Input and some necessary variables with value are created!
+20-08-2021 02:46:57,INFO,Database Operation has been started
+20-08-2021 02:46:57,INFO,Creating Cassandra database object.
+20-08-2021 02:47:09,INFO,Cassandra database object created Successfully!
+20-08-2021 02:47:10,INFO,Inserting user input value in database.
+20-08-2021 02:47:10,INFO,User input Inserted in Database Successfully!
+20-08-2021 02:47:10,INFO,Feature Encoding Started.
+20-08-2021 02:47:10,INFO,Feature Encoding Completed
+20-08-2021 02:47:10,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 02:47:10,INFO,Range checking process is going to start now.
+20-08-2021 02:47:10,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 02:47:10,INFO,Done range Checking of Numerical user input
+20-08-2021 02:47:10,INFO,Feature Scaling Process are going to start now.
+20-08-2021 02:47:10,INFO,Different user input value assign process started
+20-08-2021 02:47:10,INFO,Exception Occurred during variable creation of user input fo scalstoring in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 02:47:10,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 02:47:10,INFO,Features assigned in different variables.
+20-08-2021 02:47:10,INFO,Feature Scaling process started
+20-08-2021 02:47:10,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 02:47:10,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 02:47:10,INFO,Successfully exited from Features Scaling Function
+20-08-2021 02:47:10,INFO,Model.pickle file Reading.....
+20-08-2021 02:47:11,INFO,Model successfully loaded!
+20-08-2021 02:47:11,INFO,Prediction Started.
+20-08-2021 02:47:11,INFO,Value Error Occurred!
+20-08-2021 02:56:58,INFO,Method is : Get
+20-08-2021 02:56:58,INFO,Not any process executed.
+20-08-2021 02:56:58,INFO,Showing None on Web page
+20-08-2021 02:57:28,INFO,Requested Method : POST
+20-08-2021 02:57:28,INFO,Ready to take User Input.
+20-08-2021 02:57:28,INFO,User Input and some necessary variables with value are created!
+20-08-2021 02:57:28,INFO,Database Operation has been started
+20-08-2021 02:57:28,INFO,Creating Cassandra database object.
+20-08-2021 02:57:45,INFO,Cassandra database object created Successfully!
+20-08-2021 02:57:46,INFO,Inserting user input value in database.
+20-08-2021 02:57:46,INFO,User input Inserted in Database Successfully!
+20-08-2021 02:57:46,INFO,Feature Encoding Started.
+20-08-2021 02:57:46,INFO,Here Some Exception Occured!  Exception Message: 'submit'
+20-08-2021 02:57:46,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+20-08-2021 02:57:46,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 02:57:46,INFO,Range checking process is going to start now.
+20-08-2021 02:57:46,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 02:57:46,INFO,Done range Checking of Numerical user input
+20-08-2021 02:57:46,INFO,Feature Scaling Process are going to start now.
+20-08-2021 02:57:46,INFO,Different user input value assign process started
+20-08-2021 02:57:46,INFO,Exception Occurred during variable creation of user input fo scalstoring in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 02:57:46,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 02:57:46,INFO,Features assigned in different variables.
+20-08-2021 02:57:46,INFO,Feature Scaling process started
+20-08-2021 02:57:46,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 02:57:46,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 02:57:46,INFO,Successfully exited from Features Scaling Function
+20-08-2021 02:57:46,INFO,Model.pickle file Reading.....
+20-08-2021 02:57:47,INFO,Model successfully loaded!
+20-08-2021 02:57:47,INFO,Prediction Started.
+20-08-2021 02:57:47,INFO,Value Error Occurred!
+20-08-2021 03:01:10,INFO,Requested Method : POST
+20-08-2021 03:01:10,INFO,Ready to take User Input.
+20-08-2021 03:01:10,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:01:10,INFO,Database Operation has been started
+20-08-2021 03:01:10,INFO,Creating Cassandra database object.
+20-08-2021 03:01:22,INFO,Cassandra database object created Successfully!
+20-08-2021 03:01:23,INFO,Inserting user input value in database.
+20-08-2021 03:01:24,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:01:24,INFO,Feature Encoding Started.
+20-08-2021 03:01:24,INFO,Here Some Exception Occured!  Exception Message: 'submit'
+20-08-2021 03:01:24,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+20-08-2021 03:01:24,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:01:24,INFO,Range checking process is going to start now.
+20-08-2021 03:01:24,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:01:24,INFO,Done range Checking of Numerical user input
+20-08-2021 03:01:24,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:01:24,INFO,Different user input value assign process started
+20-08-2021 03:01:24,INFO,Exception Occurred during variable creation of user input fo scalstoring in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:01:24,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:01:24,INFO,Features assigned in different variables.
+20-08-2021 03:01:24,INFO,Feature Scaling process started
+20-08-2021 03:01:24,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:01:24,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:01:24,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:01:24,INFO,Model.pickle file Reading.....
+20-08-2021 03:01:24,INFO,Model successfully loaded!
+20-08-2021 03:01:24,INFO,Prediction Started.
+20-08-2021 03:01:24,INFO,Value Error Occurred!
+20-08-2021 03:03:54,INFO,Requested Method : POST
+20-08-2021 03:03:54,INFO,Ready to take User Input.
+20-08-2021 03:03:54,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:03:54,INFO,Database Operation has been started
+20-08-2021 03:03:54,INFO,Creating Cassandra database object.
+20-08-2021 03:04:06,INFO,Cassandra database object created Successfully!
+20-08-2021 03:04:07,INFO,Inserting user input value in database.
+20-08-2021 03:04:07,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:04:08,INFO,Feature Encoding Started.
+20-08-2021 03:04:08,INFO,Feature Encoding Completed
+20-08-2021 03:04:08,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:04:08,INFO,Range checking process is going to start now.
+20-08-2021 03:04:08,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:04:08,INFO,Done range Checking of Numerical user input
+20-08-2021 03:04:08,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:04:08,INFO,Different user input value assign process started
+20-08-2021 03:04:08,INFO,Exception Occurred during variable creation of user input fo scalstoring in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:04:08,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:04:08,INFO,Features assigned in different variables.
+20-08-2021 03:04:08,INFO,Feature Scaling process started
+20-08-2021 03:04:08,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:04:08,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:04:08,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:04:08,INFO,Model.pickle file Reading.....
+20-08-2021 03:04:08,INFO,Model successfully loaded!
+20-08-2021 03:04:08,INFO,Prediction Started.
+20-08-2021 03:04:08,INFO,Value Error Occurred!
+20-08-2021 03:11:42,INFO,Requested Method : POST
+20-08-2021 03:11:42,INFO,Ready to take User Input.
+20-08-2021 03:11:42,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:11:42,INFO,Database Operation has been started
+20-08-2021 03:11:42,INFO,Creating Cassandra database object.
+20-08-2021 03:12:11,INFO,Cassandra database object created Successfully!
+20-08-2021 03:12:11,INFO,Inserting user input value in database.
+20-08-2021 03:12:11,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:12:11,INFO,Feature Encoding Started.
+20-08-2021 03:12:11,INFO,Feature Encoding Completed
+20-08-2021 03:12:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:12:11,INFO,Range checking process is going to start now.
+20-08-2021 03:12:11,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:12:11,INFO,Done range Checking of Numerical user input
+20-08-2021 03:12:11,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:12:11,INFO,Different user input value assign process started
+20-08-2021 03:12:11,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:12:11,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:12:11,INFO,Features assigned in different variables.
+20-08-2021 03:12:11,INFO,Feature Scaling process started
+20-08-2021 03:12:11,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:12:11,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:12:11,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:12:11,INFO,Model.pickle file Reading.....
+20-08-2021 03:12:11,INFO,Model successfully loaded!
+20-08-2021 03:12:11,INFO,Prediction Started.
+20-08-2021 03:12:11,INFO,Value Error Occurred!
+20-08-2021 03:13:30,INFO,Requested Method : POST
+20-08-2021 03:13:30,INFO,Ready to take User Input.
+20-08-2021 03:13:30,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:13:30,INFO,Database Operation has been started
+20-08-2021 03:13:30,INFO,Creating Cassandra database object.
+20-08-2021 03:14:05,INFO,Cassandra database object created Successfully!
+20-08-2021 03:14:06,INFO,Inserting user input value in database.
+20-08-2021 03:14:07,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:14:07,INFO,Feature Encoding Started.
+20-08-2021 03:14:07,INFO,Feature Encoding Completed
+20-08-2021 03:14:07,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:14:07,INFO,Range checking process is going to start now.
+20-08-2021 03:14:07,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:14:07,INFO,Done range Checking of Numerical user input
+20-08-2021 03:14:07,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:14:07,INFO,Different user input value assign process started
+20-08-2021 03:14:07,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:14:07,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:14:07,INFO,Features assigned in different variables.
+20-08-2021 03:14:07,INFO,Feature Scaling process started
+20-08-2021 03:14:07,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:14:07,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:14:07,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:14:07,INFO,Model.pickle file Reading.....
+20-08-2021 03:14:07,INFO,Model successfully loaded!
+20-08-2021 03:14:07,INFO,Prediction Started.
+20-08-2021 03:14:07,INFO,Value Error Occurred!
+20-08-2021 03:16:01,INFO,Requested Method : POST
+20-08-2021 03:16:01,INFO,Ready to take User Input.
+20-08-2021 03:16:01,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:16:01,INFO,Database Operation has been started
+20-08-2021 03:16:01,INFO,Creating Cassandra database object.
+20-08-2021 03:16:21,INFO,Cassandra database object created Successfully!
+20-08-2021 03:16:21,INFO,Inserting user input value in database.
+20-08-2021 03:16:21,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:16:21,INFO,Feature Encoding Started.
+20-08-2021 03:16:21,INFO,Feature Encoding Completed
+20-08-2021 03:16:21,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:16:21,INFO,Range checking process is going to start now.
+20-08-2021 03:16:21,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:16:21,INFO,Done range Checking of Numerical user input
+20-08-2021 03:16:21,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:16:21,INFO,Different user input value assign process started
+20-08-2021 03:16:21,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:16:21,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:16:21,INFO,Features assigned in different variables.
+20-08-2021 03:16:21,INFO,Feature Scaling process started
+20-08-2021 03:16:21,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:16:21,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:16:21,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:16:21,INFO,Model.pickle file Reading.....
+20-08-2021 03:16:21,INFO,Model successfully loaded!
+20-08-2021 03:16:21,INFO,Prediction Started.
+20-08-2021 03:16:21,INFO,Value Error Occurred!
+20-08-2021 03:16:55,INFO,Requested Method : POST
+20-08-2021 03:16:55,INFO,Ready to take User Input.
+20-08-2021 03:16:55,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:16:55,INFO,Database Operation has been started
+20-08-2021 03:16:55,INFO,Creating Cassandra database object.
+20-08-2021 03:17:12,INFO,Cassandra database object created Successfully!
+20-08-2021 03:17:13,INFO,Inserting user input value in database.
+20-08-2021 03:17:14,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:17:14,INFO,Feature Encoding Started.
+20-08-2021 03:17:14,INFO,Feature Encoding Completed
+20-08-2021 03:17:14,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:17:14,INFO,Range checking process is going to start now.
+20-08-2021 03:17:14,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:17:14,INFO,Done range Checking of Numerical user input
+20-08-2021 03:17:14,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:17:14,INFO,Different user input value assign process started
+20-08-2021 03:17:14,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:17:14,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:17:14,INFO,Features assigned in different variables.
+20-08-2021 03:17:14,INFO,Feature Scaling process started
+20-08-2021 03:17:14,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:17:14,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:17:14,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:17:14,INFO,Model.pickle file Reading.....
+20-08-2021 03:17:14,INFO,Model successfully loaded!
+20-08-2021 03:17:14,INFO,Prediction Started.
+20-08-2021 03:17:14,INFO,Value Error Occurred!
+20-08-2021 03:21:07,INFO,Requested Method : POST
+20-08-2021 03:21:07,INFO,Ready to take User Input.
+20-08-2021 03:21:07,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:21:07,INFO,Database Operation has been started
+20-08-2021 03:21:07,INFO,Creating Cassandra database object.
+20-08-2021 03:21:21,INFO,Cassandra database object created Successfully!
+20-08-2021 03:21:22,INFO,Inserting user input value in database.
+20-08-2021 03:21:23,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:21:23,INFO,Feature Encoding Started.
+20-08-2021 03:21:23,INFO,Feature Encoding Completed
+20-08-2021 03:21:23,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:21:23,INFO,Range checking process is going to start now.
+20-08-2021 03:21:23,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:21:23,INFO,Done range Checking of Numerical user input
+20-08-2021 03:21:23,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:21:23,INFO,Different user input value assign process started
+20-08-2021 03:21:23,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:21:23,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:21:23,INFO,Features assigned in different variables.
+20-08-2021 03:21:23,INFO,Feature Scaling process started
+20-08-2021 03:21:23,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:21:23,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:21:23,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:21:23,INFO,Model.pickle file Reading.....
+20-08-2021 03:21:23,INFO,Model successfully loaded!
+20-08-2021 03:21:23,INFO,Prediction Started.
+20-08-2021 03:21:23,INFO,Value Error Occurred!
+20-08-2021 03:24:38,INFO,Requested Method : POST
+20-08-2021 03:24:38,INFO,Ready to take User Input.
+20-08-2021 03:24:38,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:24:38,INFO,Database Operation has been started
+20-08-2021 03:24:38,INFO,Creating Cassandra database object.
+20-08-2021 03:24:52,INFO,Cassandra database object created Successfully!
+20-08-2021 03:24:54,INFO,Inserting user input value in database.
+20-08-2021 03:24:54,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:24:54,INFO,Feature Encoding Started.
+20-08-2021 03:24:54,INFO,Feature Encoding Completed
+20-08-2021 03:24:54,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:24:54,INFO,Range checking process is going to start now.
+20-08-2021 03:24:54,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:24:54,INFO,Done range Checking of Numerical user input
+20-08-2021 03:24:54,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:24:54,INFO,Different user input value assign process started
+20-08-2021 03:24:54,INFO,value is None 
+20-08-2021 03:24:54,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:24:54,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:24:54,INFO,Features assigned in different variables.
+20-08-2021 03:24:54,INFO,Feature Scaling process started
+20-08-2021 03:24:54,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:24:54,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:24:54,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:24:54,INFO,Model.pickle file Reading.....
+20-08-2021 03:24:55,INFO,Model successfully loaded!
+20-08-2021 03:24:55,INFO,Prediction Started.
+20-08-2021 03:24:55,INFO,Value Error Occurred!
+20-08-2021 03:31:34,INFO,Requested Method : POST
+20-08-2021 03:31:34,INFO,Ready to take User Input.
+20-08-2021 03:31:34,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:31:34,INFO,value is {'Education': ' Bachelors', 'Age': '55', 'Workclass': ' State-gov', 'Final_Weight': '45567', 'Occupation': ' Adm-clerical', 'Capital_Loss': '9', 'Relationship': ' Not-in-family', 'Capital_Gain': '457', 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': '56', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:31:34,INFO,Database Operation has been started
+20-08-2021 03:31:34,INFO,Creating Cassandra database object.
+20-08-2021 03:31:53,INFO,Cassandra database object created Successfully!
+20-08-2021 03:31:54,INFO,Inserting user input value in database.
+20-08-2021 03:31:54,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:31:54,INFO,value is {'Education': ' Bachelors', 'Age': 55, 'Workclass': ' State-gov', 'Final_Weight': 45567, 'Occupation': ' Adm-clerical', 'Capital_Loss': 9, 'Relationship': ' Not-in-family', 'Capital_Gain': 457, 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': 56, 'Country': ' United-States'} 
+20-08-2021 03:31:54,INFO,Feature Encoding Started.
+20-08-2021 03:31:54,INFO,Feature Encoding Completed
+20-08-2021 03:31:54,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:31:54,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:31:54,INFO,Range checking process is going to start now.
+20-08-2021 03:31:54,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:31:54,INFO,Done range Checking of Numerical user input
+20-08-2021 03:31:54,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:31:54,INFO,Different user input value assign process started
+20-08-2021 03:31:54,INFO,value is None 
+20-08-2021 03:31:54,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:31:54,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:31:54,INFO,Features assigned in different variables.
+20-08-2021 03:31:54,INFO,Feature Scaling process started
+20-08-2021 03:31:54,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:31:54,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:31:54,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:31:54,INFO,Model.pickle file Reading.....
+20-08-2021 03:31:55,INFO,Model successfully loaded!
+20-08-2021 03:31:55,INFO,Prediction Started.
+20-08-2021 03:31:55,INFO,Value Error Occurred!
+20-08-2021 03:35:00,INFO,Requested Method : POST
+20-08-2021 03:35:00,INFO,Ready to take User Input.
+20-08-2021 03:35:00,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:35:00,INFO,value is {'Education': ' Bachelors', 'Age': '55', 'Workclass': ' State-gov', 'Final_Weight': '45567', 'Occupation': ' Adm-clerical', 'Capital_Loss': '9', 'Relationship': ' Not-in-family', 'Capital_Gain': '457', 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': '56', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:35:00,INFO,Database Operation has been started
+20-08-2021 03:35:00,INFO,Creating Cassandra database object.
+20-08-2021 03:35:14,INFO,Cassandra database object created Successfully!
+20-08-2021 03:35:16,INFO,Inserting user input value in database.
+20-08-2021 03:35:16,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:35:16,INFO,value is {'Education': ' Bachelors', 'Age': 55, 'Workclass': ' State-gov', 'Final_Weight': 45567, 'Occupation': ' Adm-clerical', 'Capital_Loss': 9, 'Relationship': ' Not-in-family', 'Capital_Gain': 457, 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': 56, 'Country': ' United-States'} 
+20-08-2021 03:35:16,INFO,Feature Encoding Started.
+20-08-2021 03:35:16,INFO,Feature Encoding Completed
+20-08-2021 03:35:16,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:35:16,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:35:16,INFO,Range checking process is going to start now.
+20-08-2021 03:35:16,INFO,value is None 
+20-08-2021 03:35:16,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:35:16,INFO,Done range Checking of Numerical user input
+20-08-2021 03:35:16,INFO,value is None 
+20-08-2021 03:35:16,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:35:16,INFO,value is None 
+20-08-2021 03:35:16,INFO,Different user input value assign process started
+20-08-2021 03:35:16,INFO,value is None 
+20-08-2021 03:35:16,INFO,Exception Occurred during variable creation of user input to store scale data in dictionary format!  Exception Message: 'NoneType' object is not subscriptable
+20-08-2021 03:35:16,INFO,Process to create variable and store user input in that variable failed.
+20-08-2021 03:35:16,INFO,Features assigned in different variables.
+20-08-2021 03:35:16,INFO,Feature Scaling process started
+20-08-2021 03:35:16,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: 'FeatureScaling' object has no attribute 'X'
+20-08-2021 03:35:16,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+20-08-2021 03:35:16,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:35:16,INFO,Model.pickle file Reading.....
+20-08-2021 03:35:17,INFO,Model successfully loaded!
+20-08-2021 03:35:17,INFO,Prediction Started.
+20-08-2021 03:35:17,INFO,Value Error Occurred!
+20-08-2021 03:37:17,INFO,Requested Method : POST
+20-08-2021 03:37:17,INFO,Ready to take User Input.
+20-08-2021 03:37:17,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:37:17,INFO,value is {'Education': ' Bachelors', 'Age': '55', 'Workclass': ' State-gov', 'Final_Weight': '45567', 'Occupation': ' Adm-clerical', 'Capital_Loss': '9', 'Relationship': ' Not-in-family', 'Capital_Gain': '457', 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': '56', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:37:17,INFO,Database Operation has been started
+20-08-2021 03:37:17,INFO,Creating Cassandra database object.
+20-08-2021 03:37:37,INFO,Cassandra database object created Successfully!
+20-08-2021 03:37:37,INFO,Inserting user input value in database.
+20-08-2021 03:37:37,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:37:37,INFO,value is {'Education': ' Bachelors', 'Age': 55, 'Workclass': ' State-gov', 'Final_Weight': 45567, 'Occupation': ' Adm-clerical', 'Capital_Loss': 9, 'Relationship': ' Not-in-family', 'Capital_Gain': 457, 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': 56, 'Country': ' United-States'} 
+20-08-2021 03:37:37,INFO,Feature Encoding Started.
+20-08-2021 03:37:37,INFO,Feature Encoding Completed
+20-08-2021 03:37:37,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:37:37,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:37:37,INFO,Range checking process is going to start now.
+20-08-2021 03:37:37,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:37:37,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:37:37,INFO,Done range Checking of Numerical user input
+20-08-2021 03:37:37,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:37:37,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:37:37,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:37:37,INFO,Different user input value assign process started
+20-08-2021 03:37:37,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:37:37,INFO,stated done
+20-08-2021 03:37:37,INFO,Half done
+20-08-2021 03:37:37,INFO,full done
+20-08-2021 03:37:37,INFO,Different user input value assign process Finished
+20-08-2021 03:37:37,INFO,Features assigned in different variables.
+20-08-2021 03:37:37,INFO,Feature Scaling process started
+20-08-2021 03:37:38,INFO,Feature scaling process successfully executed!
+20-08-2021 03:37:38,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:37:38,INFO,Model.pickle file Reading.....
+20-08-2021 03:37:38,INFO,Model successfully loaded!
+20-08-2021 03:37:38,INFO,Prediction Started.
+20-08-2021 03:37:38,INFO,Prediction Successfully Completed!
+20-08-2021 03:37:38,INFO,Transferring Predicted Result on Web Page.
+20-08-2021 03:37:38,INFO,Result shown on Web Page.
+20-08-2021 03:37:57,INFO,Requested Method : POST
+20-08-2021 03:37:57,INFO,Ready to take User Input.
+20-08-2021 03:37:57,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:37:57,INFO,value is {'Education': ' Bachelors', 'Age': '55', 'Workclass': ' State-gov', 'Final_Weight': '45567', 'Occupation': ' Adm-clerical', 'Capital_Loss': '9', 'Relationship': ' Not-in-family', 'Capital_Gain': '457', 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': '56', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:37:57,INFO,Database Operation has been started
+20-08-2021 03:37:57,INFO,Creating Cassandra database object.
+20-08-2021 03:38:09,INFO,Cassandra database object created Successfully!
+20-08-2021 03:38:10,INFO,Inserting user input value in database.
+20-08-2021 03:38:11,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:38:11,INFO,value is {'Education': ' Bachelors', 'Age': 55, 'Workclass': ' State-gov', 'Final_Weight': 45567, 'Occupation': ' Adm-clerical', 'Capital_Loss': 9, 'Relationship': ' Not-in-family', 'Capital_Gain': 457, 'Martial_Status': ' Never-married', 'Sex': ' Male', 'Race': ' White', 'Hours_Per_Week': 56, 'Country': ' United-States'} 
+20-08-2021 03:38:11,INFO,Feature Encoding Started.
+20-08-2021 03:38:11,INFO,Feature Encoding Completed
+20-08-2021 03:38:11,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:38:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:38:11,INFO,Range checking process is going to start now.
+20-08-2021 03:38:11,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:38:11,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:38:11,INFO,Done range Checking of Numerical user input
+20-08-2021 03:38:11,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:38:11,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:38:11,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:38:11,INFO,Different user input value assign process started
+20-08-2021 03:38:11,INFO,value is {'Education': 13, 'Age': 55, 'Workclass': 1279, 'Final_Weight': 45567, 'Occupation': 3719, 'Capital_Loss': 9, 'Relationship': 7714, 'Capital_Gain': 457, 'Martial_Status': 9711, 'Sex': 0, 'Race': 25912, 'Hours_Per_Week': 56, 'Country': 27608} 
+20-08-2021 03:38:11,INFO,stated done
+20-08-2021 03:38:11,INFO,Half done
+20-08-2021 03:38:11,INFO,full done
+20-08-2021 03:38:11,INFO,Different user input value assign process Finished
+20-08-2021 03:38:11,INFO,Features assigned in different variables.
+20-08-2021 03:38:11,INFO,Feature Scaling process started
+20-08-2021 03:38:11,INFO,Feature scaling process successfully executed!
+20-08-2021 03:38:11,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:38:11,INFO,Model.pickle file Reading.....
+20-08-2021 03:38:11,INFO,Model successfully loaded!
+20-08-2021 03:38:11,INFO,Prediction Started.
+20-08-2021 03:38:11,INFO,Prediction Successfully Completed!
+20-08-2021 03:38:11,INFO,Transferring Predicted Result on Web Page.
+20-08-2021 03:38:11,INFO,Result shown on Web Page.
+20-08-2021 03:40:39,INFO,Requested Method : POST
+20-08-2021 03:40:39,INFO,Ready to take User Input.
+20-08-2021 03:40:39,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:40:39,INFO,value is {'Education': ' HS-grad', 'Age': '60', 'Workclass': ' Self-emp-inc', 'Final_Weight': '287927', 'Occupation': ' Exec-managerial', 'Capital_Loss': '0', 'Relationship': ' Wife', 'Capital_Gain': '15024', 'Martial_Status': ' Married-civ-spouse', 'Sex': ' Female', 'Race': ' White', 'Hours_Per_Week': '40', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:40:39,INFO,Database Operation has been started
+20-08-2021 03:40:39,INFO,Creating Cassandra database object.
+20-08-2021 03:41:03,INFO,Cassandra database object created Successfully!
+20-08-2021 03:41:04,INFO,Inserting user input value in database.
+20-08-2021 03:41:05,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:41:05,INFO,value is {'Education': ' HS-grad', 'Age': 60, 'Workclass': ' Self-emp-inc', 'Final_Weight': 287927, 'Occupation': ' Exec-managerial', 'Capital_Loss': 0, 'Relationship': ' Wife', 'Capital_Gain': 15024, 'Martial_Status': ' Married-civ-spouse', 'Sex': ' Female', 'Race': ' White', 'Hours_Per_Week': 40, 'Country': ' United-States'} 
+20-08-2021 03:41:05,INFO,Feature Encoding Started.
+20-08-2021 03:41:05,INFO,Feature Encoding Completed
+20-08-2021 03:41:05,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:41:05,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:41:05,INFO,Range checking process is going to start now.
+20-08-2021 03:41:05,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:41:05,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:41:05,INFO,Done range Checking of Numerical user input
+20-08-2021 03:41:05,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:41:05,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:41:05,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:41:05,INFO,Different user input value assign process started
+20-08-2021 03:41:05,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:41:05,INFO,stated done
+20-08-2021 03:41:05,INFO,Half done
+20-08-2021 03:41:05,INFO,full done
+20-08-2021 03:41:05,INFO,Different user input value assign process Finished
+20-08-2021 03:41:05,INFO,Features assigned in different variables.
+20-08-2021 03:41:05,INFO,Feature Scaling process started
+20-08-2021 03:41:05,INFO,Feature scaling process successfully executed!
+20-08-2021 03:41:05,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:41:05,INFO,Model.pickle file Reading.....
+20-08-2021 03:41:05,INFO,Model successfully loaded!
+20-08-2021 03:41:05,INFO,Prediction Started.
+20-08-2021 03:41:05,INFO,Prediction Successfully Completed!
+20-08-2021 03:41:05,INFO,Transferring Predicted Result on Web Page.
+20-08-2021 03:41:05,INFO,Result shown on Web Page.
+20-08-2021 03:43:59,INFO,Requested Method : POST
+20-08-2021 03:43:59,INFO,Ready to take User Input.
+20-08-2021 03:43:59,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:43:59,INFO,value is {'Education': ' HS-grad', 'Age': '60', 'Workclass': ' Self-emp-inc', 'Final_Weight': '287927', 'Occupation': ' Exec-managerial', 'Capital_Loss': '0', 'Relationship': ' Wife', 'Capital_Gain': '15024', 'Martial_Status': ' Married-civ-spouse', 'Sex': ' Female', 'Race': ' White', 'Hours_Per_Week': '40', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:43:59,INFO,Database Operation has been started
+20-08-2021 03:43:59,INFO,Creating Cassandra database object.
+20-08-2021 03:44:12,INFO,Cassandra database object created Successfully!
+20-08-2021 03:44:13,INFO,Inserting user input value in database.
+20-08-2021 03:44:14,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:44:14,INFO,value is {'Education': ' HS-grad', 'Age': 60, 'Workclass': ' Self-emp-inc', 'Final_Weight': 287927, 'Occupation': ' Exec-managerial', 'Capital_Loss': 0, 'Relationship': ' Wife', 'Capital_Gain': 15024, 'Martial_Status': ' Married-civ-spouse', 'Sex': ' Female', 'Race': ' White', 'Hours_Per_Week': 40, 'Country': ' United-States'} 
+20-08-2021 03:44:14,INFO,Feature Encoding Started.
+20-08-2021 03:44:14,INFO,Feature Encoding Completed
+20-08-2021 03:44:14,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:44:14,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:44:14,INFO,Range checking process is going to start now.
+20-08-2021 03:44:14,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:44:14,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:44:14,INFO,Done range Checking of Numerical user input
+20-08-2021 03:44:14,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:44:14,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:44:14,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:44:14,INFO,Different user input value assign process started
+20-08-2021 03:44:14,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:44:14,INFO,stated done
+20-08-2021 03:44:14,INFO,Half done
+20-08-2021 03:44:14,INFO,full done
+20-08-2021 03:44:14,INFO,Different user input value assign process Finished
+20-08-2021 03:44:14,INFO,Features assigned in different variables.
+20-08-2021 03:44:14,INFO,Feature Scaling process started
+20-08-2021 03:44:14,INFO,Feature scaling process successfully executed!
+20-08-2021 03:44:14,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:44:14,INFO,Model.pickle file Reading.....
+20-08-2021 03:44:14,INFO,Model successfully loaded!
+20-08-2021 03:44:14,INFO,Prediction Started.
+20-08-2021 03:44:14,INFO,Prediction Successfully Completed!
+20-08-2021 03:44:14,INFO,Transferring Predicted Result on Web Page.
+20-08-2021 03:44:14,INFO,Result shown on Web Page.
+20-08-2021 03:46:13,INFO,Requested Method : POST
+20-08-2021 03:46:13,INFO,Ready to take User Input.
+20-08-2021 03:46:13,INFO,User Input and some necessary variables with value are created!
+20-08-2021 03:46:13,INFO,value is {'Education': ' HS-grad', 'Age': '60', 'Workclass': ' Self-emp-inc', 'Final_Weight': '287927', 'Occupation': ' Exec-managerial', 'Capital_Loss': '0', 'Relationship': ' Wife', 'Capital_Gain': '15024', 'Martial_Status': ' Married-civ-spouse', 'Sex': ' Female', 'Race': ' White', 'Hours_Per_Week': '40', 'Country': ' United-States', 'submit': ' Check Income! '} 
+20-08-2021 03:46:13,INFO,Database Operation has been started
+20-08-2021 03:46:13,INFO,Creating Cassandra database object.
+20-08-2021 03:46:39,INFO,Cassandra database object created Successfully!
+20-08-2021 03:46:40,INFO,Inserting user input value in database.
+20-08-2021 03:46:40,INFO,User input Inserted in Database Successfully!
+20-08-2021 03:46:40,INFO,value is {'Education': ' HS-grad', 'Age': 60, 'Workclass': ' Self-emp-inc', 'Final_Weight': 287927, 'Occupation': ' Exec-managerial', 'Capital_Loss': 0, 'Relationship': ' Wife', 'Capital_Gain': 15024, 'Martial_Status': ' Married-civ-spouse', 'Sex': ' Female', 'Race': ' White', 'Hours_Per_Week': 40, 'Country': ' United-States'} 
+20-08-2021 03:46:40,INFO,Feature Encoding Started.
+20-08-2021 03:46:40,INFO,Feature Encoding Completed
+20-08-2021 03:46:40,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:46:40,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 03:46:40,INFO,Range checking process is going to start now.
+20-08-2021 03:46:40,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:46:40,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 03:46:40,INFO,Done range Checking of Numerical user input
+20-08-2021 03:46:40,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:46:40,INFO,Feature Scaling Process are going to start now.
+20-08-2021 03:46:40,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:46:40,INFO,Different user input value assign process started
+20-08-2021 03:46:40,INFO,value is {'Education': 9, 'Age': 60, 'Workclass': 1074, 'Final_Weight': 287927, 'Occupation': 3991, 'Capital_Loss': 0, 'Relationship': 1406, 'Capital_Gain': 15024, 'Martial_Status': 14059, 'Sex': 1, 'Race': 25912, 'Hours_Per_Week': 40, 'Country': 27608} 
+20-08-2021 03:46:40,INFO,stated done
+20-08-2021 03:46:40,INFO,Half done
+20-08-2021 03:46:40,INFO,full done
+20-08-2021 03:46:40,INFO,Different user input value assign process Finished
+20-08-2021 03:46:40,INFO,Features assigned in different variables.
+20-08-2021 03:46:40,INFO,Feature Scaling process started
+20-08-2021 03:46:41,INFO,Feature scaling process successfully executed!
+20-08-2021 03:46:41,INFO,Successfully exited from Features Scaling Function
+20-08-2021 03:46:41,INFO,Model.pickle file Reading.....
+20-08-2021 03:46:41,INFO,Model successfully loaded!
+20-08-2021 03:46:41,INFO,Prediction Started.
+20-08-2021 03:46:41,INFO,Prediction Successfully Completed!
+20-08-2021 03:46:41,INFO,Transferring Predicted Result on Web Page.
+20-08-2021 03:46:41,INFO,Result shown on Web Page.
+20-08-2021 03:56:02,INFO,Method is : Get
+20-08-2021 03:56:02,INFO,Not any process executed.
+20-08-2021 03:56:02,INFO,Showing None on Web page
+20-08-2021 18:15:13,INFO,Method is : Get
+20-08-2021 18:15:13,INFO,Not any process executed.
+20-08-2021 18:15:13,INFO,Showing None on Web page
+20-08-2021 21:18:44,INFO,Method is : Get
+20-08-2021 21:18:44,INFO,Not any process executed.
+20-08-2021 21:18:44,INFO,Showing None on Web page
+20-08-2021 21:19:09,INFO,Requested Method : POST
+20-08-2021 21:19:09,INFO,Ready to take User Input.
+20-08-2021 21:19:09,INFO,User Input and some necessary variables with value are created!
+20-08-2021 21:19:09,INFO,Database Operation has been started
+20-08-2021 21:19:09,INFO,Creating Cassandra database object.
+20-08-2021 21:19:21,INFO,Cassandra database object created Successfully!
+20-08-2021 21:19:22,INFO,Inserting user input value in database.
+20-08-2021 21:19:23,INFO,User input Inserted in Database Successfully!
+20-08-2021 21:19:23,INFO,Feature Encoding Started.
+20-08-2021 21:19:23,INFO,Feature Encoding Completed
+20-08-2021 21:19:23,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 21:19:23,INFO,Range checking process is going to start now.
+20-08-2021 21:19:23,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 21:19:23,INFO,Done range Checking of Numerical user input
+20-08-2021 21:19:23,INFO,Feature Scaling Process are going to start now.
+20-08-2021 21:19:23,INFO,Different user input value assign process started
+20-08-2021 21:19:23,INFO,stated done
+20-08-2021 21:19:23,INFO,Different user input value assign process Finished
+20-08-2021 21:19:23,INFO,Features assigned in different variables.
+20-08-2021 21:19:23,INFO,Feature Scaling process started
+20-08-2021 21:19:23,INFO,Feature scaling process successfully executed!
+20-08-2021 21:19:23,INFO,Successfully exited from Features Scaling Function
+20-08-2021 21:19:23,INFO,Model.pickle file Reading.....
+20-08-2021 21:19:23,INFO,Model successfully loaded!
+20-08-2021 21:19:23,INFO,Prediction Started.
+20-08-2021 21:19:23,INFO,Prediction Successfully Completed!
+20-08-2021 21:19:23,INFO,Transferring Predicted Result on Web Page.
+20-08-2021 21:19:23,INFO,Result shown on Web Page.
+20-08-2021 21:23:05,INFO,Requested Method : POST
+20-08-2021 21:23:05,INFO,Ready to take User Input.
+20-08-2021 21:23:05,INFO,User Input and some necessary variables with value are created!
+20-08-2021 21:23:05,INFO,Database Operation has been started
+20-08-2021 21:23:05,INFO,Creating Cassandra database object.
+20-08-2021 21:23:17,INFO,Cassandra database object created Successfully!
+20-08-2021 21:23:18,INFO,Inserting user input value in database.
+20-08-2021 21:23:19,INFO,User input Inserted in Database Successfully!
+20-08-2021 21:23:19,INFO,Feature Encoding Started.
+20-08-2021 21:23:19,INFO,Feature Encoding Completed
+20-08-2021 21:23:19,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+20-08-2021 21:23:19,INFO,Range checking process is going to start now.
+20-08-2021 21:23:19,INFO,Checking the range of Numerical Input field Started!
+20-08-2021 21:23:19,INFO,Done range Checking of Numerical user input
+21-08-2021 19:42:41,INFO,Method is : Get
+21-08-2021 19:42:41,INFO,Not any process executed.
+21-08-2021 19:42:41,INFO,Showing None on Web page
+21-08-2021 19:43:06,INFO,Requested Method : POST
+21-08-2021 19:43:06,INFO,Ready to take User Input.
+21-08-2021 19:43:06,INFO,User Input and some necessary variables with value are created!
+21-08-2021 19:43:06,INFO,Database Operation has been started
+21-08-2021 19:43:06,INFO,Creating Cassandra database object.
+21-08-2021 19:43:26,INFO,Cassandra database object created Successfully!
+21-08-2021 19:43:27,INFO,Inserting user input value in database.
+21-08-2021 19:43:27,INFO,User input Inserted in Database Successfully!
+21-08-2021 19:43:27,INFO,Feature Encoding Started.
+21-08-2021 19:43:27,INFO,Feature Encoding Completed
+21-08-2021 19:43:27,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 19:43:27,INFO,Range checking process is going to start now.
+21-08-2021 19:43:27,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 19:43:27,INFO,Done range Checking of Numerical user input
+21-08-2021 19:43:27,INFO,Feature Scaling Process are going to start now.
+21-08-2021 19:43:27,INFO,Different user input value assign process started
+21-08-2021 19:43:27,INFO,stated done
+21-08-2021 19:43:27,INFO,Different user input value assign process Finished
+21-08-2021 19:43:27,INFO,Features assigned in different variables.
+21-08-2021 19:43:27,INFO,Feature Scaling process started
+21-08-2021 19:43:28,INFO,Feature scaling process successfully executed!
+21-08-2021 19:43:28,INFO,Successfully exited from Features Scaling Function
+21-08-2021 19:43:28,INFO,Model.pickle file Reading.....
+21-08-2021 19:43:28,INFO,Model successfully loaded!
+21-08-2021 19:43:28,INFO,Prediction Started.
+21-08-2021 19:43:28,INFO,Prediction Successfully Completed!
+21-08-2021 19:43:28,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 19:43:28,INFO,Result shown on Web Page.
+21-08-2021 19:59:15,INFO,Method is : Get
+21-08-2021 19:59:15,INFO,Not any process executed.
+21-08-2021 19:59:15,INFO,Showing None on Web page
+21-08-2021 19:59:36,INFO,Requested Method : POST
+21-08-2021 19:59:36,INFO,Ready to take User Input.
+21-08-2021 19:59:36,INFO,User Input and some necessary variables with value are created!
+21-08-2021 19:59:36,INFO,Database Operation has been started
+21-08-2021 19:59:36,INFO,Value Error Occurred!
+21-08-2021 20:22:31,INFO,Method is : Get
+21-08-2021 20:22:31,INFO,Not any process executed.
+21-08-2021 20:22:31,INFO,Showing None on Web page
+21-08-2021 20:22:51,INFO,Requested Method : POST
+21-08-2021 20:22:51,INFO,Ready to take User Input.
+21-08-2021 20:22:51,INFO,User Input and some necessary variables with value are created!
+21-08-2021 20:22:51,INFO,Feature Encoding Started.
+21-08-2021 20:22:51,INFO,Here Some Exception Occurred!  Exception Message: exceptions must derive from BaseException
+21-08-2021 20:22:51,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 20:22:51,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 20:22:51,INFO,Range checking process is going to start now.
+21-08-2021 20:22:51,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 20:22:51,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: log() missing 1 required positional argument: 'log_msg'
+21-08-2021 20:22:51,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+21-08-2021 20:39:30,INFO,Requested Method : POST
+21-08-2021 20:39:30,INFO,Ready to take User Input.
+21-08-2021 20:39:30,INFO,User Input and some necessary variables with value are created!
+21-08-2021 20:39:30,INFO,Feature Encoding Started.
+21-08-2021 20:39:38,INFO,Requested Method : POST
+21-08-2021 20:39:38,INFO,Ready to take User Input.
+21-08-2021 20:39:38,INFO,User Input and some necessary variables with value are created!
+21-08-2021 20:39:38,INFO,Feature Encoding Started.
+21-08-2021 20:39:48,INFO,Requested Method : POST
+21-08-2021 20:39:48,INFO,Ready to take User Input.
+21-08-2021 20:39:48,INFO,User Input and some necessary variables with value are created!
+21-08-2021 20:39:48,INFO,Feature Encoding Started.
+21-08-2021 20:39:48,INFO,Feature Encoding Completed
+21-08-2021 20:39:48,INFO,Database Operation has been started
+21-08-2021 20:39:48,INFO,Creating Cassandra database object.
+21-08-2021 20:40:00,INFO,Cassandra database object created Successfully!
+21-08-2021 20:40:01,INFO,Inserting user input value in database.
+21-08-2021 20:40:01,INFO,User input Inserted in Database Successfully!
+21-08-2021 20:40:01,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 20:40:01,INFO,Range checking process is going to start now.
+21-08-2021 20:40:01,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 20:40:01,INFO,Done range Checking of Numerical user input
+21-08-2021 20:40:01,INFO,Feature Scaling Process are going to start now.
+21-08-2021 20:40:01,INFO,Different user input value assign process started
+21-08-2021 20:40:01,INFO,stated done
+21-08-2021 20:40:01,INFO,Different user input value assign process Finished
+21-08-2021 20:40:01,INFO,Features assigned in different variables.
+21-08-2021 20:40:01,INFO,Feature Scaling process started
+21-08-2021 20:40:02,INFO,Feature scaling process successfully executed!
+21-08-2021 20:40:02,INFO,Successfully exited from Features Scaling Function
+21-08-2021 20:40:02,INFO,Model.pickle file Reading.....
+21-08-2021 20:40:02,INFO,Model successfully loaded!
+21-08-2021 20:40:02,INFO,Prediction Started.
+21-08-2021 20:40:02,INFO,Prediction Successfully Completed!
+21-08-2021 20:40:02,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 20:40:02,INFO,Result shown on Web Page.
+21-08-2021 21:46:08,INFO,Method is : Get
+21-08-2021 21:46:08,INFO,Not any process executed.
+21-08-2021 21:46:08,INFO,Showing None on Web page
+21-08-2021 21:46:24,INFO,Requested Method : POST
+21-08-2021 21:46:24,INFO,Ready to take User Input.
+21-08-2021 21:46:24,INFO,User Input and some necessary variables with value are created!
+21-08-2021 21:46:24,INFO,Feature Encoding Started.
+21-08-2021 21:46:24,INFO,Feature Encoding Completed
+21-08-2021 21:46:24,INFO,Database Operation has been started
+21-08-2021 21:46:24,INFO,Creating Cassandra database object.
+21-08-2021 21:46:41,INFO,Cassandra database object created Successfully!
+21-08-2021 21:46:42,INFO,Inserting user input value in database.
+21-08-2021 21:46:43,INFO,User input Inserted in Database Successfully!
+21-08-2021 21:46:43,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 21:46:43,INFO,Range checking process is going to start now.
+21-08-2021 21:46:43,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 21:46:43,INFO,Done range Checking of Numerical user input
+21-08-2021 21:46:43,INFO,Feature Scaling Process are going to start now.
+21-08-2021 21:46:43,INFO,Different user input value assign process started
+21-08-2021 21:46:43,INFO,stated done
+21-08-2021 21:46:43,INFO,Different user input value assign process Finished
+21-08-2021 21:46:43,INFO,Features assigned in different variables.
+21-08-2021 21:46:43,INFO,Feature Scaling process started
+21-08-2021 21:46:43,INFO,Feature scaling process successfully executed!
+21-08-2021 21:46:43,INFO,Successfully exited from Features Scaling Function
+21-08-2021 21:46:43,INFO,Model.pickle file Reading.....
+21-08-2021 21:46:43,INFO,Model successfully loaded!
+21-08-2021 21:46:43,INFO,Prediction Started.
+21-08-2021 21:46:43,INFO,Prediction Successfully Completed!
+21-08-2021 21:46:43,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 21:46:43,INFO,Result shown on Web Page.
+21-08-2021 23:01:39,INFO,Method is : Get
+21-08-2021 23:01:39,INFO,Not any process executed.
+21-08-2021 23:01:39,INFO,Showing None on Web page
+21-08-2021 23:01:46,INFO,Requested Method : POST
+21-08-2021 23:01:46,INFO,Ready to take User Input.
+21-08-2021 23:01:46,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:01:46,INFO,Feature Encoding Started.
+21-08-2021 23:01:46,INFO,Feature Encoding Completed
+21-08-2021 23:01:46,INFO,Database Operation has been started
+21-08-2021 23:01:46,INFO,Creating Cassandra database object.
+21-08-2021 23:01:59,INFO,Cassandra database object created Successfully!
+21-08-2021 23:02:00,INFO,Inserting user input value in database.
+21-08-2021 23:02:00,INFO,User input Inserted in Database Successfully!
+21-08-2021 23:02:00,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:02:00,INFO,Range checking process is going to start now.
+21-08-2021 23:02:00,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:02:00,INFO,Done range Checking of Numerical user input
+21-08-2021 23:12:36,INFO,Method is : Get
+21-08-2021 23:12:36,INFO,Not any process executed.
+21-08-2021 23:12:36,INFO,Showing None on Web page
+21-08-2021 23:20:02,INFO,Method is : Get
+21-08-2021 23:20:02,INFO,Not any process executed.
+21-08-2021 23:20:02,INFO,Showing None on Web page
+21-08-2021 23:20:15,INFO,Requested Method : POST
+21-08-2021 23:20:15,INFO,Ready to take User Input.
+21-08-2021 23:20:15,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:20:15,INFO,Feature Encoding Started.
+21-08-2021 23:20:15,INFO,Feature Encoding Completed
+21-08-2021 23:20:15,INFO,Database Operation has been started
+21-08-2021 23:20:15,INFO,Creating Cassandra database object.
+21-08-2021 23:20:27,INFO,Cassandra database object created Successfully!
+21-08-2021 23:20:28,INFO,Inserting user input value in database.
+21-08-2021 23:20:28,INFO,User input Inserted in Database Successfully!
+21-08-2021 23:20:28,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:20:28,INFO,Range checking process is going to start now.
+21-08-2021 23:20:28,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:20:28,INFO,Done range Checking of Numerical user input
+21-08-2021 23:20:28,INFO,Feature Scaling Process are going to start now.
+21-08-2021 23:20:28,INFO,Different user input value assign process started
+21-08-2021 23:20:28,INFO,stated done
+21-08-2021 23:20:28,INFO,Different user input value assign process Finished
+21-08-2021 23:20:28,INFO,Features assigned in different variables.
+21-08-2021 23:20:28,INFO,Feature Scaling process started
+21-08-2021 23:20:29,INFO,Feature scaling process successfully executed!
+21-08-2021 23:20:29,INFO,Successfully exited from Features Scaling Function
+21-08-2021 23:20:29,INFO,Model.pickle file Reading.....
+21-08-2021 23:20:29,INFO,Model successfully loaded!
+21-08-2021 23:20:29,INFO,Prediction Started.
+21-08-2021 23:20:29,INFO,Prediction Successfully Completed!
+21-08-2021 23:20:29,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 23:20:29,INFO,Result shown on Web Page.
+21-08-2021 23:22:07,INFO,Requested Method : POST
+21-08-2021 23:22:07,INFO,Ready to take User Input.
+21-08-2021 23:22:07,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:22:07,INFO,Feature Encoding Started.
+21-08-2021 23:22:07,INFO,Feature Encoding Completed
+21-08-2021 23:22:07,INFO,Database Operation has been started
+21-08-2021 23:22:07,INFO,Creating Cassandra database object.
+21-08-2021 23:22:18,INFO,Cassandra database object created Successfully!
+21-08-2021 23:22:19,INFO,Inserting user input value in database.
+21-08-2021 23:22:20,INFO,User input Inserted in Database Successfully!
+21-08-2021 23:22:20,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:22:20,INFO,Range checking process is going to start now.
+21-08-2021 23:22:20,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:22:20,INFO,Done range Checking of Numerical user input
+21-08-2021 23:22:20,INFO,Feature Scaling Process are going to start now.
+21-08-2021 23:22:20,INFO,Different user input value assign process started
+21-08-2021 23:22:20,INFO,stated done
+21-08-2021 23:22:20,INFO,Different user input value assign process Finished
+21-08-2021 23:22:20,INFO,Features assigned in different variables.
+21-08-2021 23:22:20,INFO,Feature Scaling process started
+21-08-2021 23:22:20,INFO,Feature scaling process successfully executed!
+21-08-2021 23:22:20,INFO,Successfully exited from Features Scaling Function
+21-08-2021 23:22:20,INFO,Model.pickle file Reading.....
+21-08-2021 23:22:21,INFO,Model successfully loaded!
+21-08-2021 23:22:21,INFO,Prediction Started.
+21-08-2021 23:22:21,INFO,Prediction Successfully Completed!
+21-08-2021 23:22:21,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 23:22:21,INFO,Result shown on Web Page.
+21-08-2021 23:24:55,INFO,Requested Method : POST
+21-08-2021 23:24:55,INFO,Ready to take User Input.
+21-08-2021 23:24:55,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:24:55,INFO,Feature Encoding Started.
+21-08-2021 23:24:55,INFO,Feature Encoding Completed
+21-08-2021 23:24:55,INFO,Database Operation has been started
+21-08-2021 23:24:55,INFO,Creating Cassandra database object.
+21-08-2021 23:24:55,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:24:55,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:24:57,INFO,Requested Method : POST
+21-08-2021 23:24:57,INFO,Ready to take User Input.
+21-08-2021 23:24:57,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:24:57,INFO,Feature Encoding Started.
+21-08-2021 23:24:57,INFO,Feature Encoding Completed
+21-08-2021 23:24:57,INFO,Database Operation has been started
+21-08-2021 23:24:57,INFO,Creating Cassandra database object.
+21-08-2021 23:24:57,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:24:57,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:24:58,INFO,Requested Method : POST
+21-08-2021 23:24:58,INFO,Ready to take User Input.
+21-08-2021 23:24:58,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:24:58,INFO,Feature Encoding Started.
+21-08-2021 23:24:58,INFO,Feature Encoding Completed
+21-08-2021 23:24:58,INFO,Database Operation has been started
+21-08-2021 23:24:58,INFO,Creating Cassandra database object.
+21-08-2021 23:24:58,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:24:58,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:25:01,INFO,Requested Method : POST
+21-08-2021 23:25:01,INFO,Ready to take User Input.
+21-08-2021 23:25:01,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:25:01,INFO,Feature Encoding Started.
+21-08-2021 23:25:01,INFO,Feature Encoding Completed
+21-08-2021 23:25:01,INFO,Database Operation has been started
+21-08-2021 23:25:01,INFO,Creating Cassandra database object.
+21-08-2021 23:25:01,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:25:01,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:25:02,INFO,Requested Method : POST
+21-08-2021 23:25:02,INFO,Ready to take User Input.
+21-08-2021 23:25:02,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:25:02,INFO,Feature Encoding Started.
+21-08-2021 23:25:02,INFO,Feature Encoding Completed
+21-08-2021 23:25:02,INFO,Database Operation has been started
+21-08-2021 23:25:02,INFO,Creating Cassandra database object.
+21-08-2021 23:25:02,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:25:02,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:25:04,INFO,Requested Method : POST
+21-08-2021 23:25:04,INFO,Ready to take User Input.
+21-08-2021 23:25:04,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:25:04,INFO,Feature Encoding Started.
+21-08-2021 23:25:04,INFO,Feature Encoding Completed
+21-08-2021 23:25:04,INFO,Database Operation has been started
+21-08-2021 23:25:04,INFO,Creating Cassandra database object.
+21-08-2021 23:25:04,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:25:04,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:26:56,INFO,Requested Method : POST
+21-08-2021 23:26:56,INFO,Ready to take User Input.
+21-08-2021 23:26:56,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:26:56,INFO,Feature Encoding Started.
+21-08-2021 23:26:56,INFO,Feature Encoding Completed
+21-08-2021 23:26:56,INFO,Database Operation has been started
+21-08-2021 23:26:56,INFO,Creating Cassandra database object.
+21-08-2021 23:26:56,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:26:56,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:27:02,INFO,Requested Method : POST
+21-08-2021 23:27:02,INFO,Ready to take User Input.
+21-08-2021 23:27:02,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:27:02,INFO,Feature Encoding Started.
+21-08-2021 23:27:02,INFO,Feature Encoding Completed
+21-08-2021 23:27:02,INFO,Database Operation has been started
+21-08-2021 23:27:02,INFO,Creating Cassandra database object.
+21-08-2021 23:27:02,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+21-08-2021 23:27:02,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+21-08-2021 23:30:37,INFO,Requested Method : POST
+21-08-2021 23:30:37,INFO,Ready to take User Input.
+21-08-2021 23:30:37,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:30:37,INFO,Feature Encoding Started.
+21-08-2021 23:30:37,INFO,Feature Encoding Completed
+21-08-2021 23:30:37,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:30:37,INFO,Range checking process is going to start now.
+21-08-2021 23:30:37,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:30:37,INFO,Done range Checking of Numerical user input
+21-08-2021 23:30:37,INFO,Feature Scaling Process are going to start now.
+21-08-2021 23:30:37,INFO,Different user input value assign process started
+21-08-2021 23:30:37,INFO,stated done
+21-08-2021 23:30:37,INFO,Different user input value assign process Finished
+21-08-2021 23:30:37,INFO,Features assigned in different variables.
+21-08-2021 23:30:37,INFO,Feature Scaling process started
+21-08-2021 23:30:37,INFO,Feature scaling process successfully executed!
+21-08-2021 23:30:37,INFO,Successfully exited from Features Scaling Function
+21-08-2021 23:30:37,INFO,Model.pickle file Reading.....
+21-08-2021 23:30:37,INFO,Model successfully loaded!
+21-08-2021 23:30:37,INFO,Prediction Started.
+21-08-2021 23:30:37,INFO,Prediction Successfully Completed!
+21-08-2021 23:30:37,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 23:30:37,INFO,Result shown on Web Page.
+21-08-2021 23:30:57,INFO,Requested Method : POST
+21-08-2021 23:30:57,INFO,Ready to take User Input.
+21-08-2021 23:30:57,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:30:57,INFO,Feature Encoding Started.
+21-08-2021 23:30:57,INFO,Feature Encoding Completed
+21-08-2021 23:30:57,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:30:57,INFO,Range checking process is going to start now.
+21-08-2021 23:30:57,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:30:57,INFO,Done range Checking of Numerical user input
+21-08-2021 23:30:57,INFO,Feature Scaling Process are going to start now.
+21-08-2021 23:30:57,INFO,Different user input value assign process started
+21-08-2021 23:30:57,INFO,stated done
+21-08-2021 23:30:57,INFO,Different user input value assign process Finished
+21-08-2021 23:30:57,INFO,Features assigned in different variables.
+21-08-2021 23:30:57,INFO,Feature Scaling process started
+21-08-2021 23:30:57,INFO,Feature scaling process successfully executed!
+21-08-2021 23:30:57,INFO,Successfully exited from Features Scaling Function
+21-08-2021 23:30:57,INFO,Model.pickle file Reading.....
+21-08-2021 23:30:57,INFO,Model successfully loaded!
+21-08-2021 23:30:57,INFO,Prediction Started.
+21-08-2021 23:30:57,INFO,Prediction Successfully Completed!
+21-08-2021 23:30:57,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 23:30:57,INFO,Result shown on Web Page.
+21-08-2021 23:30:58,INFO,Requested Method : POST
+21-08-2021 23:30:58,INFO,Ready to take User Input.
+21-08-2021 23:30:58,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:30:58,INFO,Feature Encoding Started.
+21-08-2021 23:30:58,INFO,Feature Encoding Completed
+21-08-2021 23:30:58,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:30:58,INFO,Range checking process is going to start now.
+21-08-2021 23:30:58,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:30:58,INFO,Done range Checking of Numerical user input
+21-08-2021 23:30:58,INFO,Feature Scaling Process are going to start now.
+21-08-2021 23:30:58,INFO,Different user input value assign process started
+21-08-2021 23:30:58,INFO,stated done
+21-08-2021 23:30:58,INFO,Different user input value assign process Finished
+21-08-2021 23:30:58,INFO,Features assigned in different variables.
+21-08-2021 23:30:58,INFO,Feature Scaling process started
+21-08-2021 23:30:58,INFO,Feature scaling process successfully executed!
+21-08-2021 23:30:58,INFO,Successfully exited from Features Scaling Function
+21-08-2021 23:30:58,INFO,Model.pickle file Reading.....
+21-08-2021 23:30:58,INFO,Model successfully loaded!
+21-08-2021 23:30:58,INFO,Prediction Started.
+21-08-2021 23:30:58,INFO,Prediction Successfully Completed!
+21-08-2021 23:30:58,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 23:30:58,INFO,Result shown on Web Page.
+21-08-2021 23:31:03,INFO,Requested Method : POST
+21-08-2021 23:31:03,INFO,Ready to take User Input.
+21-08-2021 23:31:03,INFO,User Input and some necessary variables with value are created!
+21-08-2021 23:31:03,INFO,Feature Encoding Started.
+21-08-2021 23:31:03,INFO,Feature Encoding Completed
+21-08-2021 23:31:03,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+21-08-2021 23:31:03,INFO,Range checking process is going to start now.
+21-08-2021 23:31:03,INFO,Checking the range of Numerical Input field Started!
+21-08-2021 23:31:03,INFO,Done range Checking of Numerical user input
+21-08-2021 23:31:03,INFO,Feature Scaling Process are going to start now.
+21-08-2021 23:31:03,INFO,Different user input value assign process started
+21-08-2021 23:31:03,INFO,stated done
+21-08-2021 23:31:03,INFO,Different user input value assign process Finished
+21-08-2021 23:31:03,INFO,Features assigned in different variables.
+21-08-2021 23:31:03,INFO,Feature Scaling process started
+21-08-2021 23:31:03,INFO,Feature scaling process successfully executed!
+21-08-2021 23:31:03,INFO,Successfully exited from Features Scaling Function
+21-08-2021 23:31:03,INFO,Model.pickle file Reading.....
+21-08-2021 23:31:03,INFO,Model successfully loaded!
+21-08-2021 23:31:03,INFO,Prediction Started.
+21-08-2021 23:31:03,INFO,Prediction Successfully Completed!
+21-08-2021 23:31:03,INFO,Transferring Predicted Result on Web Page.
+21-08-2021 23:31:03,INFO,Result shown on Web Page.
+22-08-2021 00:12:20,INFO,Method is : Get
+22-08-2021 00:12:20,INFO,Not any process executed.
+22-08-2021 00:12:20,INFO,Showing None on Web page
+22-08-2021 00:16:23,INFO,Method is : Get
+22-08-2021 00:16:23,INFO,Not any process executed.
+22-08-2021 00:16:23,INFO,Showing None on Web page
+22-08-2021 00:16:24,INFO,Method is : Get
+22-08-2021 00:16:24,INFO,Not any process executed.
+22-08-2021 00:16:24,INFO,Showing None on Web page
+22-08-2021 00:16:25,INFO,Method is : Get
+22-08-2021 00:16:25,INFO,Not any process executed.
+22-08-2021 00:16:25,INFO,Showing None on Web page
+22-08-2021 00:16:40,INFO,Method is : Get
+22-08-2021 00:16:40,INFO,Not any process executed.
+22-08-2021 00:16:40,INFO,Showing None on Web page
+22-08-2021 00:17:06,INFO,Method is : Get
+22-08-2021 00:17:06,INFO,Not any process executed.
+22-08-2021 00:17:06,INFO,Showing None on Web page
+23-08-2021 11:05:33,INFO,Method is : Get
+23-08-2021 11:05:33,INFO,Not any process executed.
+23-08-2021 11:05:33,INFO,Showing None on Web page
+23-08-2021 11:06:03,INFO,Requested Method : POST
+23-08-2021 11:06:03,INFO,Ready to take User Input.
+23-08-2021 11:06:03,INFO,User Input and some necessary variables with value are created!
+23-08-2021 11:06:03,INFO,Feature Encoding Started.
+23-08-2021 11:06:03,INFO,Feature Encoding Completed
+23-08-2021 11:06:03,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+23-08-2021 11:06:03,INFO,Range checking process is going to start now.
+23-08-2021 11:06:03,INFO,Checking the range of Numerical Input field Started!
+23-08-2021 11:06:03,INFO,Done range Checking of Numerical user input
+23-08-2021 11:06:03,INFO,Feature Scaling Process are going to start now.
+23-08-2021 11:06:03,INFO,Different user input value assign process started
+23-08-2021 11:06:03,INFO,stated done
+23-08-2021 11:06:03,INFO,Different user input value assign process Finished
+23-08-2021 11:06:03,INFO,Features assigned in different variables.
+23-08-2021 11:06:03,INFO,Feature Scaling process started
+23-08-2021 11:06:04,INFO,Feature scaling process successfully executed!
+23-08-2021 11:06:04,INFO,Successfully exited from Features Scaling Function
+23-08-2021 11:06:04,INFO,Model.pickle file Reading.....
+23-08-2021 11:06:04,INFO,Model successfully loaded!
+23-08-2021 11:06:04,INFO,Prediction Started.
+23-08-2021 11:06:04,INFO,Prediction Successfully Completed!
+23-08-2021 11:06:04,INFO,Transferring Predicted Result on Web Page.
+23-08-2021 11:06:04,INFO,Result shown on Web Page.
+23-08-2021 11:10:08,INFO,Method is : Get
+23-08-2021 11:10:08,INFO,Not any process executed.
+23-08-2021 11:10:08,INFO,Showing None on Web page
+23-08-2021 11:10:12,INFO,Requested Method : POST
+23-08-2021 11:10:12,INFO,Ready to take User Input.
+23-08-2021 11:10:12,INFO,User Input and some necessary variables with value are created!
+23-08-2021 11:10:12,INFO,Feature Encoding Started.
+23-08-2021 11:10:12,INFO,Feature Encoding Completed
+23-08-2021 11:10:12,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+23-08-2021 11:10:12,INFO,Range checking process is going to start now.
+23-08-2021 11:10:12,INFO,Checking the range of Numerical Input field Started!
+23-08-2021 11:10:12,INFO,Done range Checking of Numerical user input
+23-08-2021 11:10:12,INFO,Feature Scaling Process are going to start now.
+23-08-2021 11:10:12,INFO,Different user input value assign process started
+23-08-2021 11:10:12,INFO,stated done
+23-08-2021 11:10:12,INFO,Different user input value assign process Finished
+23-08-2021 11:10:12,INFO,Features assigned in different variables.
+23-08-2021 11:10:12,INFO,Feature Scaling process started
+23-08-2021 11:10:12,INFO,Feature scaling process successfully executed!
+23-08-2021 11:10:12,INFO,Successfully exited from Features Scaling Function
+23-08-2021 11:10:12,INFO,Model.pickle file Reading.....
+23-08-2021 11:10:12,INFO,Model successfully loaded!
+23-08-2021 11:10:12,INFO,Prediction Started.
+23-08-2021 11:10:12,INFO,Prediction Successfully Completed!
+23-08-2021 11:10:12,INFO,Transferring Predicted Result on Web Page.
+23-08-2021 11:10:12,INFO,Result shown on Web Page.
+23-08-2021 11:11:11,INFO,Requested Method : POST
+23-08-2021 11:11:11,INFO,Ready to take User Input.
+23-08-2021 11:11:11,INFO,User Input and some necessary variables with value are created!
+23-08-2021 11:11:11,INFO,Feature Encoding Started.
+23-08-2021 11:11:11,INFO,Feature Encoding Completed
+23-08-2021 11:11:11,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+23-08-2021 11:11:11,INFO,Range checking process is going to start now.
+23-08-2021 11:11:11,INFO,Checking the range of Numerical Input field Started!
+23-08-2021 11:11:11,INFO,Done range Checking of Numerical user input
+23-08-2021 11:11:11,INFO,Feature Scaling Process are going to start now.
+23-08-2021 11:11:11,INFO,Different user input value assign process started
+23-08-2021 11:11:11,INFO,stated done
+23-08-2021 11:11:11,INFO,Different user input value assign process Finished
+23-08-2021 11:11:11,INFO,Features assigned in different variables.
+23-08-2021 11:11:11,INFO,Feature Scaling process started
+23-08-2021 11:11:11,INFO,Feature scaling process successfully executed!
+23-08-2021 11:11:11,INFO,Successfully exited from Features Scaling Function
+23-08-2021 11:11:11,INFO,Model.pickle file Reading.....
+23-08-2021 11:11:11,INFO,Model successfully loaded!
+23-08-2021 11:11:11,INFO,Prediction Started.
+23-08-2021 11:11:11,INFO,Prediction Successfully Completed!
+23-08-2021 11:11:11,INFO,Transferring Predicted Result on Web Page.
+23-08-2021 11:11:11,INFO,Result shown on Web Page.
+23-08-2021 11:25:40,INFO,Method is : Get
+23-08-2021 11:25:40,INFO,Not any process executed.
+23-08-2021 11:25:40,INFO,Showing None on Web page
+23-08-2021 15:18:38,INFO,Method is : Get
+23-08-2021 15:18:38,INFO,Not any process executed.
+23-08-2021 15:18:38,INFO,Showing None on Web page
+23-08-2021 15:18:47,INFO,Method is : Get
+23-08-2021 15:18:47,INFO,Not any process executed.
+23-08-2021 15:18:47,INFO,Showing None on Web page
+23-08-2021 21:12:49,INFO,Method is : Get
+23-08-2021 21:12:49,INFO,Not any process executed.
+23-08-2021 21:12:49,INFO,Showing None on Web page
+23-08-2021 21:13:01,INFO,Requested Method : POST
+23-08-2021 21:13:01,INFO,Ready to take User Input.
+23-08-2021 21:13:01,INFO,User Input and some necessary variables with value are created!
+23-08-2021 21:13:01,INFO,Feature Encoding Started.
+23-08-2021 21:13:01,INFO,Feature Encoding Completed
+23-08-2021 21:13:01,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+23-08-2021 21:13:01,INFO,Range checking process is going to start now.
+23-08-2021 21:13:01,INFO,Checking the range of Numerical Input field Started!
+23-08-2021 21:13:01,INFO,Done range Checking of Numerical user input
+23-08-2021 21:13:01,INFO,Feature Scaling Process are going to start now.
+23-08-2021 21:13:01,INFO,Different user input value assign process started
+23-08-2021 21:13:01,INFO,stated done
+23-08-2021 21:13:01,INFO,Different user input value assign process Finished
+23-08-2021 21:13:01,INFO,Features assigned in different variables.
+23-08-2021 21:13:01,INFO,Feature Scaling process started
+23-08-2021 21:13:01,INFO,Feature scaling process successfully executed!
+23-08-2021 21:13:01,INFO,Successfully exited from Features Scaling Function
+23-08-2021 21:13:01,INFO,Model.pickle file Reading.....
+23-08-2021 21:13:01,INFO,Model successfully loaded!
+23-08-2021 21:13:01,INFO,Prediction Started.
+23-08-2021 21:13:01,INFO,Prediction Successfully Completed!
+23-08-2021 21:13:01,INFO,Transferring Predicted Result on Web Page.
+23-08-2021 21:13:01,INFO,Result shown on Web Page.
