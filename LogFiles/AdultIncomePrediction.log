@@ -2036,3 +2036,109 @@
 24-08-2021 12:48:53,INFO,Range checking process is going to start now.
 24-08-2021 12:48:53,INFO,Checking the range of Numerical Input field Started!
 24-08-2021 12:48:53,INFO,Done range Checking of Numerical user input
+24-08-2021 12:55:28,INFO,Requested Method : POST
+24-08-2021 12:55:28,INFO,Ready to take User Input.
+24-08-2021 12:55:28,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:55:28,INFO,Feature Encoding Started.
+24-08-2021 12:55:28,INFO,Feature Encoding Completed
+24-08-2021 12:55:28,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:55:28,INFO,Range checking process is going to start now.
+24-08-2021 12:55:28,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:55:28,INFO,Done range Checking of Numerical user input
+24-08-2021 12:55:28,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:55:28,INFO,Different user input value assign process started
+24-08-2021 12:55:28,INFO,stated done
+24-08-2021 12:55:28,INFO,Different user input value assign process Finished
+24-08-2021 12:56:19,INFO,Requested Method : POST
+24-08-2021 12:56:19,INFO,Ready to take User Input.
+24-08-2021 12:56:19,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:19,INFO,Feature Encoding Started.
+24-08-2021 12:56:19,INFO,Feature Encoding Completed
+24-08-2021 12:56:19,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:19,INFO,Range checking process is going to start now.
+24-08-2021 12:56:19,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:19,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:19,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:19,INFO,Different user input value assign process started
+24-08-2021 12:56:19,INFO,stated done
+24-08-2021 12:56:19,INFO,Different user input value assign process Finished
+24-08-2021 12:56:19,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: __init__() should return None, not 'str'
+24-08-2021 12:56:19,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 12:56:49,INFO,Requested Method : POST
+24-08-2021 12:56:49,INFO,Ready to take User Input.
+24-08-2021 12:56:49,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:49,INFO,Feature Encoding Started.
+24-08-2021 12:56:49,INFO,Feature Encoding Completed
+24-08-2021 12:56:49,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:49,INFO,Range checking process is going to start now.
+24-08-2021 12:56:49,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:49,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:49,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:49,INFO,Different user input value assign process started
+24-08-2021 12:56:49,INFO,stated done
+24-08-2021 12:56:49,INFO,Different user input value assign process Finished
+24-08-2021 12:56:52,INFO,Requested Method : POST
+24-08-2021 12:56:52,INFO,Ready to take User Input.
+24-08-2021 12:56:52,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:52,INFO,Feature Encoding Started.
+24-08-2021 12:56:52,INFO,Feature Encoding Completed
+24-08-2021 12:56:52,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:52,INFO,Range checking process is going to start now.
+24-08-2021 12:56:52,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:52,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:52,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:52,INFO,Different user input value assign process started
+24-08-2021 12:56:52,INFO,stated done
+24-08-2021 12:56:52,INFO,Different user input value assign process Finished
+24-08-2021 12:56:52,INFO,Requested Method : POST
+24-08-2021 12:56:52,INFO,Ready to take User Input.
+24-08-2021 12:56:52,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:52,INFO,Feature Encoding Started.
+24-08-2021 12:56:52,INFO,Feature Encoding Completed
+24-08-2021 12:56:52,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:52,INFO,Range checking process is going to start now.
+24-08-2021 12:56:52,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:52,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:52,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:52,INFO,Different user input value assign process started
+24-08-2021 12:56:52,INFO,stated done
+24-08-2021 12:56:52,INFO,Different user input value assign process Finished
+24-08-2021 12:56:53,INFO,Requested Method : POST
+24-08-2021 12:56:53,INFO,Ready to take User Input.
+24-08-2021 12:56:53,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:53,INFO,Feature Encoding Started.
+24-08-2021 12:56:53,INFO,Feature Encoding Completed
+24-08-2021 12:56:53,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:53,INFO,Range checking process is going to start now.
+24-08-2021 12:56:53,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:53,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:53,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:53,INFO,Different user input value assign process started
+24-08-2021 12:56:53,INFO,stated done
+24-08-2021 12:56:53,INFO,Different user input value assign process Finished
+24-08-2021 12:56:53,INFO,Requested Method : POST
+24-08-2021 12:56:53,INFO,Ready to take User Input.
+24-08-2021 12:56:53,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:53,INFO,Feature Encoding Started.
+24-08-2021 12:56:53,INFO,Feature Encoding Completed
+24-08-2021 12:56:53,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:53,INFO,Range checking process is going to start now.
+24-08-2021 12:56:53,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:53,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:53,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:53,INFO,Different user input value assign process started
+24-08-2021 12:56:53,INFO,stated done
+24-08-2021 12:56:53,INFO,Different user input value assign process Finished
+24-08-2021 12:56:53,INFO,Requested Method : POST
+24-08-2021 12:56:53,INFO,Ready to take User Input.
+24-08-2021 12:56:53,INFO,User Input and some necessary variables with value are created!
+24-08-2021 12:56:53,INFO,Feature Encoding Started.
+24-08-2021 12:56:53,INFO,Feature Encoding Completed
+24-08-2021 12:56:53,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 12:56:53,INFO,Range checking process is going to start now.
+24-08-2021 12:56:53,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 12:56:53,INFO,Done range Checking of Numerical user input
+24-08-2021 12:56:53,INFO,Feature Scaling Process are going to start now.
+24-08-2021 12:56:53,INFO,Different user input value assign process started
+24-08-2021 12:56:53,INFO,stated done
+24-08-2021 12:56:53,INFO,Different user input value assign process Finished
