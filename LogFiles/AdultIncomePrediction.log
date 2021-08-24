@@ -1953,3 +1953,10 @@
 23-08-2021 21:13:01,INFO,Prediction Successfully Completed!
 23-08-2021 21:13:01,INFO,Transferring Predicted Result on Web Page.
 23-08-2021 21:13:01,INFO,Result shown on Web Page.
+24-08-2021 11:41:54,INFO,Method is : Get
+24-08-2021 11:41:54,INFO,Not any process executed.
+24-08-2021 11:41:54,INFO,Showing None on Web page
+24-08-2021 11:42:18,INFO,Method is : Get
+24-08-2021 11:42:18,INFO,Not any process executed.
+24-08-2021 11:42:18,INFO,Showing None on Web page
+24-08-2021 11:42:31,INFO,Requested Method : POST
