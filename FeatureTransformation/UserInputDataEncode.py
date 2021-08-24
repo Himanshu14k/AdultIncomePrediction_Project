@@ -92,7 +92,7 @@ class FeatureTransform:
                     continue
             self.input_data.pop('submit')
             self.logger_obj.log('INFO', 'Feature Encoding Completed')
-            #self.DB_Operation()
+            self.DB_Operation()
             return self.input_data
         except Exception as e:
             self.logger_obj.log('INFO', "Here Some Exception Occurred!  Exception Message: " + str(e))
