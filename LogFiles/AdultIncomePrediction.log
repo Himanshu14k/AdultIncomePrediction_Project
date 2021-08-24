@@ -2142,3 +2142,114 @@
 24-08-2021 12:56:53,INFO,Different user input value assign process started
 24-08-2021 12:56:53,INFO,stated done
 24-08-2021 12:56:53,INFO,Different user input value assign process Finished
+24-08-2021 13:05:44,INFO,Requested Method : POST
+24-08-2021 13:05:44,INFO,Ready to take User Input.
+24-08-2021 13:05:44,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:05:44,INFO,Feature Encoding Started.
+24-08-2021 13:05:44,INFO,Feature Encoding Completed
+24-08-2021 13:05:44,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:05:44,INFO,Range checking process is going to start now.
+24-08-2021 13:05:44,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:05:44,INFO,Done range Checking of Numerical user input
+24-08-2021 13:05:44,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:05:44,INFO,Different user input value assign process started
+24-08-2021 13:05:44,INFO,stated done
+24-08-2021 13:05:44,INFO,Different user input value assign process Finished
+24-08-2021 13:05:44,INFO,Features assigned in different variables.
+24-08-2021 13:05:44,INFO,Feature Scaling process started
+24-08-2021 13:05:44,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: '..scale.pickle'
+24-08-2021 13:05:44,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:05:44,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:05:44,INFO,Model.pickle file Reading.....
+24-08-2021 13:05:45,INFO,Model successfully loaded!
+24-08-2021 13:05:45,INFO,Prediction Started.
+24-08-2021 13:05:45,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:05:45,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 13:07:21,INFO,Requested Method : POST
+24-08-2021 13:07:21,INFO,Ready to take User Input.
+24-08-2021 13:07:21,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:07:21,INFO,Feature Encoding Started.
+24-08-2021 13:07:21,INFO,Feature Encoding Completed
+24-08-2021 13:07:21,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:07:21,INFO,Range checking process is going to start now.
+24-08-2021 13:07:21,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:07:21,INFO,Done range Checking of Numerical user input
+24-08-2021 13:07:21,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:07:21,INFO,Different user input value assign process started
+24-08-2021 13:07:21,INFO,stated done
+24-08-2021 13:07:21,INFO,Different user input value assign process Finished
+24-08-2021 13:07:21,INFO,Features assigned in different variables.
+24-08-2021 13:07:21,INFO,Feature Scaling process started
+24-08-2021 13:07:21,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: '../scale.pickle'
+24-08-2021 13:07:21,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:07:21,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:07:21,INFO,Model.pickle file Reading.....
+24-08-2021 13:07:21,INFO,Model successfully loaded!
+24-08-2021 13:07:21,INFO,Prediction Started.
+24-08-2021 13:07:21,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:07:21,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 13:19:34,INFO,Requested Method : POST
+24-08-2021 13:19:34,INFO,Ready to take User Input.
+24-08-2021 13:19:34,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:19:34,INFO,Feature Encoding Started.
+24-08-2021 13:19:34,INFO,Feature Encoding Completed
+24-08-2021 13:19:34,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:19:34,INFO,Range checking process is going to start now.
+24-08-2021 13:19:34,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:19:34,INFO,Done range Checking of Numerical user input
+24-08-2021 13:19:34,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:19:34,INFO,Different user input value assign process started
+24-08-2021 13:19:34,INFO,stated done
+24-08-2021 13:19:34,INFO,Different user input value assign process Finished
+24-08-2021 13:19:34,INFO,Features assigned in different variables.
+24-08-2021 13:19:34,INFO,Feature Scaling process started
+24-08-2021 13:19:34,INFO,Exception Occurred during Process of Feature Scaling!  Exception Message: [Errno 2] No such file or directory: '../scale.pickle'
+24-08-2021 13:19:34,INFO,Process of Feature scaling Failed. Exited from Scaling function of FeatureScalling class
+24-08-2021 13:19:34,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:19:34,INFO,Model.pickle file Reading.....
+24-08-2021 13:19:35,INFO,Model successfully loaded!
+24-08-2021 13:19:35,INFO,Prediction Started.
+24-08-2021 13:19:35,LogFiles/AdultIncomePrediction.log,Some Exception Occurred in home Function!  Exception Message: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+24-08-2021 13:19:35,LogFiles/AdultIncomePrediction.log,Process of Model Prediction Unsuccessful. Exited the home method of the app.py file
+24-08-2021 13:22:58,INFO,Requested Method : POST
+24-08-2021 13:22:58,INFO,Ready to take User Input.
+24-08-2021 13:22:58,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:22:58,INFO,Feature Encoding Started.
+24-08-2021 13:22:58,INFO,Feature Encoding Completed
+24-08-2021 13:22:58,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:22:58,INFO,Range checking process is going to start now.
+24-08-2021 13:22:58,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:22:58,INFO,Done range Checking of Numerical user input
+24-08-2021 13:22:58,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:22:58,INFO,Different user input value assign process started
+24-08-2021 13:22:58,INFO,stated done
+24-08-2021 13:22:58,INFO,Different user input value assign process Finished
+24-08-2021 13:22:58,INFO,Features assigned in different variables.
+24-08-2021 13:22:58,INFO,Feature Scaling process started
+24-08-2021 13:22:58,INFO,Feature scaling process successfully executed!
+24-08-2021 13:22:58,INFO,Successfully exited from Features Scaling Function
+24-08-2021 13:22:58,INFO,Model.pickle file Reading.....
+24-08-2021 13:22:58,INFO,Model successfully loaded!
+24-08-2021 13:22:58,INFO,Prediction Started.
+24-08-2021 13:23:55,INFO,Requested Method : POST
+24-08-2021 13:23:55,INFO,Ready to take User Input.
+24-08-2021 13:23:55,INFO,User Input and some necessary variables with value are created!
+24-08-2021 13:23:55,INFO,Feature Encoding Started.
+24-08-2021 13:23:55,INFO,Feature Encoding Completed
+24-08-2021 13:23:55,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 13:23:55,INFO,Range checking process is going to start now.
+24-08-2021 13:23:55,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 13:23:55,INFO,Done range Checking of Numerical user input
+24-08-2021 13:23:55,INFO,Feature Scaling Process are going to start now.
+24-08-2021 13:23:55,INFO,Different user input value assign process started
+24-08-2021 13:23:55,INFO,stated done
+24-08-2021 13:23:55,INFO,Different user input value assign process Finished
+24-08-2021 13:23:55,INFO,Features assigned in different variables.
+24-08-2021 13:23:55,INFO,Feature Scaling process started
+24-08-2021 13:23:56,INFO,Feature scaling process successfully executed!

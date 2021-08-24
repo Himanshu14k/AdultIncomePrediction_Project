@@ -36,7 +36,7 @@ class FeatureScaling:
         try:
             self.logger_obj.log("INFO", 'Feature Scaling process started')
             self.X = DataFrame(self.X)
-            sc = load("/home/maverick14k/Files/Ineuron/Projects/Internship/AdultIncomePrediction_Project/ModelTraining/scale.pickle")
+            sc = load("scale.pickle")
             self.X.iloc[:, 1:] = sc.transform(self.X.iloc[:, 1:])
             self.logger_obj.log("INFO", 'Feature scaling process successfully executed!')
             return self.X
