@@ -27,6 +27,7 @@ def home():
                 encode = FeatureTransform(logging, file_obj)
                 logging.log('INFO', 'User Input and some necessary variables with value are created!')
                 result = encode.feature_Encoding()
+                return render_template('index.html', form=form, value1=result)
                 if result:
                     logging.log('INFO',
                                 'Exited from feature_Encoding function in FeatureTransform after successful encoding ')
@@ -43,7 +44,6 @@ def home():
                         model = load("Models/finalized_model.pickle")
                         logging.log('INFO', 'Model successfully loaded!')
                         logging.log('INFO', 'Prediction Started.')
-                        return render_template('index.html', form=form, value1=result_lis)
                         res = model.predict(result_lis)
                         return render_template('index.html', form=form, value1="ExecutedX")
                         logging.log('INFO', 'Prediction Successfully Completed!')
