@@ -32,10 +32,10 @@ def home():
                                 'Exited from feature_Encoding function in FeatureTransform after successful encoding ')
                     logging.log('INFO', 'Range checking process is going to start now.')
                     flag, msg = encode.input_Limit()
-                    return render_template('index.html', form=form, value1="ExecutedM")
                     if flag != False:
                         logging.log('INFO', 'Feature Scaling Process are going to start now.')
                         scale = FeatureScaling(result, logging, file_obj)
+                        return render_template('index.html', form=form, value1="ExecutedZ")
                         logging.log('INFO', 'Features assigned in different variables.')
                         result_lis = scale.Scaling()
                         logging.log('INFO', 'Successfully exited from Features Scaling Function')
