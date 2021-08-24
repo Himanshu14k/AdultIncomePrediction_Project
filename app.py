@@ -12,6 +12,8 @@ SECRET_KEY = os.urandom(32)
 app.config['SECRET_KEY'] = SECRET_KEY
 
 file_obj = "LogFiles/AdultIncomePrediction.log"
+file_obj_db = "LogFiles/DataBase.log"
+logging_db = ApplicationLogger(file_obj_db)
 logging = ApplicationLogger(file_obj)
 
 @app.route('/', methods=['POST', 'GET'])
@@ -24,7 +26,7 @@ def home():
 
             if form.is_submitted():
                 logging.log('INFO', 'Ready to take User Input.')
-                encode = FeatureTransform(logging, file_obj)
+                encode = FeatureTransform(logging, logging_db)
                 logging.log('INFO', 'User Input and some necessary variables with value are created!')
                 result = encode.feature_Encoding()
                 
@@ -81,7 +83,7 @@ def retriveFromDB():
     :return: Render Databasedata.html Template
     """
     columna_Name = ("id", "Education", "Age", "WorkClass", "Final_Weight", "Occupation", "Capital_Loss", "Relationship", "Capital_Gain", "Martial_Status", "Sex", "Race", "Hours_Per_Week", "Country")
-    db_obj = CassandraDB()
+    db_obj = CassandraDB(logging_db)
     return render_template('Databasedata.html', heading=columna_Name, data=db_obj.showData())
 
 

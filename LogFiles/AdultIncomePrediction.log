@@ -2808,3 +2808,90 @@ Reshape your data either using array.reshape(-1, 1) if your data has a single fe
 24-08-2021 14:09:05,INFO,Prediction Successfully Completed!
 24-08-2021 14:09:05,INFO,Transferring Predicted Result on Web Page.
 24-08-2021 14:09:05,INFO,Result shown on Web Page.
+24-08-2021 14:26:58,INFO,Requested Method : POST
+24-08-2021 14:26:58,INFO,Ready to take User Input.
+24-08-2021 14:26:58,INFO,User Input and some necessary variables with value are created!
+24-08-2021 14:26:58,INFO,Feature Encoding Started.
+24-08-2021 14:26:58,INFO,Feature Encoding Completed
+24-08-2021 14:26:58,INFO,Database Operation has been started
+24-08-2021 14:26:58,INFO,Creating Cassandra database object.
+24-08-2021 14:26:58,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+24-08-2021 14:26:58,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+24-08-2021 15:42:40,INFO,Requested Method : POST
+24-08-2021 15:42:40,INFO,Ready to take User Input.
+24-08-2021 15:42:40,INFO,User Input and some necessary variables with value are created!
+24-08-2021 15:42:40,INFO,Feature Encoding Started.
+24-08-2021 15:42:40,INFO,Feature Encoding Completed
+24-08-2021 15:42:40,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 15:42:40,INFO,Range checking process is going to start now.
+24-08-2021 15:42:40,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 15:42:40,INFO,Done range Checking of Numerical user input
+24-08-2021 15:42:40,INFO,Feature Scaling Process are going to start now.
+24-08-2021 15:42:40,INFO,Different user input value assign process started
+24-08-2021 15:42:40,INFO,stated done
+24-08-2021 15:42:40,INFO,Different user input value assign process Finished
+24-08-2021 15:42:40,INFO,Features assigned in different variables.
+24-08-2021 15:42:40,INFO,Feature Scaling process started
+24-08-2021 15:42:40,INFO,Feature scaling process successfully executed!
+24-08-2021 15:42:40,INFO,Successfully exited from Features Scaling Function
+24-08-2021 15:42:40,INFO,Model.pickle file Reading.....
+24-08-2021 15:42:40,INFO,Model successfully loaded!
+24-08-2021 15:42:40,INFO,Prediction Started.
+24-08-2021 15:42:40,INFO,Prediction Successfully Completed!
+24-08-2021 15:42:40,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 15:42:40,INFO,Result shown on Web Page.
+24-08-2021 15:46:14,INFO,Requested Method : POST
+24-08-2021 15:46:14,INFO,Ready to take User Input.
+24-08-2021 15:46:14,INFO,User Input and some necessary variables with value are created!
+24-08-2021 15:46:14,INFO,Feature Encoding Started.
+24-08-2021 15:46:14,INFO,Feature Encoding Completed
+24-08-2021 15:46:14,INFO,Database Operation has been started
+24-08-2021 15:46:14,INFO,Creating Cassandra database object.
+24-08-2021 15:46:14,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+24-08-2021 15:46:14,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+24-08-2021 15:46:15,INFO,Requested Method : POST
+24-08-2021 15:46:15,INFO,Ready to take User Input.
+24-08-2021 15:46:15,INFO,User Input and some necessary variables with value are created!
+24-08-2021 15:46:15,INFO,Feature Encoding Started.
+24-08-2021 15:46:15,INFO,Feature Encoding Completed
+24-08-2021 15:46:15,INFO,Database Operation has been started
+24-08-2021 15:46:15,INFO,Creating Cassandra database object.
+24-08-2021 15:46:15,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+24-08-2021 15:46:15,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+24-08-2021 15:46:16,INFO,Requested Method : POST
+24-08-2021 15:46:16,INFO,Ready to take User Input.
+24-08-2021 15:46:16,INFO,User Input and some necessary variables with value are created!
+24-08-2021 15:46:16,INFO,Feature Encoding Started.
+24-08-2021 15:46:16,INFO,Feature Encoding Completed
+24-08-2021 15:46:16,INFO,Database Operation has been started
+24-08-2021 15:46:16,INFO,Creating Cassandra database object.
+24-08-2021 15:46:16,INFO,Here Some Exception Occurred!  Exception Message: [Errno 2] No such file or directory: '../LogFiles/DataBase.log'
+24-08-2021 15:46:16,INFO,Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class
+24-08-2021 17:00:04,INFO,Requested Method : POST
+24-08-2021 17:00:04,INFO,Ready to take User Input.
+24-08-2021 17:00:04,INFO,User Input and some necessary variables with value are created!
+24-08-2021 17:00:04,INFO,Feature Encoding Started.
+24-08-2021 17:00:04,INFO,Feature Encoding Completed
+24-08-2021 17:00:04,INFO,Database Operation has been started
+24-08-2021 17:00:04,INFO,Creating Cassandra database object.
+24-08-2021 17:00:15,INFO,Cassandra database object created Successfully!
+24-08-2021 17:00:16,INFO,Inserting user input value in database.
+24-08-2021 17:00:17,INFO,User input Inserted in Database Successfully!
+24-08-2021 17:00:17,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+24-08-2021 17:00:17,INFO,Range checking process is going to start now.
+24-08-2021 17:00:17,INFO,Checking the range of Numerical Input field Started!
+24-08-2021 17:00:17,INFO,Done range Checking of Numerical user input
+24-08-2021 17:00:17,INFO,Feature Scaling Process are going to start now.
+24-08-2021 17:00:17,INFO,Different user input value assign process started
+24-08-2021 17:00:17,INFO,stated done
+24-08-2021 17:00:17,INFO,Different user input value assign process Finished
+24-08-2021 17:00:17,INFO,Features assigned in different variables.
+24-08-2021 17:00:17,INFO,Feature Scaling process started
+24-08-2021 17:00:17,INFO,Feature scaling process successfully executed!
+24-08-2021 17:00:17,INFO,Successfully exited from Features Scaling Function
+24-08-2021 17:00:17,INFO,Model.pickle file Reading.....
+24-08-2021 17:00:17,INFO,Model successfully loaded!
+24-08-2021 17:00:17,INFO,Prediction Started.
+24-08-2021 17:00:17,INFO,Prediction Successfully Completed!
+24-08-2021 17:00:17,INFO,Transferring Predicted Result on Web Page.
+24-08-2021 17:00:17,INFO,Result shown on Web Page.

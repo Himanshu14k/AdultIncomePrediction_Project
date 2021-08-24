@@ -3,9 +3,9 @@ from flask import request
 from DatabaseOperation.Database import CassandraDB
 
 class FeatureTransform:
-    def __init__(self, logger_obj, file_obj):
+    def __init__(self, logger_obj, logger_obj_db):
         self.logger_obj = logger_obj
-        self.file_obj = file_obj
+        self.logger_obj_db = logger_obj_db
         try:
             self.form = SignUpForm()
             self.input_data = request.form.to_dict()
@@ -54,7 +54,7 @@ class FeatureTransform:
     def DB_Operation(self):
         self.logger_obj.log('INFO', 'Database Operation has been started')
         self.logger_obj.log('INFO', 'Creating Cassandra database object.')
-        db_Object = CassandraDB()
+        db_Object = CassandraDB(self.logger_obj_db)
         self.logger_obj.log('INFO', 'Cassandra database object created Successfully!')
         try:
             db_Object.useDB()

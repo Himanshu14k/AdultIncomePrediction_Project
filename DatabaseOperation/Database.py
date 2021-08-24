@@ -4,9 +4,8 @@ from Loggers.logger import ApplicationLogger
 
 class CassandraDB:
 
-    def __init__(self):
-        file_obj = "../LogFiles/DataBase.log"
-        self.logger_obj = ApplicationLogger(file_obj)
+    def __init__(self, logger_obj):
+        self.logger_obj = logger_obj
         try:
             self.logger_obj.log('INFO', 'Authentication of Database Started.')
             self.CLIENT_ID = 'kaYZmIsBJbtuZJNqEkoxBhoe'
