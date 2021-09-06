@@ -5,6 +5,9 @@ from Loggers.logger import ApplicationLogger
 class CassandraDB:
 
     def __init__(self, logger_obj):
+        """
+                :DESC: Creates connection with Database when backend thread runs.
+        """
         self.logger_obj = logger_obj
         try:
             self.logger_obj.log('INFO', 'Authentication of Database Started.')
@@ -29,6 +32,10 @@ class CassandraDB:
 
 
     def useDB(self):
+        """
+                :DESC: Creates table if not existed into database
+                :return:
+        """
         try:
             self.logger_obj.log('INFO', 'Using AdultCensusPrediction')
             self.session.execute("use adultcensusprediction")
@@ -43,6 +50,11 @@ class CassandraDB:
 
 
     def insertData(self, data):
+        """
+                :param result: Gets data from user and puts it into database
+                :return:
+        """
+        
         try:
             self.logger_obj.log('INFO', 'Insertion Process Started.')
             key = "id ,Education ,Age ,WorkClass ,Final_Weight ,Occupation ,Capital_Loss ,Relationship ,Capital_Gain ,Martial_Status ,Sex ,Race ,Hours_Per_Week ,Country"
@@ -60,6 +72,10 @@ class CassandraDB:
 
 
     def showData(self):
+        """
+                :DESC: Retrieves Data from Database
+                :return:
+        """
         try:
             self.logger_obj.log('INFO', 'Process to show data from Database Started.')
             self.session.execute("use AdultCensusPrediction")

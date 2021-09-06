@@ -2895,3 +2895,40 @@ Reshape your data either using array.reshape(-1, 1) if your data has a single fe
 24-08-2021 17:00:17,INFO,Prediction Successfully Completed!
 24-08-2021 17:00:17,INFO,Transferring Predicted Result on Web Page.
 24-08-2021 17:00:17,INFO,Result shown on Web Page.
+06-09-2021 07:57:51,INFO,Method is : Get
+06-09-2021 07:57:51,INFO,Not any process executed.
+06-09-2021 07:57:51,INFO,Showing None on Web page
+06-09-2021 07:58:14,INFO,Requested Method : POST
+06-09-2021 07:58:14,INFO,Ready to take User Input.
+06-09-2021 07:58:14,INFO,User Input and some necessary variables with value are created!
+06-09-2021 07:58:14,INFO,Feature Encoding Started.
+06-09-2021 07:58:14,INFO,Feature Encoding Completed
+06-09-2021 07:58:14,INFO,Database Operation has been started
+06-09-2021 07:58:14,INFO,Creating Cassandra database object.
+06-09-2021 07:58:27,INFO,Cassandra database object created Successfully!
+06-09-2021 07:58:28,INFO,Inserting user input value in database.
+06-09-2021 07:58:29,INFO,User input Inserted in Database Successfully!
+06-09-2021 07:58:29,INFO,Exited from feature_Encoding function in FeatureTransform after successful encoding 
+06-09-2021 07:58:29,INFO,Range checking process is going to start now.
+06-09-2021 07:58:29,INFO,Checking the range of Numerical Input field Started!
+06-09-2021 07:58:29,INFO,Done range Checking of Numerical user input
+06-09-2021 07:58:29,INFO,Feature Scaling Process are going to start now.
+06-09-2021 07:58:29,INFO,Different user input value assign process started
+06-09-2021 07:58:29,INFO,stated done
+06-09-2021 07:58:29,INFO,Different user input value assign process Finished
+06-09-2021 07:58:29,INFO,Features assigned in different variables.
+06-09-2021 07:58:29,INFO,Feature Scaling process started
+06-09-2021 07:58:30,INFO,Feature scaling process successfully executed!
+06-09-2021 07:58:30,INFO,Successfully exited from Features Scaling Function
+06-09-2021 07:58:30,INFO,Model.pickle file Reading.....
+06-09-2021 07:58:30,INFO,Model successfully loaded!
+06-09-2021 07:58:30,INFO,Prediction Started.
+06-09-2021 07:58:30,INFO,Prediction Successfully Completed!
+06-09-2021 07:58:30,INFO,Transferring Predicted Result on Web Page.
+06-09-2021 07:58:30,INFO,Result shown on Web Page.
+06-09-2021 07:58:44,INFO,Method is : Get
+06-09-2021 07:58:44,INFO,Not any process executed.
+06-09-2021 07:58:44,INFO,Showing None on Web page
+06-09-2021 07:59:08,INFO,Method is : Get
+06-09-2021 07:59:08,INFO,Not any process executed.
+06-09-2021 07:59:08,INFO,Showing None on Web page

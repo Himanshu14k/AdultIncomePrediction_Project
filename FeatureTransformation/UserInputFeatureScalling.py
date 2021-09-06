@@ -34,6 +34,13 @@ class FeatureScaling:
             self.logger_obj.log('INFO',"Process to create variable and store user input in that variable failed.")
 
     def Scaling(self):
+
+        """
+            :DESC: This Function takes data provided by user and performs Feature Scaling.
+                   It uses two files scale.pickle File
+            :return: Sends Data to perform model testing.
+            """
+
         try:
             self.logger_obj.log("INFO", 'Feature Scaling process started')
             self.X = DataFrame(self.X)

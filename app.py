@@ -18,6 +18,13 @@ logging = ApplicationLogger(file_obj)
 
 @app.route('/', methods=['POST', 'GET'])
 def home():
+    """
+        :Desc: This is home api, It handles exception together with rendering.
+               Adds combination provided by user into Database
+               Stores all the steps using logger
+        :return: Render index.html Template
+
+    """
     try:
         form = SignUpForm()
 

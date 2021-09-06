@@ -52,6 +52,12 @@ class FeatureTransform:
         self.dropDown_feature = ['Workclass', 'Education', "Martial_Status", 'Occupation', 'Relationship', 'Race', 'Sex', 'Country']
 
     def DB_Operation(self):
+        """
+            :DESC: This function send data into database. If table is not present it creates one and adds data.
+            :param result: provided by Thread creater
+            :return: None
+        """
+        
         self.logger_obj.log('INFO', 'Database Operation has been started')
         self.logger_obj.log('INFO', 'Creating Cassandra database object.')
         db_Object = CassandraDB(self.logger_obj_db)
@@ -68,6 +74,11 @@ class FeatureTransform:
 
 
     def feature_Encoding(self):
+        """
+            :DESC: This Function takes data provided by user and performs Label Encoding
+            :return: Sends Data to called function for further process like range checking and scaling.
+        """
+        
         try:
             self.logger_obj.log('INFO', 'Feature Encoding Started.')
             for data in self.input_data:
@@ -99,6 +110,12 @@ class FeatureTransform:
             self.logger_obj.log('INFO', "Process to encode categorical user input Unsuccessful. Exited the feature_Encoding of the FeatureTransform class")
 
     def input_Limit(self):
+        """
+            :DESC: This Function takes user data after encoding and check that input user data are within the limit or not. 
+
+            :return: Sends True and false.
+        """
+        
         try:
             self.logger_obj.log('INFO', 'Checking the range of Numerical Input field Started!')
             flag = True
@@ -170,8 +187,3 @@ class FeatureTransform:
         self.logger_obj.log('INFO', 'Joining the feature_Encoding Thread.')
         thread2.join()
         return thread1.result'''
-
-    '''def Encode(self):
-        self.DB_Operation()
-        self.feature_Encoding()
-        return self.input_data'''
